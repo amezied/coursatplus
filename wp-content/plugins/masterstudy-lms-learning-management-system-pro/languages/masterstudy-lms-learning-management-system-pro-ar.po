@@ -1,0 +1,2209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MasterStudy LMS Learning Management System PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 09:05+0000\n"
+"PO-Revision-Date: 2020-03-21 17:16+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: ar\n"
+
+#: stm-lms-templates/stm-lms-assignments.php:13
+#: stm-lms-templates/stm-lms-enterprise-groups.php:10
+#: stm-lms-templates/stm-lms-assignment.php:20
+msgid "Group Limit:"
+msgstr "حدود المجموعة"
+
+#: stm-lms-templates/stm-lms-assignments.php:29
+#: stm-lms-templates/stm-lms-enterprise-groups.php:22
+#: stm-lms-templates/stm-lms-gradebook.php:16
+#: stm-lms-templates/manage_course/single.php:40
+#: stm-lms-templates/account/private/parts/certificates.php:10
+msgid "Back to account"
+msgstr "الرجوع للحساب"
+
+#: stm-lms-templates/stm-lms-enterprise-group.php:14
+msgid "You wont be able to manage group anymore. Proceed with caution!"
+msgstr ""
+
+#: stm-lms-templates/stm-lms-enterprise-group.php:15
+msgid "Do you really want to delete this user from group?"
+msgstr ""
+
+#: stm-lms-templates/stm-lms-enterprise-group.php:34
+#, fuzzy
+msgid "Back to groups"
+msgstr "المجموعات"
+
+#: stm-lms-templates/stm-lms-enterprise-group.php:37
+#, fuzzy, php-format
+msgid "Group \"%s\""
+msgstr "المجموعة \"%s\" غير موجودة."
+
+#: stm-lms-templates/stm-lms-gradebook.php:19 lms/classes/addons.php:46
+msgid "The Gradebook"
+msgstr ""
+
+#: stm-lms-templates/stm-lms-gradebook.php:28 addons/udemy/main.php:72
+msgid "Search Courses"
+msgstr "البحث عن الدورات"
+
+#: stm-lms-templates/stm-lms-gradebook.php:32
+#, fuzzy
+msgid "Enter keyword here"
+msgstr "كلمة مفتاحية"
+
+#: stm-lms-templates/stm-lms-gradebook.php:39
+#, fuzzy
+msgid "Order by Views"
+msgstr "المشاهدات"
+
+#: stm-lms-templates/stm-lms-assignment.php:15
+#, fuzzy, php-format
+msgid "Status: %sPending%s"
+msgstr "كود الحالة: %s"
+
+#: stm-lms-templates/stm-lms-assignment.php:16
+#, fuzzy, php-format
+msgid "Status: %sPassed%s"
+msgstr "كود الحالة: %s"
+
+#: stm-lms-templates/stm-lms-assignment.php:17
+#, fuzzy, php-format
+msgid "Status: %sNon passed%s"
+msgstr "الحالة %s"
+
+#: stm-lms-templates/stm-lms-assignment.php:34
+#: stm-lms-templates/stm-lms-user-assignment.php:30
+msgid "Back to Assignments"
+msgstr "الواجبات"
+
+#: stm-lms-templates/stm-lms-user-points-history.php:18
+#: stm-lms-templates/stm-lms-user-points-distribution.php:18
+#: stm-lms-templates/bundles/my_bundles.php:17
+msgid "Back to Account"
+msgstr "الرجوع للحساب"
+
+#: stm-lms-templates/stm-lms-user-assignment.php:14
+msgid "Do you really want to approve this Essay?"
+msgstr ""
+
+#: stm-lms-templates/stm-lms-user-assignment.php:15
+msgid "Do you really want to reject this Essay?"
+msgstr ""
+
+#: lms/classes/addons.php:17
+#, fuzzy
+msgid "Udemy Course Importer"
+msgstr "Demo Importer"
+
+#: lms/classes/addons.php:22 stm-lms-templates/global/prerequisite.php:12
+msgid "Prerequisites"
+msgstr ""
+
+#: lms/classes/addons.php:26 addons/online_testing/main.php:19
+#, fuzzy
+msgid "Online Testing"
+msgstr "منشور"
+
+#: lms/classes/addons.php:31
+msgid "Statistics and Payout"
+msgstr "الإحصائيات"
+
+#: lms/classes/addons.php:36
+#, fuzzy
+msgid "Trial Courses"
+msgstr "لا دورات !"
+
+#: lms/classes/addons.php:41 addons/sequential_drip_content/main.php:185
+#: addons/sequential_drip_content/main.php:194
+#: addons/sequential_drip_content/main.php:199
+#, fuzzy
+msgid "Sequential Drip Content"
+msgstr "لا يوجد محتوى"
+
+#: lms/classes/addons.php:50
+msgid "Lessons Live Streaming"
+msgstr "البث المباشر للدورات"
+
+#: lms/classes/addons.php:54
+msgid "Group Courses"
+msgstr "جروبات الدورات"
+
+#: lms/classes/addons.php:59 addons/assignments/main.php:462
+#: stm-lms-templates/account/private/instructor_parts/assignments/grid.php:2
+msgid "Assignments"
+msgstr "الواجبات"
+
+#: lms/classes/addons.php:64
+msgid "Point system"
+msgstr "نظام النقاط"
+
+#: lms/classes/addons.php:69
+#, fuzzy
+msgid "Course Bundle"
+msgstr "دورة"
+
+#: lms/classes/manage_course.php:31
+#, fuzzy
+msgid "Your Course title here..."
+msgstr "عنوان الدورة"
+
+#: lms/classes/manage_course.php:32
+msgid "Course title"
+msgstr "عنوان الدورة"
+
+#: lms/classes/manage_course.php:33 lms/classes/manage_course.php:73
+#, fuzzy
+msgid "Choose category"
+msgstr "اختر تصنيفًا لعرض الإحصائيات"
+
+#: lms/classes/manage_course.php:334
+#, fuzzy
+msgid "Course Saved, redirecting..."
+msgstr "تم التسجيل بنجاح ، جاري إعادة التوجيه.."
+
+#: lms/classes/manage_course.php:403
+#, fuzzy
+msgid "Please log-in"
+msgstr "يرجى تسجيل الدخول لإكمال تبرعك."
+
+#: lms/classes/manage_course.php:413
+#, fuzzy
+msgid "It is not your course."
+msgstr "لقد تم نشر المادة الخاصة بك"
+
+#: lms/actions/create_announcement.php:14
+msgid "Announcement has been sent to course students."
+msgstr ""
+
+#: lms/actions/create_announcement.php:19
+#, fuzzy
+msgid "Please fill all fields"
+msgstr "رجاءً ادخل كلمة المرور."
+
+#: lms/actions/create_announcement.php:37
+#, fuzzy
+msgid "Announcement from Instructor"
+msgstr "المدرس"
+
+#: addons/statistics/main.php:25
+msgid "Statistics"
+msgstr "الإحصائيات"
+
+#: addons/course_bundle/settings.php:35 addons/udemy/main.php:47
+#: addons/assignments/main.php:394 addons/sequential_drip_content/main.php:42
+#: addons/shareware/main.php:38 addons/enterprise_courses/main.php:121
+#, fuzzy
+msgid "Credentials"
+msgstr "وثائق الـ API"
+
+#: addons/course_bundle/settings.php:39
+#, fuzzy
+msgid "Bundles quantity limit"
+msgstr "Quantity:"
+
+#: addons/course_bundle/settings.php:43
+#, fuzzy
+msgid "Courses in bundle quantity limit"
+msgstr "حد الدورات"
+
+#: addons/course_bundle/settings.php:44
+msgid ""
+"By default limit is 5. Five courses - fits the best in bundle on frontend."
+msgstr ""
+
+#: addons/course_bundle/settings.php:69
+#, fuzzy
+msgid "Course Bundle settings"
+msgstr "إعدادات للبريد عندما تُرفض الدورة"
+
+#: addons/course_bundle/cart.php:40 addons/course_bundle/cart.php:47
+#: addons/enterprise_courses/main.php:384
+#: addons/enterprise_courses/main.php:393
+#, fuzzy
+msgid "Go to Cart"
+msgstr "السلة"
+
+#: addons/course_bundle/cart.php:62
+#, fuzzy
+msgid "Bundle"
+msgstr ""
+"هل تريد ميزات مجانية بالكامل؟ إنقر <a href=\"%s\">هنا</a> لتثبيت حزمة ملحقات "
+"LearnPress مجانًا!"
+
+#: addons/course_bundle/main.php:29 addons/course_bundle/main.php:30
+#, fuzzy
+msgid "Course Bundles"
+msgstr "الدورة"
+
+#: addons/course_bundle/main.php:60
+msgid "Bundles"
+msgstr ""
+
+#: addons/course_bundle/my-bundle.php:82 addons/course_bundle/my-bundle.php:116
+#, fuzzy
+msgid "Please, upload bundle image"
+msgstr "تحميل صورة الغلاف"
+
+#: addons/course_bundle/my-bundle.php:143
+#, fuzzy
+msgid "Bundle saved. Redirecting..."
+msgstr "تم التسجيل بنجاح ، جاري إعادة التوجيه.."
+
+#: addons/course_bundle/my-bundle.php:164 addons/assignments/main.php:646
+#, fuzzy
+msgid "Invalid File"
+msgstr "Invalid file type"
+
+#: addons/course_bundle/my-bundle.php:176 addons/assignments/main.php:672
+#, fuzzy
+msgid "Invalid file extension"
+msgstr "Invalid file type"
+
+#: addons/course_bundle/my-bundles.php:46
+msgid "Quota exceeded"
+msgstr ""
+
+#: addons/udemy/import.php:76
+#, fuzzy
+msgid "Importing Curriculum"
+msgstr "منهاج"
+
+#: addons/udemy/import.php:168
+#, fuzzy
+msgid "Get on Udemy"
+msgstr "الحصول على الإتجاه"
+
+#: addons/udemy/import.php:284
+#: stm-lms-templates/course/classic/parts/tabs/curriculum.php:83
+msgid "Preview"
+msgstr "معاينة"
+
+#: addons/udemy/main.php:51
+#, fuzzy
+msgid "Client ID"
+msgstr "إينستاجرام معرف العميل:"
+
+#: addons/udemy/main.php:56
+#, fuzzy
+msgid "Client Secret"
+msgstr "معلومات الزبون"
+
+#: addons/udemy/main.php:61
+msgid "Udemy Rakuten Affiliate script"
+msgstr ""
+
+#: addons/udemy/main.php:68
+#, fuzzy
+msgid "Search"
+msgstr "بحث"
+
+#: addons/udemy/main.php:77
+#, fuzzy
+msgid "Imported Courses"
+msgstr "Imported"
+
+#: addons/udemy/main.php:107
+msgid "STM LMS Udemy Settings"
+msgstr ""
+
+#: addons/udemy/main.php:113 addons/online_testing/main.php:44
+#, fuzzy
+msgid "How to use"
+msgstr "How to Get Support"
+
+#: addons/udemy/main.php:135
+#, fuzzy
+msgid "Please, enter Udemy API Credentials"
+msgstr "الرجاء ادخال مفتاح API لـ Envato Marketplace ."
+
+#: addons/udemy/main.php:163 stm-lms-templates/gradebook/course-details.php:46
+msgid "Nothing Found"
+msgstr "لم يتم العثور على الصفحة ..."
+
+#: addons/udemy/main.php:218
+msgid "Published"
+msgstr "منشور"
+
+#: addons/assignments/main.php:398
+#, fuzzy
+msgid "Number of allowed attachments"
+msgstr "الملفات المرفقة"
+
+#: addons/assignments/main.php:403
+#, fuzzy
+msgid "Max file size (Mb)"
+msgstr "حد أقصى للرفع (ميجابايت)"
+
+#: addons/assignments/main.php:429
+#, fuzzy
+msgid "Assignment settings"
+msgstr "الواجب"
+
+#: addons/assignments/main.php:461 addons/assignments/main.php:513
+#: addons/assignments/main.php:524
+#, fuzzy
+msgid "Assignment"
+msgstr "الواجب"
+
+#: addons/assignments/main.php:473
+#, fuzzy
+msgid "Student Assignment"
+msgstr "الواجب"
+
+#: addons/assignments/main.php:474
+#: stm-lms-templates/account/private/parts/assignments_btn.php:10
+msgid "Student Assignments"
+msgstr "الواجبات"
+
+#: addons/assignments/main.php:528
+#, fuzzy
+msgid "# of try"
+msgstr "حاول ثانياً"
+
+#: addons/assignments/main.php:532
+#, fuzzy
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+#: addons/assignments/main.php:536
+#, fuzzy
+msgid "End Date"
+msgstr "تاريخ انتهاء سعر التخفيض، بتوقيت GMT."
+
+#: addons/assignments/main.php:540
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:8
+msgid "Status"
+msgstr "الحالة"
+
+#: addons/assignments/main.php:542
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:30
+#, fuzzy
+msgid "Passed"
+msgstr "تم الاجتياز"
+
+#: addons/assignments/main.php:543
+#, fuzzy
+msgid "Not passed"
+msgstr "تم الاجتياز"
+
+#: addons/assignments/main.php:548
+#, fuzzy
+msgid "Editor Comment"
+msgstr "0 تعليق"
+
+#: addons/assignments/main.php:552
+msgid "Assignment ID (dont change)"
+msgstr ""
+
+#: addons/assignments/main.php:556
+msgid "Student ID (dont change)"
+msgstr ""
+
+#: addons/assignments/main.php:560
+#, fuzzy
+msgid "Course ID (dont change)"
+msgstr "تغيير وضع الدورة"
+
+#: addons/assignments/main.php:664
+msgid "File is too large. Split it up to several archives."
+msgstr ""
+
+#: addons/assignments/main.php:683
+#, fuzzy
+msgid "You are out of file limit."
+msgstr "Remote file is too large, limit is %s"
+
+#: addons/assignments/main.php:843
+msgid "Check new assignment, send by student."
+msgstr ""
+
+#: addons/assignments/main.php:844
+#, fuzzy
+msgid "New assignment"
+msgstr "الواجب"
+
+#: addons/assignments/user_assignment.class.php:116
+#, fuzzy
+msgid "Your assignment was checked"
+msgstr "الواجب"
+
+#: addons/assignments/user_assignment.class.php:117
+#, fuzzy
+msgid "Assignment status change."
+msgstr "الواجب"
+
+#: addons/online_testing/main.php:65
+msgid "Close"
+msgstr "Close"
+
+#: addons/sequential_drip_content/main.php:46
+#, fuzzy
+msgid "Lock lessons sequentially"
+msgstr "طريقة الاقفال"
+
+#: addons/sequential_drip_content/main.php:72
+msgid "Sequential Drip Content Settings"
+msgstr ""
+
+#: addons/shareware/main.php:42
+#, fuzzy
+msgid "Number of free lessons"
+msgstr "مجانية"
+
+#: addons/shareware/main.php:67
+#, fuzzy
+msgid "Trial Courses Settings"
+msgstr "اعدادات الدروس"
+
+#: addons/shareware/main.php:100
+#, fuzzy
+msgid "Trial Course"
+msgstr "الدورة"
+
+#: addons/prerequisite/main.php:22
+#, fuzzy
+msgid "Course Prerequisites"
+msgstr "الدورة"
+
+#: addons/prerequisite/main.php:31 addons/enterprise_courses/main.php:664
+#: stm-lms-templates/manage_course/parts/tabs.php:7
+#: stm-lms-templates/course/udemy/parts/tabs.php:7
+#: stm-lms-templates/course/classic/parts/tabs.php:7
+#: stm-lms-templates/manage_course/forms/js/wizard.php:53
+#: stm-lms-templates/manage_course/forms/js/wizard.php:61
+#: stm-lms-templates/manage_course/forms/js/wizard.php:69
+msgid "Curriculum"
+msgstr "منهاج"
+
+#: addons/prerequisite/main.php:36
+#: stm-lms-templates/manage_course/global/prerequisites.php:21
+#, fuzzy
+msgid "Prerequisite Courses"
+msgstr "لا دورات !"
+
+#: addons/prerequisite/main.php:40
+#: stm-lms-templates/manage_course/global/prerequisites.php:31
+msgid "Prerequisite Courses Passing Percent (%)"
+msgstr ""
+
+#: addons/point_system/settings.php:54
+#, fuzzy
+msgid "Interface"
+msgstr ""
+"اختبار القيادة لمستقبل إضافة WooCommerce. واجهة أسرع، وجافا سكريبت مدعومة "
+"بميزات وتقارير جديدة ومثيرة."
+
+#: addons/point_system/settings.php:58
+#, fuzzy
+msgid "Point Image"
+msgstr "نقطة"
+
+#: addons/point_system/settings.php:62
+#, fuzzy
+msgid "Point Label"
+msgstr "نقطة"
+
+#: addons/point_system/settings.php:66
+#, fuzzy
+msgid "Point Rate"
+msgstr "نقطة"
+
+#: addons/point_system/settings.php:67
+msgid "Point rate relative to price (Ex.: 100 - means 100 points equal 1$)"
+msgstr ""
+
+#: addons/point_system/settings.php:72
+#, fuzzy
+msgid "Enable Affiliate Points"
+msgstr "منتج خارجي"
+
+#: addons/point_system/settings.php:73
+msgid ""
+"Your users can share their affiliate link, and get points for activity of "
+"users, they invited."
+msgstr ""
+
+#: addons/point_system/settings.php:77
+#, fuzzy
+msgid "Affiliate Points percent (%)"
+msgstr "منتج خارجي"
+
+#: addons/point_system/settings.php:78
+msgid "Number of percent, user will receive from affiliate"
+msgstr ""
+
+#: addons/point_system/settings.php:84
+#: stm-lms-templates/points/distribution.php:9
+msgid "Points Distribution"
+msgstr ""
+
+#: addons/point_system/settings.php:108
+#, fuzzy
+msgid "Point system settings"
+msgstr "نقطة"
+
+#: addons/point_system/points.php:8
+#, fuzzy
+msgid "User registered"
+msgstr "تم التسجيل بنجاح"
+
+#: addons/point_system/points.php:9
+msgid "Register on site to get start points."
+msgstr ""
+
+#: addons/point_system/points.php:10 addons/point_system/points.php:84
+#, fuzzy
+msgid "Once only"
+msgstr "أسبوعي"
+
+#: addons/point_system/points.php:14
+#, fuzzy
+msgid "Course purchased"
+msgstr "تم شراءها"
+
+#: addons/point_system/points.php:15
+#, fuzzy
+msgid "Purchase Course on site."
+msgstr "عذرًا، لا يمكنك شراء هذه الدورة"
+
+#: addons/point_system/points.php:16 addons/point_system/points.php:22
+#: addons/point_system/points.php:28 addons/point_system/points.php:34
+#: addons/point_system/points.php:40 addons/point_system/points.php:46
+#: addons/point_system/points.php:52 addons/point_system/points.php:58
+#: addons/point_system/points.php:91
+msgid "Repeated"
+msgstr ""
+
+#: addons/point_system/points.php:20
+#, fuzzy
+msgid "Assignment Passed"
+msgstr "تم الاجتياز"
+
+#: addons/point_system/points.php:21
+msgid "Pass Assignment with approved label from Instructor."
+msgstr ""
+
+#: addons/point_system/points.php:26
+#, fuzzy
+msgid "Certificate Received"
+msgstr "الشهادة"
+
+#: addons/point_system/points.php:27
+msgid ""
+"Complete course with minimum threshold, and download certificate from your "
+"account."
+msgstr ""
+
+#: addons/point_system/points.php:32
+#, fuzzy
+msgid "Quiz Passed"
+msgstr "تم الاجتياز"
+
+#: addons/point_system/points.php:33
+#, fuzzy
+msgid "Complete quiz with minimum threshold."
+msgstr "إضافة الإختبار الى القسم قد إكتمل!"
+
+#: addons/point_system/points.php:38
+#, fuzzy
+msgid "Quiz Passed Perfectly"
+msgstr "تم الاجتياز"
+
+#: addons/point_system/points.php:39
+#, fuzzy
+msgid "Complete quiz with 100% progress."
+msgstr "إضافة الإختبار الى القسم قد إكتمل!"
+
+#: addons/point_system/points.php:44
+#, fuzzy
+msgid "Lesson Passed"
+msgstr "تم الاجتياز"
+
+#: addons/point_system/points.php:45
+#, fuzzy
+msgid "Complete lesson in a course."
+msgstr "إضافة الدرس الى القسم قد إكتمل!"
+
+#: addons/point_system/points.php:50
+#, fuzzy
+msgid "Group Joined"
+msgstr "المجموعة"
+
+#: addons/point_system/points.php:51
+#, fuzzy
+msgid "Become a member of a group."
+msgstr "كن مدرساً"
+
+#: addons/point_system/points.php:56
+#, fuzzy
+msgid "Friendship accepted"
+msgstr "قبول"
+
+#: addons/point_system/points.php:57
+msgid "Accept a friendship from another student."
+msgstr ""
+
+#: addons/point_system/points.php:62
+msgid "Course Bought"
+msgstr ""
+
+#: addons/point_system/points.php:82
+#, fuzzy
+msgid "User registered (Affiliate)"
+msgstr "تم التسجيل بنجاح"
+
+#: addons/point_system/points.php:83 addons/point_system/points.php:90
+msgid "Share your affiliate link ang get points for users, using your link."
+msgstr ""
+
+#: addons/point_system/points.php:89
+msgid "Course purchased (Affiliate)"
+msgstr "تم شراءها"
+
+#: addons/enterprise_courses/main.php:125
+#, fuzzy
+msgid "Number of allowed members in group"
+msgstr "لا تحتوي هذه المجموعة على أعضاء."
+
+#: addons/enterprise_courses/main.php:151
+#, fuzzy
+msgid "Enterprise groups settings"
+msgstr "مُعرّفات لإعدادات المجموعات الفرعية."
+
+#: addons/enterprise_courses/main.php:249
+#: addons/enterprise_courses/main.php:572
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: addons/enterprise_courses/main.php:265
+msgid "Specify group name"
+msgstr "اسم المجموعة (متطلب)"
+
+#: addons/enterprise_courses/main.php:273
+msgid "Error. Try again"
+msgstr "خطأ . حاول مجدداً!"
+
+#: addons/enterprise_courses/main.php:409
+msgid "New group invite"
+msgstr "دعوة للاشتراك بمجموعة"
+
+#: addons/enterprise_courses/main.php:410
+#, php-format
+msgid ""
+"You were added to group: \"%s\". Now you can check new courses, bought by "
+"group."
+msgstr ""
+
+#: addons/enterprise_courses/main.php:424
+#, fuzzy, php-format
+msgid "Login: %s; Password: %s; Site URL: %s"
+msgstr "تم تغيير كلمة المرور <a href=\"%s\">دخول</a> الان."
+
+#: addons/enterprise_courses/main.php:560
+#, fuzzy
+msgid "Invalid CSV File"
+msgstr "ملف CSV غير صالح."
+
+#: addons/enterprise_courses/main.php:581
+#, fuzzy
+msgid "Wrong CSV Format"
+msgstr "الصيغة"
+
+#: addons/enterprise_courses/main.php:630
+msgid "Enterprise Group"
+msgstr "المجموعة"
+
+#: addons/enterprise_courses/main.php:631
+#: stm-lms-templates/account/private/parts/groups_btn.php:10
+msgid "Enterprise Groups"
+msgstr "الجروبات"
+
+#: addons/enterprise_courses/main.php:649
+#, fuzzy
+msgid "Group Settings"
+msgstr "مُعرّف مجموعة الإعدادات."
+
+#: addons/enterprise_courses/main.php:653
+#, fuzzy
+msgid "Enterprise Settings"
+msgstr "الإعدادات."
+
+#: addons/enterprise_courses/main.php:668
+#, fuzzy
+msgid "Author ID"
+msgstr "الكاتب:"
+
+#: addons/enterprise_courses/main.php:672
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#: addons/enterprise_courses/main.php:680
+#, fuzzy
+msgid "Enterprise Courses"
+msgstr "لا دورات !"
+
+#: addons/enterprise_courses/main.php:684
+#, fuzzy
+msgid "Enterprise price"
+msgstr "Price"
+
+#: addons/enterprise_courses/main.php:704
+#, fuzzy, php-format
+msgid "%sEnterprise%s for group %s"
+msgstr "المجموعة \"%s\" غير موجودة."
+
+#: addons/enterprise_courses/main.php:847
+#, fuzzy, php-format
+msgid "Enterprise for %s"
+msgstr "by %s"
+
+#: addons/enterprise_courses/main.php:1107
+#: addons/enterprise_courses/main.php:1136
+#: addons/enterprise_courses/main.php:1162
+#, fuzzy, php-format
+msgid "Hello %s"
+msgstr "مرحبًا %1$s (لست %1$s؟ <a href=\"%2$s\">تسجيل الخروج</a>)"
+
+#: addons/live_streams/main.php:30
+#, fuzzy
+msgctxt "post type general name"
+msgid "Live Streams"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:31
+#, fuzzy
+msgctxt "post type singular name"
+msgid "Live Stream"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:32
+#, fuzzy
+msgctxt "admin menu"
+msgid "Live Streams"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:33
+#, fuzzy
+msgctxt "add new on admin bar"
+msgid "Live Stream"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:34
+msgctxt "live_stream"
+msgid "Add New"
+msgstr "أضف جديد"
+
+#: addons/live_streams/main.php:35
+#, fuzzy
+msgid "Add New Live Stream"
+msgstr "أضف شهادة جديدة"
+
+#: addons/live_streams/main.php:36
+#, fuzzy
+msgid "New Live Stream"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:37
+#, fuzzy
+msgid "Edit Live Stream"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:38
+#, fuzzy
+msgid "View Live Stream"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:39
+#, fuzzy
+msgid "All Live Streams"
+msgstr "منشور"
+
+#: addons/live_streams/main.php:40
+#, fuzzy
+msgid "Search Live Streams"
+msgstr "الوضع المباشر الحي"
+
+#: addons/live_streams/main.php:41
+#, fuzzy
+msgid "Parent Live Streams:"
+msgstr "الأب"
+
+#: addons/live_streams/main.php:42
+#, fuzzy
+msgid "No Live Streams found."
+msgstr "الوضع المباشر الحي"
+
+#: addons/live_streams/main.php:43
+#, fuzzy
+msgid "No Live Streams found in Trash."
+msgstr "لم يتم العثور على منتجات في سلة المهملات"
+
+#: addons/live_streams/main.php:48
+#, fuzzy
+msgid "Description."
+msgstr "description"
+
+#: addons/live_streams/main.php:69 addons/live_streams/main.php:76
+msgid "Stream"
+msgstr ""
+
+#: addons/live_streams/main.php:80
+#, fuzzy
+msgid "Stream Start Date"
+msgstr "تاريخ البدء"
+
+#: addons/live_streams/main.php:86
+#, fuzzy
+msgid "Stream Start Time"
+msgstr "الزمن"
+
+#: addons/live_streams/main.php:92
+#, fuzzy
+msgid "Stream End Date"
+msgstr "تاريخ نهاية الدورة"
+
+#: addons/live_streams/main.php:98
+#, fuzzy
+msgid "Stream End Time"
+msgstr "نهاية التخفيضات"
+
+#: addons/live_streams/main.php:114
+#, fuzzy
+msgid "Stream start date"
+msgstr "تاريخ البدء"
+
+#: addons/live_streams/main.php:124
+#, fuzzy
+msgid "Stream start time"
+msgstr "الزمن"
+
+#: addons/live_streams/main.php:131
+#, fuzzy
+msgid "Stream end date"
+msgstr "تاريخ نهاية الدورة"
+
+#: addons/live_streams/main.php:141
+#, fuzzy
+msgid "Stream end time"
+msgstr "نهاية التخفيضات"
+
+#: wizard/templates/main.php:5
+msgid "Masterstudy LMS Pro Addon requires MasterStudy LMS"
+msgstr ""
+
+#: wizard/templates/main.php:15 wizard/templates/notice.php:8
+msgid "Install"
+msgstr "Install"
+
+#: wizard/templates/notice.php:3
+msgid ""
+"Please install MasterStudy LMS – Learning Management System  from <a href="
+"\"https://wordpress.org/plugins/masterstudy-lms-learning-management-system/"
+"\">WordPress.org</a>"
+msgstr ""
+
+#: stm-lms-templates/stream/main.php:109
+#, fuzzy, php-format
+msgid "%s starts in"
+msgstr "يبدأ بتاريخ"
+
+#: stm-lms-templates/enterprise_groups/buy.php:16
+#, fuzzy
+msgid "For Business"
+msgstr "معلومات الاتصال"
+
+#: stm-lms-templates/enterprise_groups/buy.php:23
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:12
+#, fuzzy
+msgid "Buy for group"
+msgstr "المجموعة"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:6
+#, fuzzy
+msgid "Add new group"
+msgstr "إضافة مجموعة"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:10
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:56
+msgid "Add Group"
+msgstr "إضافة مجموعة"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:14
+msgid "Enter group name"
+msgstr "اسم المجموعة (متطلب)"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:21
+msgid "Add users"
+msgstr "اضافة الأعضاء"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:32
+msgid "Enter new user e-mail"
+msgstr "ادخل بريد الكتروني للعضو"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:50
+msgid "Add group"
+msgstr "إضافة مجموعة"
+
+#: stm-lms-templates/enterprise_groups/edit_group.php:51
+msgid "Edit group"
+msgstr "تعديل المجموعة"
+
+#: stm-lms-templates/enterprise_groups/group.php:14
+#, fuzzy
+msgid "Set as admin"
+msgstr ""
+"إذا كان مجانًا، هذا الحقل سيكون فارغ أو ضع 0. (فقط المسؤول من يستطيع تعديل "
+"هذا الحقل)"
+
+#: stm-lms-templates/enterprise_groups/group.php:18
+msgid "Remove from group"
+msgstr "حذف هذه المجموعة"
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:13
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:17
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:40
+#, fuzzy
+msgid "Choose Group:"
+msgstr "المجموعة"
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:31
+#, fuzzy, php-format
+msgid "Bought at %s"
+msgstr "إظهار إذا كان العبوة يمكن شراؤه."
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:42
+#, php-format
+msgid ""
+"You do not have any groups yet. %sCreate a group%s and add group members."
+msgstr ""
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:52
+#, php-format
+msgid "Add to cart %s"
+msgstr "اضافة للسلة %s"
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:68
+#, fuzzy
+msgid "Group name:"
+msgstr "اسم المجموعة (متطلب)"
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:69
+#, fuzzy
+msgid "Enter group name..."
+msgstr "اسم المجموعة (متطلب)"
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:76
+#, php-format
+msgid "Add users: <span>(Max : %s)</span>"
+msgstr ""
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:77
+#, fuzzy
+msgid "Enter member E-mail..."
+msgstr "ادخل بريدك الكتروني.."
+
+#: stm-lms-templates/enterprise_groups/enterprise-buy-modal.php:88
+#, fuzzy
+msgid "Create group"
+msgstr "عمل مجموعة"
+
+#: stm-lms-templates/enterprise_groups/groups.php:3
+#, fuzzy
+msgid "My Groups"
+msgstr "مجموعاتي <span>%s</span>"
+
+#: stm-lms-templates/enterprise_groups/groups.php:20
+msgid "No groups found."
+msgstr "لا يوجد مجموعات."
+
+#: stm-lms-templates/enterprise_groups/groups.php:34
+msgid "Create Groups"
+msgstr "انشاء مجموعة"
+
+#: stm-lms-templates/enterprise_groups/groups.php:41
+msgid "Import Groups (csv)"
+msgstr "استيراد مجموعة بصيغة CSV"
+
+#: stm-lms-templates/enterprise_groups/user_courses.php:19
+msgid "Add Course"
+msgstr "إضافة دورة"
+
+#: stm-lms-templates/enterprise_groups/user_courses.php:22
+msgid "Remove Course"
+msgstr "حذف الدورة"
+
+#: stm-lms-templates/modals/prerequisite.php:6
+#, fuzzy
+msgid "Prerequisite courses"
+msgstr "لا دورات !"
+
+#: stm-lms-templates/modals/prerequisite.php:7
+msgid ""
+"A prerequisite is a specific course  that you must complete before you can "
+"take another course at the next grade level."
+msgstr ""
+
+#: stm-lms-templates/points/buy.php:16
+#, php-format
+msgid "Do you really want to buy %s for %s?"
+msgstr ""
+
+#: stm-lms-templates/points/buy.php:42
+#, php-format
+msgid "You need %s. %s"
+msgstr "انت بحاجة %s. %s"
+
+#: stm-lms-templates/points/buy.php:48
+#, php-format
+msgid "You have %s. %s"
+msgstr "لديك %s. %s"
+
+#: stm-lms-templates/points/history.php:18
+#, fuzzy, php-format
+msgid "Your %s"
+msgstr "شكرا لشراء العضوية ل %s . العضوية %s نشطة الآن."
+
+#: stm-lms-templates/points/history.php:21
+msgid "How to get more?"
+msgstr "كيف تحصل على النقاط؟"
+
+#: stm-lms-templates/points/history.php:29
+msgid "You have"
+msgstr "لديك "
+
+#: stm-lms-templates/points/history.php:41
+#: stm-lms-templates/points/admin/actions.php:8
+msgid "Event"
+msgstr "النشاط"
+
+#: stm-lms-templates/points/history.php:42
+#: stm-lms-templates/points/admin/actions.php:9
+msgid "Origin"
+msgstr "النقاط"
+
+#: stm-lms-templates/points/history.php:43
+#: stm-lms-templates/points/admin/actions.php:10
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:6
+msgid "Date"
+msgstr "التاريخ"
+
+#: stm-lms-templates/points/history.php:60
+#: stm-lms-templates/points/admin/actions.php:42
+#, php-format
+msgid "Total %s "
+msgstr "الاجمالي: %s"
+
+#: stm-lms-templates/points/distribution.php:15
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:4
+msgid "Name"
+msgstr "الاسم"
+
+#: stm-lms-templates/points/distribution.php:16
+#: stm-lms-templates/manage_course/parts/tabs.php:6
+#: stm-lms-templates/course/udemy/parts/tabs.php:6
+#: stm-lms-templates/course/classic/parts/tabs.php:6
+msgid "Description"
+msgstr "الوصف"
+
+#: stm-lms-templates/points/distribution.php:17
+#: stm-lms-templates/points/admin/stats.php:29
+msgid "Points"
+msgstr "نقاط الطالب"
+
+#: stm-lms-templates/gradebook/students-details.php:8
+#, fuzzy
+msgid "Load Students Statistics"
+msgstr "الإحصائيات"
+
+#: stm-lms-templates/gradebook/students-details.php:13
+msgid "Students Statistics"
+msgstr "الإحصائيات"
+
+#: stm-lms-templates/gradebook/students-details.php:30
+msgid "Started: "
+msgstr "البدء:"
+
+#: stm-lms-templates/gradebook/students-details.php:38
+#, fuzzy
+msgid "Lessons Passed"
+msgstr "الدروس"
+
+#: stm-lms-templates/gradebook/students-details.php:49
+#, fuzzy
+msgid "Quizzes Passed"
+msgstr "الإختبارات"
+
+#: stm-lms-templates/gradebook/students-details.php:60
+#, fuzzy
+msgid "Quizzes Failed"
+msgstr "لا يوجد اختبارات"
+
+#: stm-lms-templates/gradebook/students-details.php:72
+#, fuzzy
+msgid "Progress"
+msgstr "قيد التقدم للمعالجة"
+
+#: stm-lms-templates/gradebook/course-details.php:4
+msgid "Course students"
+msgstr "الطلبة الملتحقين بالدورة"
+
+#: stm-lms-templates/gradebook/course-details.php:8
+msgid "Course average progress"
+msgstr "قيد التقدم للمعالجة"
+
+#: stm-lms-templates/gradebook/course-details.php:12
+msgid "Course passed quizzes"
+msgstr "تم اجتياز الامتحان"
+
+#: stm-lms-templates/gradebook/course-details.php:16
+msgid "Course passed lessons"
+msgstr "الدورات المنتهاة"
+
+#: stm-lms-templates/gradebook/course-details.php:20
+msgid "Course enrolled by subscription"
+msgstr "دورة مسجلة عن طريق الاشتراك"
+
+#: stm-lms-templates/manage_course/single.php:77
+msgid "Publish Course"
+msgstr "نشر الدورة"
+
+#: stm-lms-templates/manage_course/single.php:78
+msgid "Update Course"
+msgstr "تحديث الدورة"
+
+#: stm-lms-templates/global/subscription.php:7
+#: stm-lms-templates/global/subscription.php:17
+msgid "- Or -"
+msgstr "- أو -"
+
+#: stm-lms-templates/global/subscription.php:14
+#: stm-lms-templates/global/subscription.php:21
+#: stm-lms-templates/global/buy-button/mixed.php:141
+#: stm-lms-templates/global/buy-button/mixed.php:147
+msgid "Enroll with Membership"
+msgstr "التسجيل مع العضوية"
+
+#: stm-lms-templates/global/buy-button-start.php:15
+#: stm-lms-templates/global/buy-button/mixed.php:39
+msgid "Enroll course"
+msgstr "الالتحاق بالدورة"
+
+#: stm-lms-templates/global/buy-button-start.php:23
+#: stm-lms-templates/global/buy-button/mixed.php:47
+msgid "Start course"
+msgstr "بدء الدورة"
+
+#: stm-lms-templates/global/buy-button-buy.php:39
+#: stm-lms-templates/bundle/parts/buy.php:21
+#: stm-lms-templates/bundle/parts/buy.php:46
+#: stm-lms-templates/global/buy-button/mixed.php:104
+msgid "Get now"
+msgstr "اشترك الان"
+
+#: stm-lms-templates/global/prerequisite.php:58
+msgid "Free"
+msgstr "مجانية"
+
+#: stm-lms-templates/global/prerequisite.php:70
+#: stm-lms-templates/manage_course/parts/info.php:10
+#: stm-lms-templates/course/udemy/parts/info.php:14
+msgid "Enrolled"
+msgstr "ملتحق"
+
+#: stm-lms-templates/global/prerequisite.php:75
+msgid "Login"
+msgstr "دخول"
+
+#: stm-lms-templates/global/prerequisite.php:79
+msgid "What is Prerequisite courses"
+msgstr "ما هي الدورات المطلوبة"
+
+#: stm-lms-templates/global/affiliate-button.php:42
+#, php-format
+msgid "%s%% off"
+msgstr "%s%% معطل"
+
+#: stm-lms-templates/bundles/my_bundles.php:20
+#: stm-lms-templates/account/private/parts/bundles_btn.php:4
+#, fuzzy
+msgid "Manage Bundles"
+msgstr "إدارة"
+
+#: stm-lms-templates/bundles/my_bundles.php:24
+#, fuzzy
+msgid "Add new Bundle"
+msgstr "أضف شهادة جديدة"
+
+#: stm-lms-templates/bundles/my-bundle.php:20
+#, fuzzy
+msgid "Please enter bundle name"
+msgstr "الرجاء إدخال اسمك"
+
+#: stm-lms-templates/bundles/my-bundle.php:21
+#, fuzzy
+msgid "Please enter bundle description"
+msgstr "Enter the testimonial's author description."
+
+#: stm-lms-templates/bundles/my-bundle.php:22
+#, fuzzy
+msgid "Please add courses in bundle"
+msgstr "الرجاء إختيار منتج لإضافته سلة مشترياتك&hellip;"
+
+#: stm-lms-templates/bundles/my-bundle.php:23
+#, fuzzy
+msgid "Please enter bundle price"
+msgstr "ادخل السعر (%s)"
+
+#: stm-lms-templates/bundles/my-bundle.php:44
+#, fuzzy
+msgid "Add Bundle"
+msgstr ""
+"هل تريد ميزات مجانية بالكامل؟ إنقر <a href=\"%s\">هنا</a> لتثبيت حزمة ملحقات "
+"LearnPress مجانًا!"
+
+#: stm-lms-templates/bundles/my-bundle.php:58
+msgid "Save Bundle"
+msgstr "حفظ"
+
+#: stm-lms-templates/course/udemy/sidebar.php:20
+msgid "30-Day Money-Back Guarantee"
+msgstr "ضمان استرداد الأموال لمدة 30 يومًا"
+
+#: stm-lms-templates/bundle/parts/courses.php:9
+#, fuzzy
+msgid "Courses in this bundle:"
+msgstr "لا دورات !"
+
+#: stm-lms-templates/points/admin/actions.php:1
+msgid "Loading..."
+msgstr "جاري التحميل .."
+
+#: stm-lms-templates/points/admin/actions.php:12
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: stm-lms-templates/points/admin/stats.php:7
+msgid "Do you really want to delete this record?"
+msgstr "هل ترغب بحذف السجل ؟"
+
+#: stm-lms-templates/points/admin/stats.php:19
+#, fuzzy
+msgid "Search by user"
+msgstr "بحث عن : "
+
+#: stm-lms-templates/points/admin/stats.php:23
+msgid "Student Points"
+msgstr "نقاط الطالب"
+
+#: stm-lms-templates/points/admin/stats.php:28
+msgid "User"
+msgstr "المستخدم"
+
+#: stm-lms-templates/points/admin/stats.php:30
+msgid "History"
+msgstr "السجلات"
+
+#: stm-lms-templates/manage_course/parts/info.php:11
+msgid "0 students"
+msgstr "0 طالب"
+
+#: stm-lms-templates/manage_course/parts/info.php:19
+#: stm-lms-templates/course/udemy/parts/info.php:21
+msgid "Duration"
+msgstr "المدة"
+
+#: stm-lms-templates/manage_course/parts/info.php:29
+#: stm-lms-templates/course/udemy/parts/info.php:30
+msgid "Lectures"
+msgstr "المدرس"
+
+#: stm-lms-templates/manage_course/parts/info.php:38
+#: stm-lms-templates/course/udemy/parts/info.php:38
+#: stm-lms-templates/manage_course/forms/html/lesson.php:33
+#: stm-lms-templates/course/udemy/parts/tabs/curriculum.php:29
+#: stm-lms-templates/course/classic/parts/tabs/curriculum.php:55
+msgid "Video"
+msgstr "الفيديو"
+
+#: stm-lms-templates/manage_course/parts/info.php:49
+#: stm-lms-templates/course/udemy/parts/info.php:46
+msgid "Beginner"
+msgstr "مبتدأ"
+
+#: stm-lms-templates/manage_course/parts/info.php:50
+#: stm-lms-templates/course/udemy/parts/info.php:47
+msgid "Intermediate"
+msgstr "متوسط"
+
+#: stm-lms-templates/manage_course/parts/info.php:51
+#: stm-lms-templates/course/udemy/parts/info.php:48
+msgid "Advanced"
+msgstr "متقدم"
+
+#: stm-lms-templates/manage_course/parts/info.php:56
+#: stm-lms-templates/course/udemy/parts/info.php:50
+msgid "Level"
+msgstr "المستوى"
+
+#: stm-lms-templates/manage_course/parts/tabs.php:8
+#: stm-lms-templates/course/udemy/parts/tabs.php:8
+#: stm-lms-templates/course/classic/parts/tabs.php:8
+#: stm-lms-templates/manage_course/parts/tabs/faq.php:17
+msgid "FAQ"
+msgstr "الأسئلة المتكررة"
+
+#: stm-lms-templates/manage_course/parts/tabs.php:9
+#: stm-lms-templates/course/classic/parts/tabs.php:9
+#: stm-lms-templates/manage_course/forms/js/wizard.php:85
+msgid "Announcement"
+msgstr "مجهول"
+
+#: stm-lms-templates/manage_course/global/wish-list.php:14
+#: stm-lms-templates/manage_course/global/wish-list.php:19
+msgid "Add to Wishlist"
+msgstr "اضف للمفضلة"
+
+#: stm-lms-templates/manage_course/global/wish-list.php:16
+msgid "Wishlisted"
+msgstr ""
+
+#: stm-lms-templates/manage_course/global/enterprise.php:6
+msgid "Enterprise Price"
+msgstr "السعر الخاص"
+
+#: stm-lms-templates/global/buy-button/mixed.php:130
+msgid "One Time Payment"
+msgstr "الدفع للدورة فقط"
+
+#: stm-lms-templates/bundles/my-bundle/title.php:4
+msgid "Bundle name"
+msgstr "اسم الحزمة"
+
+#: stm-lms-templates/bundles/my-bundle/title.php:10
+#, fuzzy
+msgid "Enter bundle name"
+msgstr "ادخل اسم لهذه الضريبة"
+
+#: stm-lms-templates/bundles/my-bundle/price.php:4
+#, fuzzy
+msgid "Bundle price"
+msgstr "Price"
+
+#: stm-lms-templates/bundles/my-bundle/price.php:10
+#, fuzzy
+msgid "Enter bundle price"
+msgstr "ادخل السعر (%s)"
+
+#: stm-lms-templates/bundles/my-bundle/description.php:15
+#, fuzzy
+msgid "Bundle description"
+msgstr "description"
+
+#: stm-lms-templates/bundles/my-bundle/select-course.php:3
+msgid "Select Course"
+msgstr "اختر دورة"
+
+#: stm-lms-templates/bundles/my-bundle/select-course.php:11
+msgid "Select course"
+msgstr "اختر دورة"
+
+#: stm-lms-templates/bundles/my-bundle/select-course.php:15
+#, fuzzy
+msgid "+ Add course"
+msgstr "إعادة التوجيه إلى السحب مباشرة بعد إضافة الدورة الى سلة المشتريات"
+
+#: stm-lms-templates/bundles/my-bundle/select-course.php:39
+#, fuzzy, php-format
+msgid "Maximum courses in bundle : %s"
+msgstr "الحد الأعلى: <strong>%s</strong>."
+
+#: stm-lms-templates/bundles/my-bundle/select-course.php:56
+msgid "Total"
+msgstr "المجموع"
+
+#: stm-lms-templates/bundles/my-bundle/image.php:4
+msgid "Bundle image"
+msgstr "صورة الباقة"
+
+#: stm-lms-templates/bundles/my-bundle/image.php:18
+msgid "Upload image"
+msgstr "رفع صورة"
+
+#: stm-lms-templates/course/udemy/parts/info.php:15
+#, php-format
+msgid "%s student"
+msgid_plural "%s students"
+msgstr[0] "%s طالب"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: stm-lms-templates/course/udemy/parts/tabs.php:9
+#: stm-lms-templates/course/classic/parts/tabs.php:10
+msgid "Reviews"
+msgstr "التقييمات"
+
+#: stm-lms-templates/course/udemy/parts/includes.php:18
+msgid "Includes"
+msgstr "تتضمن "
+
+#: stm-lms-templates/course/udemy/parts/includes.php:23
+#, fuzzy, php-format
+msgid "%s hours on-demand video"
+msgstr "%s ساعة"
+
+#: stm-lms-templates/course/udemy/parts/includes.php:31
+#, fuzzy, php-format
+msgid "%s article"
+msgid_plural "%s articles"
+msgstr[0] "السابق"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: stm-lms-templates/course/udemy/parts/includes.php:37
+msgid "Full lifetime access"
+msgstr "اشتراك مدى الحياة"
+
+#: stm-lms-templates/course/udemy/parts/includes.php:42
+#, fuzzy
+msgid "Access on mobile and TV"
+msgstr "جوال"
+
+#: stm-lms-templates/course/udemy/parts/includes.php:48
+msgid "Certificate of Completion"
+msgstr "شهادة الاكمال"
+
+#: stm-lms-templates/course/parts/student_assignments/progress.php:29
+#: stm-lms-templates/course/parts/student_assignments/passed.php:28
+#: stm-lms-templates/course/parts/student_assignments/on_review.php:28
+#: stm-lms-templates/course/parts/student_assignments/unpassed.php:28
+msgid "Delete File?"
+msgstr "حذف الملف؟"
+
+#: stm-lms-templates/course/parts/student_assignments/progress.php:55
+msgid "Autosaving"
+msgstr ""
+
+#: stm-lms-templates/course/parts/student_assignments/progress.php:65
+msgid "Send Assignment"
+msgstr "ارسال الواجب"
+
+#: stm-lms-templates/course/parts/student_assignments/passed.php:42
+#, fuzzy
+msgid "You passed assignment."
+msgstr "تم الاجتياز"
+
+#: stm-lms-templates/course/parts/student_assignments/new.php:27
+msgid "Start now"
+msgstr "البدء الآن"
+
+#: stm-lms-templates/course/parts/student_assignments/on_review.php:41
+#, fuzzy
+msgid "Your assignment pending review"
+msgstr "بإنتظار المراجعة"
+
+#: stm-lms-templates/course/parts/student_assignments/unpassed.php:42
+#, php-format
+msgid "You failed assignment. %sRetake%s"
+msgstr ""
+
+#: stm-lms-templates/course/parts/assignment_parts/file_loader.php:14
+msgid "Attach files"
+msgstr "ارفاق ملفات"
+
+#: stm-lms-templates/course/parts/assignment_parts/task.php:8
+msgid "All Requirements"
+msgstr "جميع متطلبات"
+
+#: stm-lms-templates/course/parts/assignment_parts/comment.php:16
+#: stm-lms-templates/bundle/parts/panel_info/teacher.php:13
+#: stm-lms-templates/manage_course/parts/panel_info/teacher.php:13
+msgid "Teacher"
+msgstr "المحاضر"
+
+#: stm-lms-templates/bundle/parts/panel_info/rate.php:13
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:34
+#: stm-lms-templates/manage_course/parts/panel_info/rate.php:8
+#: stm-lms-templates/course/udemy/parts/tabs/reviews.php:31
+#: stm-lms-templates/course/udemy/parts/panel_info/rate.php:13
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:35
+#: stm-lms-templates/course/classic/parts/panel_info/rate.php:15
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "قُيم بـ %s من 5"
+
+#: stm-lms-templates/bundle/parts/panel_info/rate.php:16
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:37
+#: stm-lms-templates/manage_course/parts/panel_info/rate.php:11
+#: stm-lms-templates/course/udemy/parts/tabs/reviews.php:34
+#: stm-lms-templates/course/udemy/parts/panel_info/rate.php:16
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:38
+msgid "out of 5"
+msgstr "من 5"
+
+#: stm-lms-templates/bundle/parts/panel_info/rate.php:23
+#: stm-lms-templates/manage_course/parts/panel_info/rate.php:18
+#: stm-lms-templates/course/classic/parts/panel_info/rate.php:23
+#, fuzzy, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "لا توجد مراجعات لـ %2$s"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: stm-lms-templates/bundle/parts/panel_info/categories.php:11
+#: stm-lms-templates/manage_course/parts/panel_info/categories.php:8
+msgid "Category:"
+msgstr "Category:"
+
+#: stm-lms-templates/courses/udemy/parts/course_info.php:81
+msgid "Preview this course"
+msgstr "نظرة على الدورة"
+
+#: stm-lms-templates/account/private/instructor_parts/create_announcement.php:14
+#: stm-lms-templates/account/private/parts/create_announcement_btn.php:10
+msgid "Create Announcement"
+msgstr "إنشاء معلومات"
+
+#: stm-lms-templates/account/private/instructor_parts/create_announcement.php:21
+msgid "Choose Course"
+msgstr "اختر الدورة"
+
+#: stm-lms-templates/account/private/instructor_parts/create_announcement.php:33
+#, fuzzy
+msgid "Message for Course Students"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/account/private/instructor_parts/create_announcement.php:47
+msgid "Create"
+msgstr "إنشاء"
+
+#: stm-lms-templates/account/private/parts/certificates.php:25
+msgid "My Certificates"
+msgstr "الشهادات"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:15
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:5
+msgid "Course"
+msgstr "دورة"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:18
+msgid "Certificate"
+msgstr "الشهادة"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:31
+msgid "Download"
+msgstr "تنزيل"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:39
+msgid "You do not have a certificate yet."
+msgstr "ليس لديك أي شهادات حاليا !"
+
+#: stm-lms-templates/account/private/parts/certificate-list.php:40
+msgid ""
+"Get started easy, select a course here, pass it and get your first "
+"certificate"
+msgstr "ابدأ بسهولة ، حدد دورة ، واجتزها واحصل على شهادتك الأولى"
+
+#: stm-lms-templates/account/private/parts/my_certificates_btn.php:10
+msgid "My certificates"
+msgstr "الشهادات"
+
+#: stm-lms-templates/account/private/parts/gradebook_btn.php:10
+msgid "Gradebook"
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:16
+#, fuzzy
+msgid "Welcome to Wizard"
+msgstr "مرحبًا بك في معالج التكوين لـ DIGITS!"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:17
+msgid "A simple tour about all fields included in course"
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:18
+msgid "Simple help with adding courses"
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:23
+msgid "Title"
+msgstr "العنوان"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:24
+#, fuzzy
+msgid "Adding a course title"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:25
+#, fuzzy
+msgid "Add a title"
+msgstr "إضافة عنوان الصفحة خلفية تراكب"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:30
+msgid "Category"
+msgstr "التصنيف"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:31
+#, fuzzy
+msgid "Adding course category"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:32
+#, fuzzy
+msgid "Add a category"
+msgstr "إضافة قسم  جديد"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:37
+msgid "Image"
+msgstr "صورة"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:38
+#, fuzzy
+msgid "Adding course image"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:39
+msgid "Add an image"
+msgstr "+ إضافة صورة جديدة"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:45
+#: stm-lms-templates/manage_course/forms/html/lesson.php:11
+#: stm-lms-templates/manage_course/forms/html/quiz.php:10
+msgid "Content"
+msgstr "المحتوى"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:46
+#, fuzzy
+msgid "Adding course description"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:47
+#, fuzzy
+msgid "Add course description"
+msgstr "وصف الدورة"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:54
+#, fuzzy
+msgid "Add a course Curriculum"
+msgstr "منهاج المادة"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:55
+msgid "Add curriculum Section and hit enter after adding Section name"
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:62
+#, fuzzy
+msgid "Add a course Lesson"
+msgstr "أضف درس جديد"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:63
+msgid "Add curriculum Lesson and hit enter after adding Lesson name"
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:70
+#, fuzzy
+msgid "Add a course Quiz"
+msgstr "خذ الدرس لتبدأ الاختبار"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:71
+msgid "Add curriculum Quiz and hit enter after adding Quiz name"
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:77
+#, fuzzy
+msgid "Course FAQ"
+msgstr "FAQ"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:78
+#, fuzzy
+msgid "Add a course FAQ"
+msgstr "FAQ"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:79
+msgid ""
+"FAQ is an accordion of FAQ items. Add FAQ title, then hit enter. After "
+"adding FAQ item, you can add description for it. Add as many FAQ items as "
+"you need."
+msgstr ""
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:86
+#, fuzzy
+msgid "Add a course announcement"
+msgstr "إضافة تصنيف دورة جديد"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:87
+#, fuzzy
+msgid "Enter Announcement for students."
+msgstr "الطلاب"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:93
+msgid "Pricing"
+msgstr "التسعير"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:94
+#, fuzzy
+msgid "Adding course price"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:95
+#, fuzzy
+msgid "Add course prices"
+msgstr "إضافة وسم دورة جديد"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:100
+#: stm-lms-templates/manage_course/forms/js/wizard.php:107
+#: stm-lms-templates/manage_course/forms/js/wizard.php:114
+msgid "Info"
+msgstr "معلومات"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:101
+#, fuzzy
+msgid "Adding course duration"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:102
+#, fuzzy
+msgid "Add course duration"
+msgstr "معامل مدة الدورة لعرض الهدف"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:108
+#, fuzzy
+msgid "Adding course video duration"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:109
+#, fuzzy
+msgid "Add course video duration"
+msgstr "إضافة خلفية فيديو"
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:115
+#, fuzzy
+msgid "Adding course level"
+msgstr "اضافة طالب للدورة ..."
+
+#: stm-lms-templates/manage_course/forms/js/wizard.php:116
+#, fuzzy
+msgid "Add course level"
+msgstr "تحدد صنف الدورة"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:16
+msgid "Lesson Settings"
+msgstr "إعدادات الدرس"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:30
+#, fuzzy
+msgid "Lesson type"
+msgstr "أكتب هنا للبحث عن الدرس"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:32
+msgid "Text"
+msgstr "نص"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:34
+msgid "Slide"
+msgstr "شريحة"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:45
+#, fuzzy
+msgid "Lesson video Poster"
+msgstr "ملصق فيديو"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:56
+#, fuzzy
+msgid "Lesson video URL"
+msgstr "Video Url"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:63
+#, fuzzy
+msgid "Lesson duration"
+msgstr "مدة الدرس"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:71
+#, fuzzy
+msgid "Lesson preview"
+msgstr "معاينة الدرس"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:82
+#, fuzzy
+msgid "Lesson Front-End description"
+msgstr "نوع التنزيل، هذا يتحكم بضوابط الـ schema على واجهة المتجر."
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:92
+#: stm-lms-templates/manage_course/forms/html/assignment.php:11
+#: stm-lms-templates/manage_course/forms/html/quiz.php:96
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: stm-lms-templates/manage_course/forms/html/lesson.php:93
+#: stm-lms-templates/manage_course/forms/html/assignment.php:13
+#: stm-lms-templates/manage_course/forms/html/quiz.php:99
+msgid "Cancel"
+msgstr "Cancel"
+
+#: stm-lms-templates/manage_course/forms/html/price.php:5
+#, fuzzy, php-format
+msgid "Add Price* (%s)"
+msgstr "السعر العادي (%s)"
+
+#: stm-lms-templates/manage_course/forms/html/price.php:6
+#, fuzzy, php-format
+msgid "Add Sale Price (%s)"
+msgstr "ادخل سعر التخفيض (%s)"
+
+#: stm-lms-templates/manage_course/forms/html/price.php:16
+msgid "Enroll now"
+msgstr "إلتحاق"
+
+#: stm-lms-templates/manage_course/forms/html/price.php:19
+#, fuzzy
+msgid "Add Prices"
+msgstr "الأسعار"
+
+#: stm-lms-templates/manage_course/forms/html/image.php:6
+#, fuzzy
+msgid "Upload course Image"
+msgstr "رفع صورة"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:15
+#, fuzzy
+msgid "Quiz Questions"
+msgstr "ربط الدورة، الوحدات، الاختبارات وأسئلة مع التصنيف ذو العلاقة"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:20
+#, fuzzy
+msgid "Quiz Settings"
+msgstr "الاعدادات"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:43
+#, fuzzy
+msgid "Quiz description"
+msgstr "الإختبار"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:50
+#, fuzzy
+msgid "Quiz duration"
+msgstr "المدة:"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:53
+#, fuzzy
+msgid "Enter quiz duration"
+msgstr "أدخل إسم السؤال الجديد أو الإختبار"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:55
+#, fuzzy
+msgid "Minutes"
+msgstr " دقائق"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:56
+msgid "Hours"
+msgstr " ساعات"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:57
+#, fuzzy
+msgid "Days"
+msgstr "أيام"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:65
+msgid "Show correct answer"
+msgstr "إظهار الإجابة الصحيحة"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:77
+#, fuzzy
+msgid "Passing grade (%)"
+msgstr "تمرير قيمة الشرط"
+
+#: stm-lms-templates/manage_course/forms/html/quiz.php:84
+msgid "Points total cut after re-take (%)"
+msgstr ""
+
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:41
+#: stm-lms-templates/course/udemy/parts/tabs/reviews.php:38
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:42
+#, php-format
+msgid "%s Ratings"
+msgstr "%s التقييمات"
+
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:48
+#: stm-lms-templates/course/udemy/parts/tabs/reviews.php:45
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:49
+msgid "Detailed Rating"
+msgstr "تفاصيل التقييم"
+
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:53
+#: stm-lms-templates/course/udemy/parts/tabs/reviews.php:50
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:54
+#, php-format
+msgid "Stars %s"
+msgstr "%s نجمة"
+
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:96
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:97
+msgid "Show more"
+msgstr "المزيد"
+
+#: stm-lms-templates/manage_course/parts/tabs/reviews.php:101
+#: stm-lms-templates/course/classic/parts/tabs/reviews.php:102
+#, fuzzy
+msgid "Be the first to add a review."
+msgstr "Be the first to review"
+
+#: stm-lms-templates/bundles/card/vue/top.php:10
+msgid "Draft"
+msgstr "مسودة"
+
+#: stm-lms-templates/bundles/card/vue/top.php:17
+msgid "Publish"
+msgstr "نشر"
+
+#: stm-lms-templates/bundles/card/vue/top.php:24
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:55
+msgid "Edit"
+msgstr "تحرير"
+
+#: stm-lms-templates/bundles/card/vue/top.php:31
+msgid "Delete"
+msgstr "Delete"
+
+#: stm-lms-templates/bundles/card/php/top.php:15
+#, fuzzy, php-format
+msgid "%s Courses"
+msgstr "courses"
+
+#: stm-lms-templates/course/udemy/parts/tabs/curriculum.php:22
+#: stm-lms-templates/course/classic/parts/tabs/curriculum.php:34
+msgid "Quiz"
+msgstr "الإختبار"
+
+#: stm-lms-templates/course/udemy/parts/tabs/curriculum.php:25
+#: stm-lms-templates/course/classic/parts/tabs/curriculum.php:28
+#, fuzzy
+msgid "Text Lesson"
+msgstr "درس"
+
+#: stm-lms-templates/course/udemy/parts/panel_info/teacher.php:16
+#, fuzzy
+msgid "Instructor:"
+msgstr "المدرب:"
+
+#: stm-lms-templates/course/udemy/parts/panel_info/languages.php:18
+#, fuzzy
+msgid "More"
+msgstr "المزيد"
+
+#: stm-lms-templates/course/udemy/parts/panel_info/rate.php:23
+#, fuzzy, php-format
+msgid "%s review on Udemy"
+msgid_plural "%s reviews on Udemy"
+msgstr[0] "لا توجد أي مراجعات"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: stm-lms-templates/course/udemy/parts/panel_info/enrolled.php:14
+#, php-format
+msgid "%s student enrolled"
+msgid_plural "%s students enrolled"
+msgstr[0] "%s طالب ملتحق"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: stm-lms-templates/course/classic/parts/tabs/curriculum.php:36
+#, php-format
+msgid "%s question"
+msgid_plural "%s questions"
+msgstr[0] "%s الاسئلة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: stm-lms-templates/course/classic/parts/tabs/curriculum.php:50
+msgid "Slides"
+msgstr ""
+
+#: stm-lms-templates/course/classic/parts/tabs/announcement.php:9
+msgid "No announcements at this moment."
+msgstr "لأي لحظة منذ الآن"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:15
+msgid "Courses"
+msgstr "الدورات"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:18
+#, fuzzy
+msgid "Add New course"
+msgstr "إضافة دورة جديدة"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:27
+msgid "Available featured Quotes:"
+msgstr "مميزة"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:31
+msgid "Done"
+msgstr "اكتمل!"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:35
+msgid "Upgrade"
+msgstr "ترقية"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:56
+msgid "View"
+msgstr "عرض"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:108
+#, fuzzy
+msgid "Make Featured"
+msgstr "جعله بائع مميز"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:114
+#, fuzzy
+msgid "Remove from Featured"
+msgstr "إزالة من المفضلة"
+
+#: stm-lms-templates/account/private/classic/instructor_parts/courses.php:130
+#, fuzzy
+msgid "Load more"
+msgstr "عرض المزيد"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/grid.php:3
+#, fuzzy
+msgid "Search assignment"
+msgstr "الواجب"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/grid.php:6
+#, fuzzy
+msgid "Enter assignment name"
+msgstr "الواجب"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/grid.php:18
+#, fuzzy
+msgid "Loading data..."
+msgstr "جار التحميل ..."
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/grid.php:46
+#, fuzzy
+msgid "Nothing found."
+msgstr "لم يتم العثور على الصفحة ..."
+
+#: stm-lms-templates/account/private/instructor_parts/user_assignments/publish.php:18
+msgid "Approved"
+msgstr "موافقة"
+
+#: stm-lms-templates/account/private/instructor_parts/user_assignments/publish.php:24
+msgid "Rejected"
+msgstr "رفض"
+
+#: stm-lms-templates/account/private/instructor_parts/user_assignments/pending.php:14
+#, fuzzy
+msgid "Your comment"
+msgstr "تعليقك"
+
+#: stm-lms-templates/account/private/instructor_parts/user_assignments/pending.php:20
+msgid "Approve"
+msgstr "موافقة"
+
+#: stm-lms-templates/account/private/instructor_parts/user_assignments/pending.php:24
+msgid "Reject"
+msgstr "رفض"
+
+#: stm-lms-templates/account/private/parts/points/my-points.php:19
+msgid "Earnings History"
+msgstr "اجمالي الارباح"
+
+#: stm-lms-templates/account/private/parts/points/affiliate_link.php:16
+#, fuzzy
+msgid "Copy Affiliate link"
+msgstr "Copy Link"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/info.php:17
+#, php-format
+msgid "Total: %s"
+msgstr "الاجمالي: %s"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/info.php:25
+#, fuzzy, php-format
+msgid "Non passed: %s"
+msgstr "تم الاجتياز"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/info.php:33
+#, fuzzy, php-format
+msgid "Passed: %s"
+msgstr "تم الاجتياز"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/info.php:41
+#, fuzzy, php-format
+msgid "Pending: %s"
+msgstr "%s (معلق)"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:7
+msgid "Attempts"
+msgstr "المحاولات مسموحة:"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:25
+#, fuzzy
+msgid "Non passed"
+msgstr "تم الاجتياز"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:35
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/list.php:43
+msgid "Nothing found"
+msgstr "غير موجود"
+
+#: stm-lms-templates/account/private/instructor_parts/assignments/single/sort.php:2
+#, fuzzy
+msgid "Sort by"
+msgstr "فرز حسب"
+
+#. Name of the plugin
+msgid "MasterStudy LMS Learning Management System PRO"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create brilliant lessons with videos, graphs, images, slides and any other "
+"attachments thanks to flexible and user-friendly lesson management tool "
+"powered by WYSIWYG editor."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://masterstudy.stylemixthemes.com/lms-plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://stylemixthemes.com/"
+msgstr "https://www.unitedover.com/"

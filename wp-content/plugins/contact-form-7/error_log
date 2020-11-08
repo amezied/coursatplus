@@ -1,0 +1,4 @@
+[30-Aug-2020 13:50:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/courwwxw/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/courwwxw/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
