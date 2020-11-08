@@ -1,0 +1,36 @@
+[22-Mar-2020 09:03:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[23-Mar-2020 01:55:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[23-Mar-2020 22:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[26-Mar-2020 03:36:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparlmzs/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[09-Jun-2020 06:00:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[09-Jun-2020 06:07:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[09-Jun-2020 06:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[01-Jul-2020 10:18:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1
+[09-Jul-2020 01:58:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/wparwona/learnpress.wp-ar.net/wp-content/themes/Learn_wp-ar.net/index.php on line 1

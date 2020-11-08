@@ -1,0 +1,5195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Master Study\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 09:06+0000\n"
+"PO-Revision-Date: 2020-03-21 16:58+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: ar\n"
+
+#: 404.php:9
+msgid "The page you are looking for does not exist."
+msgstr "عفوا ، الصفحة غير متوفرة"
+
+#: 404.php:11
+msgid "GO BACK TO HOMEPAGE"
+msgstr "الى الرئيسية"
+
+#: index.php:92 archive-gallery.php:94 archive-events.php:66
+#: vc_templates/stm_events_grid.php:54 vc_templates/stm_gallery_grid.php:99
+#: vc_templates/stm_teachers_grid.php:85
+msgid "Previous"
+msgstr "السابق"
+
+#: index.php:93 archive-gallery.php:95 archive-events.php:67
+#: vc_templates/stm_events_grid.php:55 vc_templates/stm_gallery_grid.php:100
+#: vc_templates/stm_teachers_grid.php:86
+msgid "Next"
+msgstr "التالي"
+
+#: index.php:114
+msgid "No result has been found. Please check for correctness."
+msgstr "لم يتم العثور على نتيجة. يرجى التحقق من صحتها."
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "التعليقات"
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr "التعليقات السابقة"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "التعليقات الاحدث"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: footer.php:20
+msgid "Days"
+msgstr "أيام"
+
+#: footer.php:21
+msgid "Hours"
+msgstr "ساعات"
+
+#: footer.php:22
+msgid "Minutes"
+msgstr " دقائق"
+
+#: footer.php:23
+msgid "Seconds"
+msgstr "ثواني"
+
+#: archive-gallery.php:58
+msgid "Gallery"
+msgstr "المعرض"
+
+#: archive-gallery.php:68 vc_templates/stm_gallery_grid.php:44
+msgid "All images"
+msgstr "جميع الصور"
+
+#: page.php:19 partials/content-event.php:9 partials/content-event.php:121
+#: partials/content.php:13 partials/content.php:124
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: page.php:23 partials/content-event.php:13 partials/content.php:17
+msgid "Page"
+msgstr "صفحة"
+
+#: woocommerce/content-product-list.php:81 woocommerce/content-product.php:76
+#: vc_templates/stm_featured_products.php:130
+#: paid-memberships-pro/pages/levels.php:58
+msgid "Free"
+msgstr "مجانية"
+
+#: woocommerce/content-product-list.php:103 woocommerce/content-product.php:97
+#: woocommerce/content-product.php:109
+#: vc_templates/stm_featured_products.php:155
+#: vc_templates/stm_featured_products.php:165
+#: vc_templates/stm_product_categories.php:85
+#: partials/vc_parts/product_categories/stm_vc_product_cat_card.php:34
+msgid "View course"
+msgstr "مشاهده الدورة"
+
+#: woocommerce/content-product-list.php:117
+#, php-format
+msgctxt "Course status"
+msgid "%s"
+msgstr "%s"
+
+#: woocommerce/content-product-list.php:138
+#: woocommerce/content-product-list.php:156
+#: woocommerce/content-single-product.php:60
+msgid "Teacher"
+msgstr "المحاضر"
+
+#: woocommerce/content-product-list.php:168
+#: woocommerce/content-product-list.php:175
+msgid "Available"
+msgstr "متاح"
+
+#: woocommerce/content-product-list.php:168
+#: woocommerce/content-product-list.php:175
+msgid "seats"
+msgstr "مقاعد"
+
+#: woocommerce/content-product-list.php:184
+msgid "See more"
+msgstr "مشاهدة المزيد"
+
+#: woocommerce/content-product.php:160
+#: vc_templates/stm_featured_products.php:223
+msgid "View more"
+msgstr "عرض المزيد"
+
+#: woocommerce/content-single-product-meta-side.php:37
+msgid "Students"
+msgstr "ادارة الطلاب"
+
+#: woocommerce/content-single-product-meta-side.php:48
+msgid "Duration:"
+msgstr "المدة:"
+
+#: woocommerce/content-single-product-meta-side.php:59
+msgid "Lectures:"
+msgstr "المحاضر"
+
+#: woocommerce/content-single-product-meta-side.php:70
+msgid "Video:"
+msgstr "الفيديو:"
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr "لا توجد توصيات بعد."
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr "اضف مراجعة"
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "كن أول من يقوم بتقييم &ldquo; %s &rdquo;"
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "إضافة رد إلى  %s"
+
+#: woocommerce/single-product-reviews.php:68 inc/custom.php:72
+#: inc/visual_composer.php:1510 partials/event-form.php:13
+msgid "Name"
+msgstr "الاسم"
+
+#: woocommerce/single-product-reviews.php:70 inc/custom.php:77
+#: partials/event-form.php:23
+msgid "E-mail"
+msgstr "بريد الكتروني"
+
+#: woocommerce/single-product-reviews.php:72
+#: woocommerce/myaccount/form-lost-password.php:42
+#: inc/admin/product_registration/screens/startup.php:59
+msgid "Submit"
+msgstr "اعتمد"
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "يجب عليك <a href=\"%s\">تسجي الدخول</a> لتتمكن من تقييم المنتج."
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Your rating"
+msgstr "تقييمك"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr "تقييم &hellip;"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr "ممتاز"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr "جيد"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr "متوسط"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr "ليس سئ"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very poor"
+msgstr "سيء جداً"
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Your Review"
+msgstr "مراجعتك"
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "يسمح فقط للزبائن الذين إشتروا هذا المنتج وسجلوا دخولهم بكتابة رأيهم."
+
+#: woocommerce/content-single-product.php:51 partials/title_box.php:37
+msgid "Teachers"
+msgstr "المُدربين"
+
+#: woocommerce/content-single-product.php:83 vc_templates/stm_post_info.php:19
+#: partials/content.php:92
+msgid "Category:"
+msgstr "التصنيف:"
+
+#: woocommerce/content-single-product.php:103
+#: woocommerce/content-single-product.php:241
+msgid "Reviews"
+msgstr "التقييمات"
+
+#: woocommerce/content-single-product.php:130
+msgid "About Instructors"
+msgstr "عن المُدربين"
+
+#: woocommerce/content-single-product.php:145
+#: woocommerce/content-single-product.php:195
+msgid "Watch Expert Page"
+msgstr "شاهد الفيديو"
+
+#: woocommerce/content-single-product.php:162
+#: vc_templates/stm_teachers_grid.php:56
+msgid "View expert on"
+msgstr "عرض"
+
+#: woocommerce/content-single-product.php:192
+msgid "About Instructor"
+msgstr "عن المُدرب"
+
+#: woocommerce/content-single-product.php:211
+#: vc_templates/stm_teacher_detail.php:29 vc_templates/stm_experts.php:89
+#: partials/loop-teacher.php:25
+#, php-format
+msgid "View expert on %s"
+msgstr "عرض الطلب : %s"
+
+#: woocommerce/content-single-product.php:245
+msgid "Average Rating"
+msgstr "متوسط التقييم"
+
+#: woocommerce/content-single-product.php:252
+msgid "Ratings"
+msgstr "التقييم"
+
+#: woocommerce/content-single-product.php:289
+msgid "Detailed Rating"
+msgstr "تفاصيل التقييم"
+
+#: woocommerce/content-single-product.php:300
+msgid "Stars"
+msgstr "نجوم"
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr "بحث عن : "
+
+#: woocommerce/product-searchform.php:26
+msgid "Search the Courses"
+msgstr "شاهد الدورة"
+
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "Search for:"
+msgstr "بحث عن : "
+
+#: woocommerce/product-searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: inc/custom.php:39
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s في %2$s"
+
+#: inc/custom.php:41
+msgid ""
+"<span class=\"vertical_divider\"></span>Reply <i class=\"fa fa-reply\"></i>"
+msgstr ""
+"<span class=\"vertical_divider\"></span>رد <i class=\"fa fa-reply\"></i>"
+
+#: inc/custom.php:42
+msgid ""
+"<span class=\"vertical_divider\"></span>Edit <i class=\"fa fa-pencil-square-o"
+"\"></i>"
+msgstr ""
+"<span class=\"vertical_divider\"></span>تعديل <i class=\"fa fa-pencil-square-o"
+"\"></i>"
+
+#: inc/custom.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر الموافقة عليه."
+
+#: inc/custom.php:93
+msgctxt "noun"
+msgid "Message"
+msgstr "الرسالة"
+
+#: inc/custom.php:614
+msgid "No Status"
+msgstr "لا يوجد حالة"
+
+#: inc/custom.php:615
+msgid "Hot"
+msgstr "مشهور"
+
+#: inc/custom.php:616
+#, fuzzy
+msgid "Special"
+msgstr ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+
+#: inc/custom.php:617
+msgid "New"
+msgstr "جديد"
+
+#: inc/scripts_styles.php:136
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/setup.php:34
+#, fuzzy
+msgid "Top primary menu"
+msgstr "القائمة الرئيسية"
+
+#: inc/setup.php:35
+#, fuzzy
+msgid "Secondary menu in the footer"
+msgstr "ثانوي"
+
+#: inc/setup.php:43
+#, fuzzy
+msgid "Primary Sidebar"
+msgstr "ابتدائي"
+
+#: inc/setup.php:45
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: inc/setup.php:53
+#, fuzzy
+msgid "Footer Top"
+msgstr "تذييل أعلى وسيلة شرح"
+
+#: inc/setup.php:55
+#, fuzzy
+msgid "Footer Top Widgets Area"
+msgstr "منطقة تذييل أعلى الصفحة"
+
+#: inc/setup.php:63
+msgid "Footer Bottom"
+msgstr "أسفل التذييل"
+
+#: inc/setup.php:65
+#, fuzzy
+msgid "Footer Bottom Widgets Area"
+msgstr "أسفل منطقة القطعة تذييل / الشريط الجانبي"
+
+#: inc/setup.php:74
+msgid "Shop"
+msgstr "المتجر"
+
+#: inc/setup.php:76
+#, fuzzy
+msgid "Woocommerce pages sidebar"
+msgstr "Sidebar used on WooCommerce pages."
+
+#: inc/visual_composer.php:34
+#, fuzzy
+msgid "Stretch column"
+msgstr "تمتد"
+
+#: inc/visual_composer.php:37
+#: inc/admin/product_registration/screens/install_demo.php:25
+msgid "Default"
+msgstr "افتراضي"
+
+#: inc/visual_composer.php:38
+#, fuzzy
+msgid "Stretch out to the left"
+msgstr "تمتد"
+
+#: inc/visual_composer.php:39
+#, fuzzy
+msgid "Stretch out to the right"
+msgstr "تمتد"
+
+#: inc/visual_composer.php:51
+#, fuzzy
+msgid "Gallery type"
+msgstr "معرض نوع المعرض"
+
+#: inc/visual_composer.php:54
+#, fuzzy
+msgid "Image grid"
+msgstr "Grid"
+
+#: inc/visual_composer.php:55
+#, fuzzy
+msgid "Slick slider"
+msgstr "عارض الشرائح"
+
+#: inc/visual_composer.php:56
+#, fuzzy
+msgid "Slick slider 2"
+msgstr "عارض الشرائح"
+
+#: inc/visual_composer.php:61
+#, fuzzy
+msgid "Thumbnail size"
+msgstr "الصورة البارزة للتصنيف"
+
+#: inc/visual_composer.php:70 inc/visual_composer.php:98
+#: inc/visual_composer.php:120 inc/visual_composer.php:353
+#: inc/visual_composer.php:476 inc/visual_composer.php:619
+#: inc/visual_composer.php:714 inc/visual_composer.php:822
+#: inc/visual_composer.php:842 inc/visual_composer.php:926
+#: inc/visual_composer.php:1107 inc/visual_composer.php:1138
+#: inc/visual_composer.php:1164 inc/visual_composer.php:1199
+#: inc/visual_composer.php:1215 inc/visual_composer.php:1230
+#: inc/visual_composer.php:1257 inc/visual_composer.php:1272
+#: inc/visual_composer.php:1287 inc/visual_composer.php:1302
+#: inc/visual_composer.php:1371 inc/visual_composer.php:1496
+#: inc/visual_composer.php:1546 inc/visual_composer.php:1576
+#: inc/visual_composer.php:1599 inc/visual_composer.php:1614
+#: inc/visual_composer.php:1650 inc/visual_composer.php:1671
+#: inc/visual_composer.php:1707 inc/vc/modules/stm_lms_recent_courses.php:52
+#: inc/vc/modules/stm_lms_instructors_carousel.php:82
+#: inc/vc/modules/stm_image_box.php:83
+#: inc/vc/modules/stm_lms_courses_grid.php:99
+#: inc/vc/modules/stm_lms_single_course_carousel.php:70
+#: inc/vc/modules/stm_courses_searchbox.php:18
+#: inc/vc/modules/stm_lms_courses_categories.php:47
+#: inc/vc/modules/stm_lms_featured_teacher.php:49
+#: inc/vc/modules/stm_lms_courses_carousel.php:113
+#, fuzzy
+msgid "Css"
+msgstr "فئات السي أس أس (إختياري )"
+
+#: inc/visual_composer.php:72 inc/visual_composer.php:100
+#: inc/visual_composer.php:122 inc/visual_composer.php:478
+#: inc/visual_composer.php:621 inc/visual_composer.php:716
+#: inc/visual_composer.php:824 inc/visual_composer.php:844
+#: inc/visual_composer.php:928 inc/visual_composer.php:1109
+#: inc/visual_composer.php:1140 inc/visual_composer.php:1166
+#: inc/visual_composer.php:1201 inc/visual_composer.php:1259
+#: inc/visual_composer.php:1373 inc/visual_composer.php:1548
+#: inc/visual_composer.php:1709 inc/vc/modules/stm_lms_recent_courses.php:54
+#: inc/vc/modules/stm_lms_instructors_carousel.php:84
+#: inc/vc/modules/stm_image_box.php:85
+#: inc/vc/modules/stm_lms_courses_grid.php:101
+#: inc/vc/modules/stm_lms_single_course_carousel.php:72
+#: inc/vc/modules/stm_courses_searchbox.php:20
+#: inc/vc/modules/stm_lms_courses_categories.php:49
+#: inc/vc/modules/stm_lms_featured_teacher.php:51
+#: inc/vc/modules/stm_lms_courses_carousel.php:115
+#, fuzzy
+msgid "Design options"
+msgstr "نمط تصميم الزر"
+
+#: inc/visual_composer.php:79
+msgid "Responsiveness"
+msgstr ""
+
+#: inc/visual_composer.php:81
+#, fuzzy
+msgid "Width & Responsiveness"
+msgstr "Width"
+
+#: inc/visual_composer.php:82
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: inc/visual_composer.php:89 inc/tgm/tgm-plugin-activation.php:2445
+msgid "Type"
+msgstr "وصف"
+
+#: inc/visual_composer.php:92
+#, fuzzy
+msgid "Type 1"
+msgstr "تعيين صورة الخلفية لنوع تخطيط الرأس٪ 1 $ sVertical Nav٪ 2 $ s."
+
+#: inc/visual_composer.php:93
+#, fuzzy
+msgid "Type 2"
+msgstr "%1$s ليس من نوع %2$s"
+
+#: inc/visual_composer.php:107
+#, fuzzy
+msgid "Iframe Link"
+msgstr "رابط"
+
+#: inc/visual_composer.php:112
+#, fuzzy
+msgid "Preview Image"
+msgstr "Preview"
+
+#: inc/visual_composer.php:129
+#, fuzzy
+msgid "Background position"
+msgstr "Background Position"
+
+#: inc/visual_composer.php:131
+msgid "Enter background-position in CSS like format"
+msgstr ""
+
+#: inc/visual_composer.php:135
+#, fuzzy
+msgid "Remove Background on mobile"
+msgstr "حذف"
+
+#: inc/visual_composer.php:138
+msgid "No"
+msgstr ""
+
+#: inc/visual_composer.php:139
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/visual_composer.php:144
+msgid "MasterStudy Animations"
+msgstr ""
+
+#: inc/visual_composer.php:147 inc/visual_composer.php:518
+msgid "None"
+msgstr "لا شيء"
+
+#: inc/visual_composer.php:148
+#, fuzzy
+msgid "Flying Students"
+msgstr "الطلاب"
+
+#: inc/visual_composer.php:151 inc/visual_composer.php:157
+#: inc/visual_composer.php:167 inc/visual_composer.php:1498
+#, fuzzy
+msgid "Design Options"
+msgstr "نمط تصميم الزر"
+
+#: inc/visual_composer.php:155
+#, fuzzy
+msgid "Animation position on Desktop"
+msgstr "الموقع"
+
+#: inc/visual_composer.php:165
+#, fuzzy
+msgid "Animation position on Laptop"
+msgstr "الموقع"
+
+#: inc/visual_composer.php:178
+#, fuzzy
+msgid "Laptop Height"
+msgstr "Height"
+
+#: inc/visual_composer.php:180 inc/visual_composer.php:186
+#: inc/visual_composer.php:192
+msgid "Enter empty space height (Note: CSS measurement units allowed)."
+msgstr ""
+
+#: inc/visual_composer.php:184
+#, fuzzy
+msgid "Tablet Height"
+msgstr "Height"
+
+#: inc/visual_composer.php:190
+#, fuzzy
+msgid "Mobile Height"
+msgstr "جوال"
+
+#: inc/visual_composer.php:199 inc/visual_composer.php:314
+#: inc/visual_composer.php:386 inc/vc/modules/stm_lms_recent_courses.php:42
+#: inc/vc/modules/stm_image_box.php:18
+#: inc/vc/modules/stm_lms_courses_categories.php:35
+msgid "Style"
+msgstr "المظهر"
+
+#: inc/visual_composer.php:200
+#, fuzzy
+msgid "Select button display style."
+msgstr "حدد نمط مربع الرمز."
+
+#: inc/visual_composer.php:204
+#, fuzzy
+msgid "Modern"
+msgstr "قالب فهرس"
+
+#: inc/visual_composer.php:205
+#, fuzzy
+msgid "Classic"
+msgstr "أحمر كلاسيك"
+
+#: inc/visual_composer.php:206
+msgid "Flat"
+msgstr "قيمة ثابتة"
+
+#: inc/visual_composer.php:207
+#, fuzzy
+msgid "Outline"
+msgstr "خطط دورتك وأضف المحتوى مع الأقسام، الدروس والإختبارات."
+
+#: inc/visual_composer.php:208
+msgid "3d"
+msgstr ""
+
+#: inc/visual_composer.php:209
+msgid "Custom"
+msgstr "مخصص"
+
+#: inc/visual_composer.php:210
+#, fuzzy
+msgid "Outline custom"
+msgstr "مخصص"
+
+#: inc/visual_composer.php:211
+msgid "Gradient"
+msgstr ""
+
+#: inc/visual_composer.php:212
+#, fuzzy
+msgid "Gradient Custom"
+msgstr "تواريخ محددة:"
+
+#: inc/visual_composer.php:213
+#, fuzzy
+msgid "Theme Button"
+msgstr "زر موضوع اللون"
+
+#: inc/visual_composer.php:221
+msgid "Gap"
+msgstr ""
+
+#: inc/visual_composer.php:224
+msgid "0px"
+msgstr ""
+
+#: inc/visual_composer.php:225
+#, fuzzy
+msgid "1px"
+msgstr ""
+"The width of your border. (eg. 1px 1px 1px 1px) Note: the widths are in this "
+"order: top right bottom left"
+
+#: inc/visual_composer.php:226
+msgid "2px"
+msgstr ""
+
+#: inc/visual_composer.php:227
+msgid "3px"
+msgstr ""
+
+#: inc/visual_composer.php:228
+msgid "4px"
+msgstr ""
+
+#: inc/visual_composer.php:229
+msgid "5px"
+msgstr ""
+
+#: inc/visual_composer.php:230 inc/visual_composer.php:806
+msgid "10px"
+msgstr ""
+
+#: inc/visual_composer.php:231 inc/visual_composer.php:811
+msgid "15px"
+msgstr ""
+
+#: inc/visual_composer.php:232 inc/visual_composer.php:816
+#, fuzzy
+msgid "20px"
+msgstr "eg. 20px"
+
+#: inc/visual_composer.php:233
+#, fuzzy
+msgid "25px"
+msgstr "Defaults are: Top = 25px and Bottom = 25px"
+
+#: inc/visual_composer.php:234
+msgid "30px"
+msgstr ""
+
+#: inc/visual_composer.php:235
+msgid "35px"
+msgstr ""
+
+#: inc/visual_composer.php:236
+#, fuzzy
+msgid "40px"
+msgstr ""
+"يتحكم في الحشو العلوي والسفلي للتخطيط المضمن. على سبيل المثال: 40 بكسل ، 40 "
+"بكسل. يرجى وضع قيمة عدد صحيح فقط. نظرًا لأنه سيتم إضافة الوحدة &#39;px&#39; "
+"تلقائيًا إلى نهاية القيمة."
+
+#: inc/visual_composer.php:237
+msgid "45px"
+msgstr ""
+
+#: inc/visual_composer.php:238
+msgid "50px"
+msgstr ""
+
+#: inc/visual_composer.php:239
+msgid "55px"
+msgstr ""
+
+#: inc/visual_composer.php:240
+msgid "60px"
+msgstr ""
+
+#: inc/visual_composer.php:243
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: inc/visual_composer.php:278 woocommerce/myaccount/my-orders.php:14
+#: woocommerce/myaccount/my-orders.php:43 woocommerce/myaccount/my-orders.php:62
+msgid "Date"
+msgstr "التاريخ"
+
+#: inc/visual_composer.php:279
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:383
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:22
+msgid "ID"
+msgstr "المعرف"
+
+#: inc/visual_composer.php:280
+msgid "Author"
+msgstr "المُطور"
+
+#: inc/visual_composer.php:281 inc/visual_composer.php:492
+#: inc/visual_composer.php:635 inc/visual_composer.php:1123
+#: inc/visual_composer.php:1188 inc/visual_composer.php:1243
+#: inc/visual_composer.php:1561
+#: inc/vc/modules/stm_lms_instructors_carousel.php:19
+#: inc/vc/modules/stm_image_box.php:45
+#: inc/vc/modules/stm_lms_courses_grid.php:31
+#: inc/vc/modules/buddypress_instructors.php:18
+#: inc/vc/modules/buddypress_groups.php:18
+#: inc/vc/modules/stm_lms_courses_carousel.php:21
+msgid "Title"
+msgstr "Title"
+
+#: inc/visual_composer.php:282
+#, fuzzy
+msgid "Modified"
+msgstr "تاريخ آخر تعديل"
+
+#: inc/visual_composer.php:283 vc_templates/stm_buddypress_groups.php:23
+msgid "Random"
+msgstr "عشوائي"
+
+#: inc/visual_composer.php:284
+#, fuzzy
+msgid "Comment count"
+msgstr "التعليق"
+
+#: inc/visual_composer.php:285
+msgid "Menu order"
+msgstr "ترتيب العبوة في القائمة"
+
+#: inc/visual_composer.php:290
+msgid "Descending"
+msgstr "تنازلي"
+
+#: inc/visual_composer.php:291
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: inc/visual_composer.php:294
+#, fuzzy
+msgid "STM Teachers"
+msgstr "المعلمين فقط"
+
+#: inc/visual_composer.php:301 inc/visual_composer.php:368
+#, fuzzy
+msgid "Section title"
+msgstr "عنوان القسم"
+
+#: inc/visual_composer.php:303 inc/visual_composer.php:370
+#, fuzzy
+msgid "Title will be shown on the top of section"
+msgstr "الرجاء إدخال عنوان القسم"
+
+#: inc/visual_composer.php:308
+#, fuzzy
+msgid "Number of Teachers to output"
+msgstr "المعلمين فقط"
+
+#: inc/visual_composer.php:310 inc/visual_composer.php:376
+#: inc/visual_composer.php:434
+#, fuzzy
+msgid "Fill field with number only"
+msgstr "الاسم يجب ان يحتوي على حروف فقط"
+
+#: inc/visual_composer.php:323
+#, fuzzy
+msgid "All teachers"
+msgstr "المعلمين فقط"
+
+#: inc/visual_composer.php:333
+#, fuzzy
+msgid "Number of Teachers per row"
+msgstr "عدد الخدمات لكل صف"
+
+#: inc/visual_composer.php:345
+#, fuzzy
+msgid "STM Teacher Details"
+msgstr "المحاضر"
+
+#: inc/visual_composer.php:348 inc/visual_composer.php:487
+#: inc/visual_composer.php:630 inc/visual_composer.php:725
+#: inc/visual_composer.php:833 inc/visual_composer.php:854
+#: inc/visual_composer.php:976 inc/visual_composer.php:1119
+#: inc/visual_composer.php:1149 inc/visual_composer.php:1184
+#: inc/visual_composer.php:1211 inc/visual_composer.php:1225
+#: inc/visual_composer.php:1239 inc/visual_composer.php:1268
+#: inc/visual_composer.php:1283 inc/visual_composer.php:1298
+#: inc/visual_composer.php:1313 inc/visual_composer.php:1361
+#: inc/visual_composer.php:1383 inc/visual_composer.php:1458
+#: inc/visual_composer.php:1506 inc/visual_composer.php:1557
+#: inc/visual_composer.php:1585 inc/visual_composer.php:1610
+#: inc/visual_composer.php:1624 inc/visual_composer.php:1660
+#: inc/visual_composer.php:1688
+msgid "STM"
+msgstr ""
+
+#: inc/visual_composer.php:349
+#, fuzzy
+msgid "Only on expert page"
+msgstr "إظهار أو إخفاء العنوان فقط لهذه الصفحة."
+
+#: inc/visual_composer.php:361
+#, fuzzy
+msgid "STM Testimonials"
+msgstr "قالوا عنا"
+
+#: inc/visual_composer.php:374
+#, fuzzy
+msgid "Number of testimonials to output"
+msgstr "قالوا عنا"
+
+#: inc/visual_composer.php:380
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: inc/visual_composer.php:398
+#, fuzzy
+msgid "Number of testimonials per row"
+msgstr "عدد الموارد لكل صف"
+
+#: inc/visual_composer.php:419
+#, fuzzy
+msgid "STM Post List"
+msgstr "مقالة"
+
+#: inc/visual_composer.php:425
+#, fuzzy
+msgid "Post Data"
+msgstr "نشر في"
+
+#: inc/visual_composer.php:427
+#, fuzzy
+msgid "Choose post type"
+msgstr "نوع المنشور"
+
+#: inc/visual_composer.php:432 inc/visual_composer.php:874
+#: inc/visual_composer.php:1042
+#, fuzzy
+msgid "Number of items to output"
+msgstr "Number of Items"
+
+#: inc/visual_composer.php:438
+#, fuzzy
+msgid "Number of items to output per row"
+msgstr "عدد الموارد لكل صف"
+
+#: inc/visual_composer.php:448
+#, fuzzy
+msgid "List design"
+msgstr "نمط تصميم الزر"
+
+#: inc/visual_composer.php:452
+#, fuzzy
+msgid "Show post date"
+msgstr "Post date"
+
+#: inc/visual_composer.php:454 inc/visual_composer.php:460
+#: inc/visual_composer.php:466 inc/visual_composer.php:472
+#, fuzzy
+msgid "Item design"
+msgstr "عنصر"
+
+#: inc/visual_composer.php:458
+#, fuzzy
+msgid "Show post categories"
+msgstr "عرض التصنيفات"
+
+#: inc/visual_composer.php:464
+#, fuzzy
+msgid "Show post tags"
+msgstr "عرض الوسوم"
+
+#: inc/visual_composer.php:470
+#, fuzzy
+msgid "Show comments tags"
+msgstr "عرض الوسوم"
+
+#: inc/visual_composer.php:484
+#, fuzzy
+msgid "Icon Box"
+msgstr "أيقونة صندوق الاسلوب"
+
+#: inc/visual_composer.php:497 inc/visual_composer.php:729
+msgid "Link"
+msgstr "رابط"
+
+#: inc/visual_composer.php:502
+#, fuzzy
+msgid "Title Holder"
+msgstr "العنوان"
+
+#: inc/visual_composer.php:515
+#, fuzzy
+msgid "Hover position"
+msgstr "الموقع"
+
+#: inc/visual_composer.php:519
+msgid "Top"
+msgstr "أعلى"
+
+#: inc/visual_composer.php:520
+msgid "Right"
+msgstr "يمين"
+
+#: inc/visual_composer.php:521
+msgid "Left"
+msgstr "يسار"
+
+#: inc/visual_composer.php:522
+msgid "Bottom"
+msgstr "Bottom"
+
+#: inc/visual_composer.php:528
+#, fuzzy
+msgid "Box background color"
+msgstr "لون الخلفية لصندوق الدخول"
+
+#: inc/visual_composer.php:534
+#, fuzzy
+msgid "Box text color"
+msgstr "حقل نصي"
+
+#: inc/visual_composer.php:540
+#, fuzzy
+msgid "Box icon color"
+msgstr "أيقونة صندوق الاسلوب"
+
+#: inc/visual_composer.php:545
+#, fuzzy
+msgid "Link color style"
+msgstr "لون الرابط الأساسي"
+
+#: inc/visual_composer.php:551 inc/visual_composer.php:564
+#: inc/visual_composer.php:575 inc/visual_composer.php:661
+#, fuzzy
+msgid "Enter icon size in px"
+msgstr "حجم الخط (px)"
+
+#: inc/visual_composer.php:555 inc/visual_composer.php:652
+#: inc/visual_composer.php:797 inc/visual_composer.php:1398
+#: inc/vc/modules/stm_image_box.php:65
+msgid "Icon"
+msgstr "أيقونة"
+
+#: inc/visual_composer.php:561 inc/visual_composer.php:658
+msgid "Icon Size"
+msgstr "Icon Size"
+
+#: inc/visual_composer.php:568
+msgid "Icon Align"
+msgstr "Icon Align"
+
+#: inc/visual_composer.php:579 inc/visual_composer.php:665
+#, fuzzy
+msgid "Icon Height"
+msgstr "Icon Line Height"
+
+#: inc/visual_composer.php:586 inc/visual_composer.php:597
+#: inc/visual_composer.php:668
+#, fuzzy
+msgid "Enter icon height in px"
+msgstr "أدخل أقصى ارتفاع للشعار في px."
+
+#: inc/visual_composer.php:590
+#, fuzzy
+msgid "Icon Width"
+msgstr "أيقونة"
+
+#: inc/visual_composer.php:601
+msgid "Icon Color"
+msgstr "لون الايقونة"
+
+#: inc/visual_composer.php:608
+msgid "Text"
+msgstr "نص"
+
+#: inc/visual_composer.php:613
+#, fuzzy
+msgid "Icon Css"
+msgstr "ستايل مخصص"
+
+#: inc/visual_composer.php:615
+#, fuzzy
+msgid "Icon Design options"
+msgstr "أيقونة"
+
+#: inc/visual_composer.php:627
+#, fuzzy
+msgid "Stats Counter"
+msgstr "احصاءات"
+
+#: inc/visual_composer.php:640
+#, fuzzy
+msgid "Counter Value"
+msgstr "القيمة"
+
+#: inc/visual_composer.php:646 paid-memberships-pro/pages/billing.php:62
+msgid "Duration"
+msgstr "المدة"
+
+#: inc/visual_composer.php:672
+#, fuzzy
+msgid "Text alignment"
+msgstr "محاذاة النص"
+
+#: inc/visual_composer.php:679
+#, fuzzy
+msgid "Text alignment in block"
+msgstr "عنوان الصفحة محاذاة النص"
+
+#: inc/visual_composer.php:683
+#, fuzzy
+msgid "Text color"
+msgstr "لون الخط"
+
+#: inc/visual_composer.php:685
+#, fuzzy
+msgid "Text color(white - default)"
+msgstr "الافتراضي (نص أبيض)"
+
+#: inc/visual_composer.php:689
+#, fuzzy
+msgid "Text font size (px)"
+msgstr "حجم الخط (px)"
+
+#: inc/visual_composer.php:694
+#, fuzzy
+msgid "Counter text color"
+msgstr "لون النص الافتراضي"
+
+#: inc/visual_composer.php:696
+#, fuzzy
+msgid "Counter Text color(yellow - default)"
+msgstr "لون النص الأساسي. الإفتراضي هو %s."
+
+#: inc/visual_composer.php:700
+#, fuzzy
+msgid "Counter text font size (px)"
+msgstr "حجم الخط (px)"
+
+#: inc/visual_composer.php:705
+#, fuzzy
+msgid "Include Border"
+msgstr "Border"
+
+#: inc/visual_composer.php:722
+#, fuzzy
+msgid "Icon Button"
+msgstr "أيقونة"
+
+#: inc/visual_composer.php:734
+#, fuzzy
+msgid "Link tooltip (title)"
+msgstr "اربط بالاعلى عنوان مع مستخدم التويتر"
+
+#: inc/visual_composer.php:740
+#, fuzzy
+msgid "Button alignment"
+msgstr "محاذاة النص"
+
+#: inc/visual_composer.php:751
+msgid "Button Size"
+msgstr "حجم الزر"
+
+#: inc/visual_composer.php:761
+msgid "Button Text Color"
+msgstr "Button Text Color"
+
+#: inc/visual_composer.php:767
+#, fuzzy
+msgid "Button Text Color Hover"
+msgstr "Button Text Color"
+
+#: inc/visual_composer.php:773
+msgid "Button Background Color"
+msgstr "Button Background Color"
+
+#: inc/visual_composer.php:779
+#, fuzzy
+msgid "Button Background Color Hover"
+msgstr "Select the background color of the newsletter button."
+
+#: inc/visual_composer.php:785
+msgid "Button Border Color"
+msgstr "لون برواز الزر"
+
+#: inc/visual_composer.php:791
+#, fuzzy
+msgid "Button Border Color Hover"
+msgstr "لون برواز زر التسجيل"
+
+#: inc/visual_composer.php:807
+msgid "11px"
+msgstr ""
+
+#: inc/visual_composer.php:808
+msgid "12px"
+msgstr ""
+
+#: inc/visual_composer.php:809
+msgid "13px"
+msgstr ""
+
+#: inc/visual_composer.php:810
+msgid "14px"
+msgstr ""
+
+#: inc/visual_composer.php:812
+msgid "16px"
+msgstr ""
+
+#: inc/visual_composer.php:813
+msgid "17px"
+msgstr ""
+
+#: inc/visual_composer.php:814
+#, fuzzy
+msgid "18px"
+msgstr "الافتراضي: 18 بكسل"
+
+#: inc/visual_composer.php:815
+msgid "19px"
+msgstr ""
+
+#: inc/visual_composer.php:830
+#, fuzzy
+msgid "Colored Separator"
+msgstr "مربع ملون"
+
+#: inc/visual_composer.php:837
+#, fuzzy
+msgid "Separator Color"
+msgstr "فاصل الأرقام العشرية"
+
+#: inc/visual_composer.php:851
+msgid "Product Categories"
+msgstr "اقسام المنتجات"
+
+#: inc/visual_composer.php:858 inc/visual_composer.php:1028
+#, fuzzy
+msgid "View type"
+msgstr "النوع"
+
+#: inc/visual_composer.php:869 inc/visual_composer.php:1037
+#, fuzzy
+msgid "Carousel Auto Scroll"
+msgstr "دائري"
+
+#: inc/visual_composer.php:880 inc/visual_composer.php:1048
+#, fuzzy
+msgid "Number of items per row"
+msgstr "عدد الأعمال لكل صف"
+
+#: inc/visual_composer.php:893
+#, fuzzy
+msgid "Box text Color"
+msgstr "حقل نصي"
+
+#: inc/visual_composer.php:899
+#, fuzzy
+msgid "Text box Align"
+msgstr "Text Align"
+
+#: inc/visual_composer.php:910
+#, fuzzy
+msgid "Icon size"
+msgstr "Icon Size"
+
+#: inc/visual_composer.php:918
+#, fuzzy
+msgid "Icon height"
+msgstr "Icon Line Height"
+
+#: inc/visual_composer.php:973
+msgid "Products List (All, featured, teacher courses)"
+msgstr ""
+
+#: inc/visual_composer.php:980
+#, fuzzy
+msgid "Meta sorting key"
+msgstr "مفتاح الميتا."
+
+#: inc/visual_composer.php:993
+#, fuzzy
+msgid "Choose expert"
+msgstr "اختر التذييل"
+
+#: inc/visual_composer.php:1005
+#, fuzzy
+msgid "Choose tag"
+msgstr "اختر علامة عنصر العنوان"
+
+#: inc/visual_composer.php:1017
+#, fuzzy
+msgid "Choose category"
+msgstr "اختر تصنيفًا لعرض الإحصائيات"
+
+#: inc/visual_composer.php:1044
+#, fuzzy
+msgid "Leave empty to display all"
+msgstr ""
+"Insert the id of the categories to pull campaigns from (eg. 1,3,5). Leave "
+"empty to display all campaigns."
+
+#: inc/visual_composer.php:1060 woocommerce/myaccount/my-orders.php:13
+#: woocommerce/myaccount/my-orders.php:42
+#, fuzzy
+msgid "Order"
+msgstr "الترتيب حسب"
+
+#: inc/visual_composer.php:1070
+msgid "Order by"
+msgstr "ترتيب حسب"
+
+#: inc/visual_composer.php:1077
+#, fuzzy
+msgid "Don't Show price"
+msgstr "Price"
+
+#: inc/visual_composer.php:1083
+#, fuzzy
+msgid "Don't Show rating"
+msgstr "RATING"
+
+#: inc/visual_composer.php:1089
+#, fuzzy
+msgid "Don't Show comments number"
+msgstr "عدد التعليقات"
+
+#: inc/visual_composer.php:1095
+#, fuzzy
+msgid "Price Badge background color"
+msgstr "سعر المنتج اللون"
+
+#: inc/visual_composer.php:1101
+msgid "Price Badge (Free) background color"
+msgstr ""
+
+#: inc/visual_composer.php:1116
+msgid "Mailchimp"
+msgstr "MailChimp"
+
+#: inc/visual_composer.php:1128
+#: inc/vc/modules/stm_lms_instructors_carousel.php:48
+#: inc/vc/modules/stm_lms_courses_carousel.php:26
+#, fuzzy
+msgid "Title color"
+msgstr "لون العنوان"
+
+#: inc/visual_composer.php:1133
+#, fuzzy
+msgid "Button color"
+msgstr "لون زر العودة"
+
+#: inc/visual_composer.php:1146
+#, fuzzy
+msgid "Countdown"
+msgstr "Single Event Countdown Background"
+
+#: inc/visual_composer.php:1153
+#, fuzzy
+msgid "Count to date"
+msgstr "عد:"
+
+#: inc/visual_composer.php:1159
+#, fuzzy
+msgid "Labels color"
+msgstr "اللون"
+
+#: inc/visual_composer.php:1181
+msgid "Sign Up Now"
+msgstr "سجـل الآن"
+
+#: inc/visual_composer.php:1193
+msgid "Choose form"
+msgstr "إختر "
+
+#: inc/visual_composer.php:1207
+msgid "Post info"
+msgstr "معلومات"
+
+#: inc/visual_composer.php:1210 inc/visual_composer.php:1226
+#: inc/visual_composer.php:1282 inc/visual_composer.php:1297
+#, fuzzy
+msgid "Only on post page"
+msgstr "إظهار أو إخفاء العنوان فقط لهذه الصفحة."
+
+#: inc/visual_composer.php:1222
+#, fuzzy
+msgid "Post tags"
+msgstr "الوسوم:"
+
+#: inc/visual_composer.php:1237
+msgid "Share"
+msgstr "مشاركة"
+
+#: inc/visual_composer.php:1245
+msgid "Share:"
+msgstr "مشاركة:"
+
+#: inc/visual_composer.php:1249 inc/visual_composer.php:1692
+msgid "Code"
+msgstr "الرمز"
+
+#: inc/visual_composer.php:1265
+#, fuzzy
+msgid "Multiply separator"
+msgstr "فاصل الآلاف"
+
+#: inc/visual_composer.php:1279
+msgid "Post author"
+msgstr "Post author"
+
+#: inc/visual_composer.php:1294
+#, fuzzy
+msgid "Post comments"
+msgstr "التعليقات "
+
+#: inc/visual_composer.php:1309
+#, fuzzy
+msgid "Animation Block"
+msgstr "عنوان الودجت"
+
+#: inc/visual_composer.php:1317
+#, fuzzy
+msgid "Select Animation type"
+msgstr "--تحديد النوع--"
+
+#: inc/visual_composer.php:1343
+msgid "Duration (ms)"
+msgstr "المدة بالثواني"
+
+#: inc/visual_composer.php:1349
+msgid "Delay (ms)"
+msgstr "تأخير (ثانية)"
+
+#: inc/visual_composer.php:1358
+msgid "Course Lessons"
+msgstr "الدروس"
+
+#: inc/visual_composer.php:1365
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: inc/visual_composer.php:1380
+msgid "Lesson"
+msgstr "درس"
+
+#: inc/visual_composer.php:1387
+msgid "Lesson title"
+msgstr "عنوان الدرس"
+
+#: inc/visual_composer.php:1393 vc_templates/stm_course_lesson.php:94
+msgid "Private"
+msgstr "خاص"
+
+#: inc/visual_composer.php:1410
+msgid "Lesson badge"
+msgstr "وسام الامتياز"
+
+#: inc/visual_composer.php:1428
+msgid "Preview video"
+msgstr "مشاهدة الفيديو"
+
+#: inc/visual_composer.php:1429
+msgid ""
+"This video will be opened in popup by clicking \"Preview\" button (just "
+"insert link to the video)"
+msgstr ""
+
+#: inc/visual_composer.php:1434
+#, fuzzy
+msgid "Private lesson content placeholder"
+msgstr "هذا الدرس لم يحصل على محتوى"
+
+#: inc/visual_composer.php:1435
+msgid "You can change standart placeholder to your custom text"
+msgstr ""
+
+#: inc/visual_composer.php:1440
+msgid "Lesson meta"
+msgstr "تفاصيل الدرس"
+
+#: inc/visual_composer.php:1447
+#, fuzzy
+msgid "Lesson Icon"
+msgstr "أيقونة"
+
+#: inc/visual_composer.php:1455
+#, fuzzy
+msgid "Pricing Plan"
+msgstr "التسعير"
+
+#: inc/visual_composer.php:1462
+#, fuzzy
+msgid "Plan title"
+msgstr "العنوان"
+
+#: inc/visual_composer.php:1468
+#, fuzzy
+msgid "Plan Color"
+msgstr "اللون"
+
+#: inc/visual_composer.php:1473
+#, fuzzy
+msgid "Plan price"
+msgstr "Price"
+
+#: inc/visual_composer.php:1479
+#, fuzzy
+msgid "Plan payment period"
+msgstr "فترة"
+
+#: inc/visual_composer.php:1485
+#, fuzzy
+msgid "Plan Text"
+msgstr "نص"
+
+#: inc/visual_composer.php:1491
+#, fuzzy
+msgid "Plan Button"
+msgstr "صورة مخطط الطابق"
+
+#: inc/visual_composer.php:1504
+msgid "Contact"
+msgstr "اتصال"
+
+#: inc/visual_composer.php:1515 inc/vc/modules/stm_image_box.php:40
+#: inc/vc/modules/stm_lms_featured_teacher.php:44
+msgid "Image"
+msgstr "صورة"
+
+#: inc/visual_composer.php:1520 inc/visual_composer.php:1634
+#: inc/vc/modules/stm_image_box.php:50
+#, fuzzy
+msgid "Image Size"
+msgstr "حجم الصورة"
+
+#: inc/visual_composer.php:1522 inc/visual_composer.php:1636
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: inc/visual_composer.php:1526
+#, fuzzy
+msgid "Job"
+msgstr "حذف"
+
+#: inc/visual_composer.php:1531 partials/event-form.php:17
+#: paid-memberships-pro/pages/checkout.php:512
+#: paid-memberships-pro/pages/billing.php:237
+msgid "Phone"
+msgstr "هاتف"
+
+#: inc/visual_composer.php:1536 woocommerce/myaccount/form-login.php:84
+msgid "Email"
+msgstr "بريد الكتروني"
+
+#: inc/visual_composer.php:1541
+msgid "Skype"
+msgstr "سكايب"
+
+#: inc/visual_composer.php:1554
+#, fuzzy
+msgid "Gallery Grid"
+msgstr "معرض الصور"
+
+#: inc/visual_composer.php:1566
+msgid "Masonry Mode"
+msgstr ""
+
+#: inc/visual_composer.php:1571
+#, fuzzy
+msgid "Gallery per page"
+msgstr "المنتجات لكل صفحة"
+
+#: inc/visual_composer.php:1583
+msgid "Certificate"
+msgstr "الشهادة"
+
+#: inc/visual_composer.php:1589
+#, fuzzy
+msgid "Certificate name"
+msgstr "الشهادة"
+
+#: inc/visual_composer.php:1594
+#, fuzzy
+msgid "Certificate Print"
+msgstr "الشهادة"
+
+#: inc/visual_composer.php:1606
+#, fuzzy
+msgid "Event info"
+msgstr "الحدث"
+
+#: inc/visual_composer.php:1609
+#, fuzzy
+msgid "Only on event page"
+msgstr "الحدث"
+
+#: inc/visual_composer.php:1621
+#, fuzzy
+msgid "Teachers Grid"
+msgstr "المعلمين فقط"
+
+#: inc/visual_composer.php:1628
+#, fuzzy
+msgid "Teacher per page"
+msgstr "حدد المنتجات لكل صفحة"
+
+#: inc/visual_composer.php:1640
+msgid "Show Pagination"
+msgstr "عرض ترقيم الصفحات"
+
+#: inc/visual_composer.php:1657
+#, fuzzy
+msgid "Events Grid"
+msgstr " الأحداث"
+
+#: inc/visual_composer.php:1664
+#, fuzzy
+msgid "Events per page"
+msgstr "المنتجات لكل صفحة"
+
+#: inc/visual_composer.php:1678
+msgid "Select"
+msgstr "اختر"
+
+#: inc/visual_composer.php:1686
+#, fuzzy
+msgid "STM Sidebar"
+msgstr "With Sidebar"
+
+#: inc/visual_composer.php:1698
+#, fuzzy
+msgid "Sidebar position"
+msgstr "مكان الشريط الجانبي"
+
+#: inc/visual_composer.php:1790 inc/visual_composer.php:1849
+#, fuzzy
+msgid "STM Teacher"
+msgstr "المحاضر"
+
+#: inc/visual_composer.php:1791
+#, fuzzy
+msgid "STM Category"
+msgstr "Category:"
+
+#: inc/visual_composer.php:1792
+msgid "STM Film play"
+msgstr ""
+
+#: inc/visual_composer.php:1793
+msgid "STM Clock"
+msgstr ""
+
+#: inc/visual_composer.php:1794
+msgid "STM Bullhorn"
+msgstr ""
+
+#: inc/visual_composer.php:1795
+#, fuzzy
+msgid "STM Mail-o"
+msgstr "بريد الكتروني"
+
+#: inc/visual_composer.php:1796
+#, fuzzy
+msgid "STM Phone-o"
+msgstr "Phone #:"
+
+#: inc/visual_composer.php:1797
+#, fuzzy
+msgid "STM Pin-o"
+msgstr "Pin on Pinterest"
+
+#: inc/visual_composer.php:1798
+#, fuzzy
+msgid "STM Skype-o"
+msgstr "سكايب"
+
+#: inc/visual_composer.php:1799
+#, fuzzy
+msgid "STM Book"
+msgstr "Book: "
+
+#: inc/visual_composer.php:1800
+msgid "STM Alarm"
+msgstr ""
+
+#: inc/visual_composer.php:1801
+msgid "STM Briefcase"
+msgstr ""
+
+#: inc/visual_composer.php:1802
+msgid "STM Diamond"
+msgstr ""
+
+#: inc/visual_composer.php:1803
+msgid "STM Earth"
+msgstr ""
+
+#: inc/visual_composer.php:1804
+msgid "STM Graduation Hat"
+msgstr ""
+
+#: inc/visual_composer.php:1805
+#, fuzzy
+msgid "STM License"
+msgstr "الرخصة"
+
+#: inc/visual_composer.php:1806
+#, fuzzy
+msgid "STM Users"
+msgstr "الأعضاء"
+
+#: inc/visual_composer.php:1807
+msgid "STM Brain"
+msgstr ""
+
+#: inc/visual_composer.php:1808
+msgid "STM Handshake"
+msgstr ""
+
+#: inc/visual_composer.php:1809
+#, fuzzy
+msgid "STM Net"
+msgstr "الأرباح الصافية"
+
+#: inc/visual_composer.php:1810
+#, fuzzy
+msgid "STM LinkedIn"
+msgstr "لينكدن"
+
+#: inc/visual_composer.php:1811
+#, fuzzy
+msgid "STM Pin"
+msgstr "Pin on Pinterest"
+
+#: inc/visual_composer.php:1812
+msgid "STM Market Researches"
+msgstr ""
+
+#: inc/visual_composer.php:1813
+msgid "STM Champion Medal"
+msgstr ""
+
+#: inc/visual_composer.php:1814
+msgid "STM Bike Riding"
+msgstr ""
+
+#: inc/visual_composer.php:1815
+msgid "STM Paint Palette"
+msgstr ""
+
+#: inc/visual_composer.php:1816
+#, fuzzy
+msgid "STM Phone"
+msgstr "Phone #:"
+
+#: inc/visual_composer.php:1817
+#, fuzzy
+msgid "STM Fax"
+msgstr "فاكس:"
+
+#: inc/visual_composer.php:1818
+#, fuzzy
+msgid "STM SEO monitoring"
+msgstr "مراقبة المتجر"
+
+#: inc/visual_composer.php:1819
+msgid "STM SEO performance up"
+msgstr ""
+
+#: inc/visual_composer.php:1820
+#, fuzzy
+msgid "STM User"
+msgstr "User"
+
+#: inc/visual_composer.php:1821
+msgid "STM Guitar"
+msgstr ""
+
+#: inc/visual_composer.php:1822
+#, fuzzy
+msgid "STM Add User"
+msgstr "+ إضافة مستخدم"
+
+#: inc/visual_composer.php:1823
+msgid "STM Adope PhotoShop"
+msgstr ""
+
+#: inc/visual_composer.php:1824
+#, fuzzy
+msgid "STM Chevrone Right"
+msgstr "يمين"
+
+#: inc/visual_composer.php:1825
+#, fuzzy
+msgid "STM Chevrone Left"
+msgstr "يسار"
+
+#: inc/visual_composer.php:1826
+msgid "STM Viral Marketing"
+msgstr ""
+
+#: inc/visual_composer.php:1827
+msgid "STM Yoga"
+msgstr ""
+
+#: inc/visual_composer.php:1828
+#, fuzzy
+msgid "STM Youtube Play"
+msgstr "يوتيوب"
+
+#: inc/visual_composer.php:1829
+#, fuzzy
+msgid "STM Book solid"
+msgstr "Solid"
+
+#: inc/visual_composer.php:1830
+#, fuzzy
+msgid "STM Book stack"
+msgstr "Book: "
+
+#: inc/visual_composer.php:1831
+#, fuzzy
+msgid "STM Ecommerce cart"
+msgstr "السلة"
+
+#: inc/visual_composer.php:1832 inc/visual_composer.php:1843
+#, fuzzy
+msgid "STM Certificate"
+msgstr "الشهادة"
+
+#: inc/visual_composer.php:1833
+#, fuzzy
+msgid "STM Mountain Climbing"
+msgstr "إقليم ماونتين"
+
+#: inc/visual_composer.php:1834
+#, fuzzy
+msgid "STM Comment solid"
+msgstr "Solid"
+
+#: inc/visual_composer.php:1835
+#, fuzzy
+msgid "STM Circle Drawer"
+msgstr "اغلاق"
+
+#: inc/visual_composer.php:1836
+msgid "STM Diploma Paper"
+msgstr ""
+
+#: inc/visual_composer.php:1837
+#, fuzzy
+msgid "STM Point Drawer"
+msgstr "اغلاق"
+
+#: inc/visual_composer.php:1838
+msgid "STM Dribble"
+msgstr ""
+
+#: inc/visual_composer.php:1839
+#, fuzzy
+msgid "STM Document Edit"
+msgstr "(Edit)"
+
+#: inc/visual_composer.php:1840
+#, fuzzy
+msgid "STM Users group"
+msgstr "المجموعة"
+
+#: inc/visual_composer.php:1841
+#, fuzzy
+msgid "STM Small logo"
+msgstr "صغير"
+
+#: inc/visual_composer.php:1844
+#, fuzzy
+msgid "STM Like"
+msgstr "اعجبني"
+
+#: inc/visual_composer.php:1845
+msgid "STM Miracle"
+msgstr ""
+
+#: inc/visual_composer.php:1846
+msgid "STM Notebook"
+msgstr ""
+
+#: inc/visual_composer.php:1847
+#, fuzzy
+msgid "STM question answers"
+msgstr "اجابات سابقة لهذا السؤال"
+
+#: inc/visual_composer.php:1848
+#, fuzzy
+msgid "STM Students"
+msgstr "الطلاب"
+
+#: inc/visual_composer.php:2039
+#, fuzzy
+msgid "Content with Right sidebar"
+msgstr "الشريط الجانبي الأيمن 1/4"
+
+#: inc/visual_composer.php:2052
+#, fuzzy
+msgid "Content with left sidebar"
+msgstr "الشريط الجانبي يسار 1/4"
+
+#: vc_templates/stm_lms_recent_courses.php:40
+msgid "All Categories"
+msgstr "All Categories"
+
+#: vc_templates/stm_lms_recent_courses.php:56
+msgid "Show all"
+msgstr "الكل"
+
+#: vc_templates/stm_post_list.php:36
+#, fuzzy
+msgid "View post details"
+msgstr "عرض التفاصيل"
+
+#: vc_templates/stm_post_list.php:56 partials/loop-list.php:17
+#, fuzzy
+msgid "Sticky Post"
+msgstr "Sticky Menu"
+
+#: vc_templates/stm_post_list.php:72 partials/loop-grid.php:68
+#: partials/loop-list.php:42
+#, fuzzy
+msgid "Posted in:"
+msgstr "تمت اضافته في"
+
+#: vc_templates/stm_post_list.php:87 partials/loop-grid.php:81
+#: partials/loop-list.php:56
+msgid "Tags:"
+msgstr "الكلمات"
+
+#: vc_templates/stm_lms_instructors_carousel.php:58
+#: vc_templates/stm_experts.php:51 vc_templates/stm_lms_courses_carousel.php:85
+#, fuzzy
+msgid "View all"
+msgstr "عرض الكل"
+
+#: vc_templates/stm_lms_instructors_carousel.php:115
+#, fuzzy
+msgid "No instructors found"
+msgstr "المدربين"
+
+#: vc_templates/stm_events_grid.php:23 partials/loop-events.php:27
+#: partials/loop-list.php:5
+#, fuzzy
+msgid "View full"
+msgstr "View the Full Changelog"
+
+#: vc_templates/vc_wp_archives.php:4
+msgid "Archives"
+msgstr "الارشيف"
+
+#: vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr "الوسوم"
+
+#: vc_templates/stm_post_author.php:11 partials/content.php:155
+msgid "Author:"
+msgstr "الكاتب"
+
+#: vc_templates/stm_post_info.php:15 partials/content.php:87
+#, fuzzy
+msgid "Posted by:"
+msgstr "تمت اضافته في"
+
+#: vc_templates/vc_wp_categories.php:4
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: vc_templates/stm_countdown.php:23
+msgid "Time is up, sorry!"
+msgstr "نأسف ، غير متاح حالياً"
+
+#: vc_templates/stm_lms_courses_grid.php:43
+#, php-format
+msgid "Found: <strong>%s Courses</strong>"
+msgstr "البحث: <strong>%s الدورات</strong>"
+
+#: vc_templates/stm_lms_courses_grid.php:47
+msgid "Sort by:"
+msgstr "فرز حسب:"
+
+#: vc_templates/stm_lms_courses_grid.php:49
+msgid "Release date (newest first)"
+msgstr "الاحدث"
+
+#: vc_templates/stm_lms_courses_grid.php:50
+msgid "Release date (oldest first)"
+msgstr "الاقدم"
+
+#: vc_templates/stm_lms_courses_grid.php:51
+msgid "Overall Rating"
+msgstr "التقييم"
+
+#: vc_templates/stm_lms_courses_grid.php:52
+msgid "Popular (most viewed)"
+msgstr "الأكثر مشاهدة"
+
+#: vc_templates/stm_gallery_grid.php:72 partials/loop-gallery.php:10
+msgid "Watch full image"
+msgstr "كل الصورة"
+
+#: vc_templates/stm_course_lesson.php:65
+#, php-format
+msgctxt "Course Badge (masterstudy Offline courses via WooCommerce)"
+msgid "%s"
+msgstr "%s"
+
+#: vc_templates/stm_course_lesson.php:78
+msgid "Preview"
+msgstr "معاينة"
+
+#: vc_templates/stm_course_lesson.php:130
+msgid ""
+"The content of this lesson is locked. To unlock it, you need to Buy this "
+"Course."
+msgstr ""
+
+#: vc_templates/stm_teachers_grid.php:46 vc_templates/stm_teachers_grid.php:65
+#: partials/loop-teacher.php:15 partials/loop-teacher.php:34
+msgid "Watch teacher page"
+msgstr "عرض صفحة المدرب"
+
+#: vc_templates/stm_buddypress_groups.php:18
+msgid "Sort by: "
+msgstr "فرز حسب:"
+
+#: vc_templates/stm_buddypress_groups.php:20
+msgid "Popular"
+msgstr "الأشهر"
+
+#: vc_templates/stm_buddypress_groups.php:21
+#: inc/tgm/tgm-plugin-activation.php:2222
+msgid "Active"
+msgstr "نشط"
+
+#: vc_templates/stm_buddypress_groups.php:22
+msgid "Newest"
+msgstr "جديد"
+
+#: vc_templates/stm_courses_searchbox.php:12
+msgid "Search Courses..."
+msgstr "البحث عن الدورات"
+
+#: vc_templates/stm_event_info.php:33 partials/content-event.php:91
+msgid "Start:"
+msgstr "البدء"
+
+#: vc_templates/stm_event_info.php:40 partials/content-event.php:94
+msgid "End:"
+msgstr "النهاية"
+
+#: vc_templates/stm_event_info.php:47 partials/content-event.php:98
+msgid "Location:"
+msgstr "الموقع"
+
+#: vc_templates/stm_event_info.php:56 partials/content-event.php:105
+msgid "Join!"
+msgstr "انضم"
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "القسم"
+
+#: vc_templates/vc_accordion_tab.php:13
+msgid "Empty section. Edit page to add content here."
+msgstr "محتوى فارغ !"
+
+#: vc_templates/vc_cta_button2.php:11
+msgid "Text on the button"
+msgstr "النص على الزر"
+
+#: vc_templates/stm_experts.php:37 partials/vc_parts/testimonials/style_1.php:26
+msgid "Scroll Carousel left"
+msgstr "الى اليسار"
+
+#: vc_templates/stm_experts.php:41 partials/vc_parts/testimonials/style_1.php:29
+msgid "Scroll Carousel right"
+msgstr "الى اليمين"
+
+#: vc_templates/stm_experts.php:50
+msgid "View all teachers"
+msgstr "عرض جميع المدربين"
+
+#: vc_templates/stm_experts.php:99
+msgid "View teacher page"
+msgstr "عرض صفحة المدرب"
+
+#: vc_templates/stm_experts.php:110
+msgid "Certified by"
+msgstr "الشهادة عبر "
+
+#: vc_templates/stm_product_categories.php:97
+msgid "Category image"
+msgstr "صورة التصنيف"
+
+#: vc_templates/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr "احدث الاخبار"
+
+#: vc_templates/stm_lms_featured_teacher.php:32
+msgid "Teacher of month"
+msgstr "مُدربيي الشهر المميزين"
+
+#: vc_templates/stm_lms_featured_teacher.php:54
+msgid "Teacher Courses:"
+msgstr "الدورات المميزة"
+
+#: vc_templates/stm_contact.php:40
+msgid "Phone: "
+msgstr "الهاتف:"
+
+#: vc_templates/stm_contact.php:44
+msgid "Email: "
+msgstr "البريد الإلكتروني: "
+
+#: vc_templates/stm_contact.php:50
+msgid "Skype: "
+msgstr "سكايب: "
+
+#: vc_templates/stm_lms_courses_carousel.php:75
+msgid "All categories"
+msgstr "كل الأقسام"
+
+#: partials/frontend_customizer.php:4
+#, fuzzy
+msgid "Header type"
+msgstr "تخطيط رأس الصفحة"
+
+#: partials/frontend_customizer.php:7
+msgid "Static"
+msgstr ""
+
+#: partials/frontend_customizer.php:9
+#, fuzzy
+msgid "Sticky"
+msgstr "Enable or disable the sticky menu."
+
+#: partials/frontend_customizer.php:14
+#, fuzzy
+msgid "Header transparency"
+msgstr "رأس الصفحة"
+
+#: partials/frontend_customizer.php:17
+msgid "On"
+msgstr ""
+
+#: partials/frontend_customizer.php:19
+msgid "Off"
+msgstr "معطل"
+
+#: partials/frontend_customizer.php:24
+msgid "Color Scheme"
+msgstr "نظام الألوان"
+
+#: partials/frontend_customizer.php:27
+#, fuzzy
+msgid "Default skin"
+msgstr "ملاحة الجلد"
+
+#: partials/frontend_customizer.php:28
+#, fuzzy
+msgid "Red skin"
+msgstr "أحمر"
+
+#: partials/frontend_customizer.php:29
+#, fuzzy
+msgid "Blue skin"
+msgstr "أزرق"
+
+#: partials/title_box.php:30
+msgid "News"
+msgstr "اخر الاخبار"
+
+#: partials/title_box.php:39
+msgid "Events"
+msgstr " الأحداث"
+
+#: partials/title_box.php:47 partials/searchform.php:6
+#: partials/headers/mobile/search.php:6
+msgid "Search"
+msgstr "بحث"
+
+#: partials/title_box.php:56
+msgid "News & Events"
+msgstr "الاخبار والفعاليات"
+
+#: partials/loop-grid.php:32
+msgid "Watch full"
+msgstr "شاهد الفيديو"
+
+#: partials/loop-grid.php:43
+msgid "No title"
+msgstr "لا عنوان"
+
+#: partials/loop-list.php:22 partials/loop-list.php:66
+msgid "Read more"
+msgstr "تفاصيل أكثر"
+
+#: partials/event-form.php:5
+msgid "Sign up for event"
+msgstr "التسجيل في الفعالية"
+
+#: partials/event-form.php:29
+msgid "Message"
+msgstr "الرسالة"
+
+#: partials/event-form.php:34 partials/headers/parts/sign-up.php:4
+msgid "Sign Up"
+msgstr "حساب جديد"
+
+#: partials/searchform.php:9
+msgid "Start typing here..."
+msgstr "البحث ..."
+
+#: woocommerce/order/tracking.php:23
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+
+#: woocommerce/order/tracking.php:23
+msgid "ago"
+msgstr "منذ"
+
+#: woocommerce/order/tracking.php:25
+msgid "and was completed"
+msgstr "وقد اكتملت"
+
+#: woocommerce/order/tracking.php:25
+msgid " ago"
+msgstr "منذ"
+
+#: woocommerce/order/tracking.php:32
+msgid "Order updates"
+msgstr "تحديثات الطلب"
+
+#: woocommerce/order/tracking.php:38
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/myaccount/my-downloads.php:30
+msgid "Available downloads"
+msgstr "التنزيلات المتاحة"
+
+#: woocommerce/myaccount/my-downloads.php:42
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] "التنزيلات المتبقية %s"
+msgstr[1] "التنزيلات المتبقية %s"
+msgstr[2] "التنزيلات المتبقية %s"
+msgstr[3] "التنزيلات المتبقية %s"
+msgstr[4] "التنزيلات المتبقية %s"
+msgstr[5] "التنزيلات المتبقية %s"
+
+#: woocommerce/myaccount/my-orders.php:15 woocommerce/myaccount/my-orders.php:44
+#: woocommerce/myaccount/my-orders.php:65 inc/tgm/tgm-plugin-activation.php:2450
+msgid "Status"
+msgstr "الحالة"
+
+#: woocommerce/myaccount/my-orders.php:16 woocommerce/myaccount/my-orders.php:45
+#: woocommerce/myaccount/my-orders.php:68
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:103 woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:122 woocommerce/cart/cart-totals.php:97
+#: woocommerce/cart/cart-totals.php:98
+#: paid-memberships-pro/pages/confirmation.php:96
+msgid "Total"
+msgstr "المجموع"
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr "أحدث الطلبات"
+
+#: woocommerce/myaccount/my-orders.php:57
+msgid "Order Number"
+msgstr "رقم الطلب"
+
+#: woocommerce/myaccount/my-orders.php:69
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s لعدد %s عناصر"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: woocommerce/myaccount/my-orders.php:78 woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr "ادفع"
+
+#: woocommerce/myaccount/my-orders.php:85
+#: paid-memberships-pro/pages/billing.php:422
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:357
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: woocommerce/myaccount/my-orders.php:91
+#: buddypress/common/js-templates/messages/index.php:216
+msgid "View"
+msgstr "عرض"
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"فقدت كلمة المرور الخاصة بك؟ الرجاء إدخال اسم المستخدم أو عنوان البريد "
+"الإلكتروني. ستتلقى رابطا لإنشاء كلمة مرور جديدة عبر البريد الإلكتروني."
+
+#: woocommerce/myaccount/form-lost-password.php:30
+#: woocommerce/global/form-login.php:35
+msgid "Username or email"
+msgstr "اسم المستخدم أو البريد الالكتروني"
+
+#: woocommerce/myaccount/form-login.php:32
+#: woocommerce/myaccount/form-login.php:49 woocommerce/global/form-login.php:49
+#: partials/headers/parts/log-in.php:15
+#: partials/headers/parts/woocommerce_login.php:19
+#: partials/headers/parts/woocommerce_login.php:44
+msgid "Login"
+msgstr "دخول"
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr "اسم المستخدم أو البريد الالكتروني"
+
+#: woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:90 woocommerce/global/form-login.php:40
+#: paid-memberships-pro/pages/checkout.php:232
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: woocommerce/myaccount/form-login.php:51 woocommerce/global/form-login.php:53
+msgid "Remember me"
+msgstr "تذكرني"
+
+#: woocommerce/myaccount/form-login.php:55 woocommerce/global/form-login.php:57
+msgid "Lost your password?"
+msgstr "نسيت كلمة مرورك؟"
+
+#: woocommerce/myaccount/form-login.php:69
+#: woocommerce/myaccount/form-login.php:102
+#: partials/headers/parts/woocommerce_login.php:22
+#: partials/headers/parts/woocommerce_login.php:47
+msgid "Register"
+msgstr "تسجيل"
+
+#: woocommerce/myaccount/form-login.php:78
+#: paid-memberships-pro/pages/checkout.php:221
+msgid "Username"
+msgstr "إسم المستخدم"
+
+#: woocommerce/myaccount/form-login.php:96
+msgid "Anti-spam"
+msgstr "ضد التحايل"
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing address"
+msgstr "عنوان الدفع"
+
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping address"
+msgstr "عنوان الشحن"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "سيتم استخدام العناوين التالية في صفحة الدفع بشكل افتراضي."
+
+#: woocommerce/myaccount/my-address.php:78
+msgid "You have not set up this type of address yet."
+msgstr "لم يتم إعداد هذا النوع من العناوين حتى الآن."
+
+#: woocommerce/myaccount/my-address.php:94
+msgid "Edit"
+msgstr "تحرير"
+
+#: woocommerce/checkout/review-order.php:23 woocommerce/checkout/form-pay.php:27
+msgid "Product"
+msgstr "المنتج"
+
+#: woocommerce/checkout/review-order.php:56 woocommerce/cart/cart-totals.php:38
+#: woocommerce/cart/cart-totals.php:39 woocommerce/cart/mini-cart.php:83
+#: paid-memberships-pro/pages/confirmation.php:91
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "لديك كوبون؟"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "انقر هنا لإدخال الرمز الخاص بك"
+
+#: woocommerce/checkout/form-coupon.php:32 woocommerce/cart/cart.php:140
+msgid "Coupon code"
+msgstr "كود الكوبون"
+
+#: woocommerce/checkout/form-coupon.php:36 woocommerce/cart/cart.php:140
+msgid "Apply coupon"
+msgstr "استخدام الكوبون"
+
+#: woocommerce/checkout/payment.php:23 woocommerce/checkout/form-pay.php:74
+msgid "Payment"
+msgstr "المدفوعات"
+
+#: woocommerce/checkout/payment.php:37
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"عذرًا ، يبدو أنه لا توجد طرق دفع متاحة لحالتك. يرجى الاتصال بنا إذا كنت بحاجة "
+"إلى مساعدة أو ترغب في إجراء ترتيبات بديلة."
+
+#: woocommerce/checkout/payment.php:37
+msgid "Please fill in your details above to see available payment methods."
+msgstr "يرجى ملء التفاصيل الخاصة بك أعلاه لرؤية وسائل الدفع المتاحة."
+
+#: woocommerce/checkout/payment.php:44
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"منذ متصفحك لا يدعم جافا سكريبت، أو أنها معطلة، يرجى التأكد النقر فوق <م> "
+"تحديث المجاميع </ م> الزر قبل وضع النظام الخاص بك. قد تكون مشحونة أكثر من "
+"المبلغ المذكور أعلاه إذا كنت فشلت في القيام بذلك."
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr "مجموع التحديثات"
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing &amp; Shipping"
+msgstr "فاتورة &amp; الشحن"
+
+#: woocommerce/checkout/form-billing.php:32
+msgid "Billing details"
+msgstr "معلومات الدفع"
+
+#: woocommerce/checkout/form-billing.php:60
+msgid "Create an account?"
+msgstr "إنشاء حساب؟"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"قم بإنشاء حساب بإدخال المعلومات أدناه. إذا كنت من العملاء العائدين ، يرجى "
+"تسجيل الدخول في أعلى الصفحة."
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "يجب عليك تسجيل الدخول ليتم الدفع."
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr "طلبك"
+
+#: woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/merchant "
+"has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"للأسف لا يمكن معالجة طلبك بسبب رفض العملية من قبل المصرف/التاجر. الرجاء "
+"محاولة الشراء مرة أخرى."
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr "حسابي"
+
+#: woocommerce/checkout/thankyou.php:40 woocommerce/checkout/thankyou.php:83
+msgid "Thank you. Your order has been received."
+msgstr "شكرًا لك. تم إستلام طلبك."
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Order number:"
+msgstr "رقم الطلب:"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr "التاريخ:"
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr "البريد الالكتروني*"
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr "الإجمالي:"
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Payment method:"
+msgstr "طريقة الدفع:"
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr "الكمية"
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr "الإجمالي"
+
+#: woocommerce/checkout/form-pay.php:94
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"للأسف يبدو أنه لا يوجد طرق دفع متوفرة لمكانك، رجاء إذا احتجت المساعدة، أو "
+"رغبت في طرح طرق بديلة رجاء اتصل بنا."
+
+#: woocommerce/checkout/form-pay.php:102
+msgid "Pay for order"
+msgstr "دفع قيمة الطلب"
+
+#: woocommerce/notices/error.php:31
+msgid "Error"
+msgstr "خطأ "
+
+#: woocommerce/notices/success.php:31
+msgid "Success"
+msgstr "ناجح"
+
+#: woocommerce/notices/notice.php:31
+msgid "Informational"
+msgstr "معلومات"
+
+#: woocommerce/cart/cart.php:29
+#: buddypress/common/js-templates/messages/index.php:183
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:306
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:385
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:24
+msgid "Delete"
+msgstr "Delete"
+
+#: woocommerce/cart/cart.php:30
+msgid "Product name"
+msgstr "اسم العبوة"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:94
+#: woocommerce/single-product/price.php:28
+msgid "Price"
+msgstr "السعر"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:100
+msgid "Quantity"
+msgstr "الكمية"
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr "إزالة هذا العنصر"
+
+#: woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr "متوفر على لائحة الرد"
+
+#: woocommerce/cart/cart.php:145
+msgid "Update cart"
+msgstr "تحديث سلة المشتريات"
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Estimate for %s."
+msgstr "التقدير المتعلق بـ %s."
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr "تغيير العنوان"
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "This is only an estimate. Prices will be updated during checkout."
+msgstr "وهذا مجرد تقدير. سيتم تحديث الأسعار أثناء السداد."
+
+#: woocommerce/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr "أدخل عنوانك لعرض خيارات الشحن."
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"لا توجد طرق شحن متاحة. يرجى التأكد من إدخال عنوان بطريقة صحيحة، أو الاتصال "
+"بنا إذا كنت بحاجة إلى الحصول على أي مساعدة."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:66
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "لم يتم العثور على أي خيارات شحن لـ %s."
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr "إدخال عنوان مختلف"
+
+#: woocommerce/cart/cart-totals.php:30
+msgid "Cart totals"
+msgstr "اجمالي سلة التسوق"
+
+#: woocommerce/cart/cart-totals.php:60 woocommerce/cart/cart-totals.php:61
+msgid "Shipping"
+msgstr "الشحن"
+
+#: woocommerce/cart/cart-totals.php:76
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(متوقع لـ %s)"
+
+#: woocommerce/cart/mini-cart.php:75
+msgid "No products in the cart."
+msgstr "لا توجد منتجات في العربة."
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "View Cart"
+msgstr "عرض السلة"
+
+#: woocommerce/cart/mini-cart.php:89 partials/headers/mobile/account.php:60
+msgid "Checkout"
+msgstr "الدفع"
+
+#: woocommerce/single-product/review.php:34
+msgid "verified owner"
+msgstr "مالك موثوق"
+
+#: woocommerce/single-product/review.php:48
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "التقييم %d من 5"
+
+#: woocommerce/single-product/review.php:49
+msgid "out of 5"
+msgstr "من 5"
+
+#: woocommerce/single-product/review.php:56
+msgid "Your comment is awaiting approval"
+msgstr "التعليق بانتظار موافقة مدير الموقع"
+
+#: woocommerce/single-product/review.php:61
+#: woocommerce/single-product/review.php:62
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s ago"
+
+#: woocommerce/single-product/product-image.php:43
+msgid "Awaiting product image"
+msgstr "بانتظار صورة المنتج"
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr "قد يهمك هذا &hellip;"
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "منتجات ذات صلة"
+
+#: woocommerce/single-product/rating.php:35
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "قُيم بـ %s من 5"
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "out of %s5%s"
+msgstr "من %s5%s"
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "تم التقييم بناءً على تقييم %s طالب"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: woocommerce/single-product/rating.php:41
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "التقييم %s"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: woocommerce/global/quantity-input.php:30
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "الكمية"
+
+#: woocommerce/global/helpbar.php:56
+msgid "All courses"
+msgstr "كافة الدورات"
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:794
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت الإضافة : %s"
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "حدث خطأ مع API المساعد."
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "الرجوع إلى مثبت الإضافات المطلوبة"
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3037
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2839
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ أي إجراء. الاضافات نشطه %1$s بالفعل نشط."
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+"لم يتم تفعيل الإضافة. إصدار أعلى من %s مطلوب لهذا القالب. يرجى تحديث الإضافة."
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الاضافات تم تفعيلها بنجاح . %1$s"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "تجاهل هذا الاشعار"
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "الرجاء الاتصال بمسؤول هذا الموقع للحصول على المساعدة."
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "يحتاج هذا البرنامج المساعد لتحديث لتكون متوافقة مع الموضوع الخاص بك."
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3446
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+"تتكون مجموعة الاضافات النائية في أكثر من ملف و احد، ولكن لم يتم تعبئتها في "
+"لملفات المجلد ."
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى الاتصال بمبرمج السكربت | عبدالله محمد الحميضي | ‪+‬966505514171 |  ونطلب "
+"منهم الحزم المساعدة وفقا للمبادئ التوجيهية للووردبريس ."
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"تتكون حزمة الإضافات على أكثر من ملف, لاكن لم يتم جمع الملفات في مجلد واحد."
+
+#: inc/tgm/tgm-plugin-activation.php:1113 inc/tgm/tgm-plugin-activation.php:2835
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1888
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/tgm-plugin-activation.php:2174
+msgid "Required"
+msgstr "مطلوبة"
+
+#: inc/tgm/tgm-plugin-activation.php:2177
+msgid "Recommended"
+msgstr "موصى به"
+
+#: inc/tgm/tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr "مستودع ووردبريس"
+
+#: inc/tgm/tgm-plugin-activation.php:2196
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: inc/tgm/tgm-plugin-activation.php:2199
+msgid "Pre-Packaged"
+msgstr "المجموعة مجهزة مسبقا"
+
+#: inc/tgm/tgm-plugin-activation.php:2216
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: inc/tgm/tgm-plugin-activation.php:2220
+msgid "Installed But Not Activated"
+msgstr "تم التثبيت ولكن لم يفعل"
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Requires Update"
+msgstr "يتطلب تحديث"
+
+#: inc/tgm/tgm-plugin-activation.php:2234
+msgid "Update recommended"
+msgstr "تحديث موصى به"
+
+#: inc/tgm/tgm-plugin-activation.php:2242
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2293
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2378
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف"
+
+#: inc/tgm/tgm-plugin-activation.php:2386
+msgid "Installed version:"
+msgstr "الإصدار المثبت:"
+
+#: inc/tgm/tgm-plugin-activation.php:2394
+msgid "Minimum required version:"
+msgstr "الحد الأدنى للإصدار المطلوب:"
+
+#: inc/tgm/tgm-plugin-activation.php:2406
+msgid "Available version:"
+msgstr "الإصدار المتوفر:"
+
+#: inc/tgm/tgm-plugin-activation.php:2429
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2443
+msgid "Plugin"
+msgstr "إضافة"
+
+#: inc/tgm/tgm-plugin-activation.php:2444
+msgid "Source"
+msgstr "المصدر"
+
+#: inc/tgm/tgm-plugin-activation.php:2449
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:433
+msgid "Version"
+msgstr "الإصدار"
+
+#: inc/tgm/tgm-plugin-activation.php:2498
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "تحديث %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2507
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2577
+msgid "Upgrade message from the plugin author:"
+msgstr "رسالة تحديث من مبرمج  الإضافة:"
+
+#: inc/tgm/tgm-plugin-activation.php:2610
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:150
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:355
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:448
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:449
+msgid "Install"
+msgstr "Install"
+
+#: inc/tgm/tgm-plugin-activation.php:2616
+#: paid-memberships-pro/pages/billing.php:420
+msgid "Update"
+msgstr "تحديث "
+
+#: inc/tgm/tgm-plugin-activation.php:2619
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:130
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:320
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:66
+msgid "Activate"
+msgstr "تفعيل"
+
+#: inc/tgm/tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم تحديد أي إضافات للتثبيت. بناءاً على ذلك لم يتم إتخاذ أي إجراء."
+
+#: inc/tgm/tgm-plugin-activation.php:2652
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم تحديد إضافات للتحديث ، لن يتم اتخاذ أى إجراء."
+
+#: inc/tgm/tgm-plugin-activation.php:2688
+msgid "No plugins are available to be installed at this time."
+msgstr "لا يوجد اي اضافات للتثبيت في الوقت الحالي."
+
+#: inc/tgm/tgm-plugin-activation.php:2690
+msgid "No plugins are available to be updated at this time."
+msgstr "لا اضافات متاحة ليتم تحديتها في هذاالوقت"
+
+#: inc/tgm/tgm-plugin-activation.php:2795
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لم يتم تحديد أي إضافات للتفعيل. لم يتم إتخاذ أي إجراء."
+
+#: inc/tgm/tgm-plugin-activation.php:2821
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "لا يوجد اي اضافات للتفعيل في الوقت الحالي"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgm/tgm-plugin-activation.php:3036
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل الاضافة"
+
+#: inc/tgm/tgm-plugin-activation.php:3370
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "تحديث الإضافة %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3372
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء عملية التثبيت %1$s: <strong>%2$s</strong>."
+
+#: inc/tgm/tgm-plugin-activation.php:3373
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "فشل تثبيت %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:3377
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"عملية التثبيت والتفعيل بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى التحلي "
+"بالصبر."
+
+#: inc/tgm/tgm-plugin-activation.php:3378
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تم التثبيت و التفعيل بنجاح ."
+
+#: inc/tgm/tgm-plugin-activation.php:3379
+msgid "All installations and activations have been completed."
+msgstr "جميع التنزيلات والتفعيل اكتملت"
+
+#: inc/tgm/tgm-plugin-activation.php:3380
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتفعيل الإضافة %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3383
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى الانتظار ."
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s تم التثبيت بنجاح."
+
+#: inc/tgm/tgm-plugin-activation.php:3385
+msgid "All installations have been completed."
+msgstr "تم اكتمال جميع عمليات تثبيت سكربت الرمز العبقري | Genius Icon ."
+
+#: inc/tgm/tgm-plugin-activation.php:3386
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت الإضافة %1$s (%2$d/%3$d)"
+
+#: buddypress/common/search-and-filters-bar.php:16
+#, fuzzy
+msgid "RSS Feed"
+msgstr "RSS"
+
+#: buddypress/common/search-and-filters-bar.php:17
+msgid "RSS"
+msgstr "RSS"
+
+#: buddypress/members/members-loop.php:29
+#: inc/vc/modules/stm_lms_featured_teacher.php:28
+msgid "Instructor"
+msgstr "المدرس"
+
+#: buddypress/members/members-loop.php:29
+msgid "Student"
+msgstr "طالب"
+
+#: paid-memberships-pro/pages/levels.php:30
+msgid "Membership plans"
+msgstr "العضوية"
+
+#: paid-memberships-pro/pages/levels.php:43
+msgid "All"
+msgstr "الكل"
+
+#: paid-memberships-pro/pages/levels.php:46
+msgid "Get now"
+msgstr "اشترك الان"
+
+#: paid-memberships-pro/pages/levels.php:50
+msgid "Renew"
+msgstr "تجديد"
+
+#: paid-memberships-pro/pages/levels.php:53
+msgid "Your Level"
+msgstr "المستوى"
+
+#: paid-memberships-pro/pages/levels.php:86
+#, php-format
+msgid "per %s"
+msgstr "لكل %s"
+
+#: paid-memberships-pro/pages/levels.php:96
+#, php-format
+msgid "Courses included: %s"
+msgstr "دروس مضمنة %s"
+
+#: paid-memberships-pro/pages/levels.php:101
+#, php-format
+msgid "Featured courses quote included: %s"
+msgstr "تتضمن الدروس المميزة %s"
+
+#: paid-memberships-pro/pages/confirmation.php:12
+msgid ""
+"Your payment has been submitted. Your membership will be activated shortly."
+msgstr "تم الدفع. سيتم تفعيل عضويتك قريبا."
+
+#: paid-memberships-pro/pages/confirmation.php:14
+#, php-format
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr "شكرا لشراء العضوية ل %s . العضوية %s نشطة الآن."
+
+#: paid-memberships-pro/pages/confirmation.php:28
+#, php-format
+msgid ""
+"Below are details about your membership account and a receipt for your "
+"initial membership invoice. A welcome email with a copy of your initial "
+"membership invoice has been sent to %s."
+msgstr ""
+"وفيما يلي تفاصيل عن حساب عضويتك وإيصال الخاص فاتورة عضوية الأولية. تم إرسال "
+"البريد الإلكتروني ترحيب بنسخة من الفاتورة الخاصة بك عضوية أولية ل %s ."
+
+#: paid-memberships-pro/pages/confirmation.php:47
+#, php-format
+msgid "Invoice #%s on %s"
+msgstr "فاتورة #%s على %s"
+
+#: paid-memberships-pro/pages/confirmation.php:49
+msgid "Print"
+msgstr "طباعة"
+
+#: paid-memberships-pro/pages/confirmation.php:52
+#: paid-memberships-pro/pages/confirmation.php:124
+msgid "Account"
+msgstr "حساب"
+
+#: paid-memberships-pro/pages/confirmation.php:53
+#: paid-memberships-pro/pages/confirmation.php:127
+#: paid-memberships-pro/pages/checkout.php:48
+msgid "Membership Level"
+msgstr "مرحلة العضوية"
+
+#: paid-memberships-pro/pages/confirmation.php:55
+msgid "Membership Expires"
+msgstr "انتهاء صلاحية العضوية"
+
+#: paid-memberships-pro/pages/confirmation.php:58
+#: paid-memberships-pro/pages/checkout.php:93
+#: paid-memberships-pro/pages/checkout.php:119
+#: paid-memberships-pro/pages/checkout.php:726
+msgid "Discount Code"
+msgstr "كود الخصم"
+
+#: paid-memberships-pro/pages/confirmation.php:66
+#: paid-memberships-pro/pages/checkout.php:378
+#: paid-memberships-pro/pages/billing.php:104
+msgid "Billing Address"
+msgstr "عنوان الدفع"
+
+#: paid-memberships-pro/pages/confirmation.php:79
+msgid "Payment Method"
+msgstr "وسيلة الدفع"
+
+#: paid-memberships-pro/pages/confirmation.php:80
+msgid "ending in"
+msgstr "تنتهي في"
+
+#: paid-memberships-pro/pages/confirmation.php:81
+msgid "Expiration"
+msgstr "تاريخ الانتهاء"
+
+#: paid-memberships-pro/pages/confirmation.php:88
+msgid "Total Billed"
+msgstr "المجموع:"
+
+#: paid-memberships-pro/pages/confirmation.php:92
+msgid "Tax"
+msgstr "الضرائب"
+
+#: paid-memberships-pro/pages/confirmation.php:94
+msgid "Coupon"
+msgstr "قسيمة"
+
+#: paid-memberships-pro/pages/confirmation.php:111
+#, php-format
+msgid ""
+"Below are details about your membership account. A welcome email has been "
+"sent to %s."
+msgstr ""
+"وفيما يلي تفاصيل عن حساب عضويتك. تم إرسال البريد الإلكتروني والترحيب ل %s ."
+
+#: paid-memberships-pro/pages/confirmation.php:128
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: paid-memberships-pro/pages/confirmation.php:138
+msgid "View Your Account"
+msgstr "عرض عضوية حسابك"
+
+#: paid-memberships-pro/pages/confirmation.php:140
+msgid ""
+"If your account is not activated within a few minutes, please contact the "
+"site owner."
+msgstr "إذا لم يتم تنشيط حسابك في غضون بضع دقائق، يرجى الاتصال بمالك الموقع."
+
+#: paid-memberships-pro/pages/checkout.php:41
+msgid ""
+"Almost done. Review the membership information and pricing below then "
+"<strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr ""
+"فعلت تقريبا. مراجعة المعلومات عضوية والتسعير أدناه ثم على <strong> انقر على "
+"زر  \"الدفع الكامل \" </strong> لإنهاء طلبك."
+
+#: paid-memberships-pro/pages/checkout.php:50
+msgid "Change level"
+msgstr "تغيير المستوى"
+
+#: paid-memberships-pro/pages/checkout.php:62
+msgid "Membership level:"
+msgstr "مستوى العضوية"
+
+#: paid-memberships-pro/pages/checkout.php:65
+#, php-format
+msgid ""
+"<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has "
+"been applied to your order.</p>"
+msgstr ""
+"<ع الطبقة =  \"pmpro_level_discount_applied \"> وعلى <strong> %s </ قوي> تم "
+"تطبيق كود لطلبك. </ P>"
+
+#: paid-memberships-pro/pages/checkout.php:70
+msgid "Price:"
+msgstr "السعر:"
+
+#: paid-memberships-pro/pages/checkout.php:72
+msgid "Expires after:"
+msgstr "تنتهي بعد :"
+
+#: paid-memberships-pro/pages/checkout.php:72
+#, php-format
+msgid "%d %s"
+msgstr "%d %s"
+
+#: paid-memberships-pro/pages/checkout.php:83
+msgid "Click here to change your discount code"
+msgstr "اضغط هنا لتغيير كود الخصم"
+
+#: paid-memberships-pro/pages/checkout.php:87
+msgid "Do you have a discount code?"
+msgstr "هل لديك كود خصم؟"
+
+#: paid-memberships-pro/pages/checkout.php:89
+msgid "Click here to enter your discount code"
+msgstr "اضغط هنا لإدخال كود الخصم"
+
+#: paid-memberships-pro/pages/checkout.php:110
+msgid "Description:"
+msgstr "الوصف:"
+
+#: paid-memberships-pro/pages/checkout.php:124
+#: paid-memberships-pro/pages/checkout.php:731
+msgid "Apply"
+msgstr "تطبيق"
+
+#: paid-memberships-pro/pages/checkout.php:210
+msgid "Account Information"
+msgstr "معلومات الحساب"
+
+#: paid-memberships-pro/pages/checkout.php:211
+msgid "Already have an account?"
+msgstr "هل لديك حساب؟"
+
+#: paid-memberships-pro/pages/checkout.php:212
+msgid "Login here"
+msgstr "أنقر هنا لتسجيل الدخول"
+
+#: paid-memberships-pro/pages/checkout.php:242
+msgid "Confirm Password"
+msgstr "تأكيد كلمة السر"
+
+#: paid-memberships-pro/pages/checkout.php:260
+#: paid-memberships-pro/pages/checkout.php:527
+#: paid-memberships-pro/pages/billing.php:250
+msgid "E-mail Address"
+msgstr "البريد الالكتروني"
+
+#: paid-memberships-pro/pages/checkout.php:271
+msgid "Confirm E-mail Address"
+msgstr "تأكيد عنوان البريد"
+
+#: paid-memberships-pro/pages/checkout.php:291
+msgid "Full Name"
+msgstr "الاسم بالكامل"
+
+#: paid-memberships-pro/pages/checkout.php:294
+msgid "LEAVE THIS BLANK"
+msgstr "اتركها فارغة"
+
+#: paid-memberships-pro/pages/checkout.php:317
+msgid "log in"
+msgstr "تسجيل الدخول"
+
+#: paid-memberships-pro/pages/checkout.php:320
+msgid "log out now"
+msgstr " تسجيل الخروج الآن"
+
+#: paid-memberships-pro/pages/checkout.php:326
+#, php-format
+msgid ""
+"You are logged in as <strong>%s</strong>. If you would like to use a "
+"different account for this membership, <a href=\"%s\">%s</a>."
+msgstr ""
+"أنت مسجل دخولك باسم على <strong>%s</strong>. إذا كنت ترغب في استخدام حساب "
+"مختلف لهذه العضوية، <a href=\"%s\">%s</a>."
+
+#: paid-memberships-pro/pages/checkout.php:343
+msgid "Choose your Payment Method"
+msgstr "اختار عملية الدفع "
+
+#: paid-memberships-pro/pages/checkout.php:354
+msgid "Check Out with a Credit Card Here"
+msgstr "الدفع بواسطة بطاقة الائتمان هنا"
+
+#: paid-memberships-pro/pages/checkout.php:360
+msgid "Check Out with PayPal"
+msgstr "ادفع بواسطة الباي بال"
+
+#: paid-memberships-pro/pages/checkout.php:386
+#: paid-memberships-pro/pages/billing.php:108
+msgid "First Name"
+msgstr "الاسم الاول"
+
+#: paid-memberships-pro/pages/checkout.php:392
+#: paid-memberships-pro/pages/billing.php:114
+msgid "Last Name"
+msgstr "الاسم الاخير"
+
+#: paid-memberships-pro/pages/checkout.php:398
+#: paid-memberships-pro/pages/billing.php:120
+msgid "Address 1"
+msgstr "العنوان ١"
+
+#: paid-memberships-pro/pages/checkout.php:404
+#: paid-memberships-pro/pages/billing.php:126
+msgid "Address 2"
+msgstr "العنوان ٢"
+
+#: paid-memberships-pro/pages/checkout.php:415
+#: paid-memberships-pro/pages/billing.php:138
+msgid "City"
+msgstr "المدينة"
+
+#: paid-memberships-pro/pages/checkout.php:421
+#: paid-memberships-pro/pages/billing.php:144
+msgid "State"
+msgstr "المحافظة"
+
+#: paid-memberships-pro/pages/checkout.php:427
+#: paid-memberships-pro/pages/billing.php:150
+msgid "Postal Code"
+msgstr "كود البريد"
+
+#: paid-memberships-pro/pages/checkout.php:436
+#: paid-memberships-pro/pages/billing.php:159
+msgid "City, State Zip"
+msgstr "المدينة، مفتاح المدينة"
+
+#: paid-memberships-pro/pages/checkout.php:489
+#: paid-memberships-pro/pages/billing.php:212
+msgid "Country"
+msgstr "البلد"
+
+#: paid-memberships-pro/pages/checkout.php:538
+#: paid-memberships-pro/pages/billing.php:257
+msgid "Confirm E-mail"
+msgstr "تأكيد البريد الالكتروني"
+
+#: paid-memberships-pro/pages/checkout.php:579
+msgid "Payment Information"
+msgstr "معلومات الدفع"
+
+#: paid-memberships-pro/pages/checkout.php:580
+#, php-format
+msgid "We Accept %s"
+msgstr "نحن نقبل  %s"
+
+#: paid-memberships-pro/pages/checkout.php:602
+#: paid-memberships-pro/pages/billing.php:295
+msgid "Card Type"
+msgstr "نوع البطاقة"
+
+#: paid-memberships-pro/pages/checkout.php:648
+#: paid-memberships-pro/pages/billing.php:335
+msgid "Card Number"
+msgstr "رقم البطاقة"
+
+#: paid-memberships-pro/pages/checkout.php:657
+#: paid-memberships-pro/pages/billing.php:341
+msgid "Expiration Date"
+msgstr "تاريخ الانتهاء"
+
+#: paid-memberships-pro/pages/checkout.php:713
+#: paid-memberships-pro/pages/billing.php:400
+msgid "CVV"
+msgstr "الرقم السري"
+
+#: paid-memberships-pro/pages/checkout.php:719
+#: paid-memberships-pro/pages/billing.php:406
+msgid "what's this?"
+msgstr "ما هذا؟"
+
+#: paid-memberships-pro/pages/checkout.php:803
+#, php-format
+msgid "I agree to the %s"
+msgstr "اوافق على  %s"
+
+#: paid-memberships-pro/pages/checkout.php:824
+msgid "Complete Payment"
+msgstr "انهاء الدفع"
+
+#: paid-memberships-pro/pages/checkout.php:836
+msgid "Submit and Check Out"
+msgstr "اعتمد وادفع"
+
+#: paid-memberships-pro/pages/checkout.php:838
+msgid "Submit and Confirm"
+msgstr "تأكيد الدفع"
+
+#: paid-memberships-pro/pages/checkout.php:849
+msgid "Processing..."
+msgstr "معالجة..."
+
+#: paid-memberships-pro/pages/billing.php:22
+#, php-format
+msgid "Logged in as <strong>%s</strong>."
+msgstr "مسجل الدخول كـ <strong>%s</strong>."
+
+#: paid-memberships-pro/pages/billing.php:24
+msgid "logout"
+msgstr "تسجيل الخروج"
+
+#: paid-memberships-pro/pages/billing.php:44
+msgid "Level"
+msgstr "المستوى"
+
+#: paid-memberships-pro/pages/billing.php:46
+msgid "Membership Fee"
+msgstr "عمولة الاشتراك"
+
+#: paid-memberships-pro/pages/billing.php:50
+#, php-format
+msgid "%s every %d %s."
+msgstr "%s كل  %d %s."
+
+#: paid-memberships-pro/pages/billing.php:52
+#, php-format
+msgid "%s per %s."
+msgstr "بواسطة %s"
+
+#: paid-memberships-pro/pages/billing.php:82
+#: paid-memberships-pro/pages/billing.php:83
+msgid ""
+"Your payment subscription is managed by PayPal. Please login to PayPal to "
+"update your billing information."
+msgstr ""
+"يدير PayPal اشتراك الدفع الخاص بك. يرجى تسجيل الدخول إلى PayPal لتحديث "
+"معلومات الفواتير الخاصة بك."
+
+#: paid-memberships-pro/pages/billing.php:130
+msgid "optional"
+msgstr "اختياري"
+
+#: paid-memberships-pro/pages/billing.php:283
+msgid "Credit Card Information"
+msgstr "بيانات بطاقة الائتمان"
+
+#: paid-memberships-pro/pages/billing.php:284
+#, php-format
+msgid "We accept %s"
+msgstr "نحن نقبل  %s"
+
+#: paid-memberships-pro/pages/billing.php:438
+msgid ""
+"This subscription is not recurring. So you don't need to update your billing "
+"information."
+msgstr ""
+"هذا الاشتراك ليس متكرر. لذلك لا تحتاج لتحديث المعلومات الخاصة بالفاتورة."
+
+#: partials/footers/copyright.php:16 partials/footers/copyright.php:18
+#, fuzzy
+msgid "Footer logo"
+msgstr "الفوتر"
+
+#: partials/footers/copyright.php:23
+#, php-format
+msgctxt "Footer Copyright text"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/header_4.php:17 partials/headers/mobile/menu.php:6
+#: partials/headers/parts/menu.php:16
+msgid "Menu"
+msgstr "القائمة"
+
+#: partials/headers/header_default.php:36
+#, fuzzy
+msgid "Search..."
+msgstr "بحث بواسطة"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:8
+msgid "STM LMS Recent Courses"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_recent_courses.php:11
+#: inc/vc/modules/stm_lms_courses_grid.php:14
+#, fuzzy
+msgid "Show Recent Courses"
+msgstr "الدورات"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:13
+#: inc/vc/modules/stm_lms_instructors_carousel.php:14
+#: inc/vc/modules/stm_image_box.php:13 inc/vc/modules/stm_image_box.php:55
+#: inc/vc/modules/stm_lms_courses_grid.php:16
+#: inc/vc/modules/stm_lms_single_course_carousel.php:16
+#: inc/vc/modules/buddypress_instructors.php:13
+#: inc/vc/modules/stm_courses_searchbox.php:13
+#: inc/vc/modules/stm_lms_courses_categories.php:16
+#: inc/vc/modules/buddypress_groups.php:13
+#: inc/vc/modules/stm_lms_featured_teacher.php:23
+#: inc/vc/modules/stm_lms_courses_carousel.php:16
+msgid "Content"
+msgstr "المحتوى"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:18
+#: inc/vc/modules/stm_lms_courses_grid.php:94
+#, fuzzy
+msgid "Number of courses to show"
+msgstr "عدد الدورات"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:23
+#: inc/vc/modules/stm_lms_courses_grid.php:71
+#: inc/vc/modules/stm_lms_courses_carousel.php:108
+#, fuzzy
+msgid "Image size (Ex. : 200x100)"
+msgstr "حجم الصورة المميز"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:28
+#: inc/vc/modules/stm_lms_instructors_carousel.php:24
+#, fuzzy
+msgid "Per row"
+msgstr "كم عدد العبوةات التي ينبغي عرضها لكل صف؟"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:9
+msgid "STM LMS Instructors Carousel"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:12
+#, fuzzy
+msgid "Display Instructors in Styled Carousel"
+msgstr "Insert the number of products to display in the carousel"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:30
+#, fuzzy
+msgid "Per row on Notebook"
+msgstr "العبوةات لكل صفحة"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:36
+#, fuzzy
+msgid "Per row on Tablet"
+msgstr "العبوةات لكل صفحة"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:42
+#, fuzzy
+msgid "Per row on Mobile"
+msgstr "العبوةات لكل صفحة"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:53
+msgid "Sort By"
+msgstr "فرز حسب"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:62
+#: inc/vc/modules/stm_lms_single_course_carousel.php:32
+#: inc/vc/modules/stm_lms_courses_carousel.php:42
+#, fuzzy
+msgid "Prev/Next Buttons"
+msgstr "السابق"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:72
+#: inc/vc/modules/stm_lms_single_course_carousel.php:42
+#: inc/vc/modules/stm_lms_courses_carousel.php:52
+#, fuzzy
+msgid "Pagination"
+msgstr "Pagination Type"
+
+#: inc/vc/modules/stm_image_box.php:8
+#, fuzzy
+msgid "STM Image box"
+msgstr "صندوق البحث"
+
+#: inc/vc/modules/stm_image_box.php:11
+#, fuzzy
+msgid "Image box"
+msgstr "صندوق البحث"
+
+#: inc/vc/modules/stm_image_box.php:29
+#, fuzzy
+msgid "Align"
+msgstr "If left align is selected."
+
+#: inc/vc/modules/stm_image_box.php:60
+#, fuzzy
+msgid "Button"
+msgstr "نص الزر"
+
+#: inc/vc/modules/stm_image_box.php:74
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "لون الايقونة"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:11
+msgid "STM LMS Courses Grid"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_courses_grid.php:21
+#, fuzzy
+msgid "Hide Top bar"
+msgstr "Hide percentage bar?"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:40
+#, fuzzy
+msgid "Load more"
+msgstr "عرض المزيد"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:50
+#: inc/vc/modules/stm_lms_single_course_carousel.php:21
+#: inc/vc/modules/stm_lms_courses_carousel.php:31
+msgid "Sort"
+msgstr "ترتيب"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:60
+#, fuzzy
+msgid "Courses Per Row"
+msgstr "العبوةات لكل صفحة"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:76
+#: inc/vc/modules/stm_lms_courses_carousel.php:90
+#, fuzzy
+msgid "Show Courses From categories:"
+msgstr "كل الأقسام"
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:11
+msgid "STM LMS Single Course Carousel"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:14
+msgid "Display Signle Course in Styled Carousel"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:52
+#: inc/vc/modules/stm_lms_courses_categories.php:21
+#: inc/vc/modules/stm_lms_courses_carousel.php:72
+#, fuzzy
+msgid "Select taxonomy"
+msgstr "تمكين مستويات التصنيف"
+
+#: inc/vc/modules/buddypress_instructors.php:8
+#, fuzzy
+msgid "STM BuddyPress instructors"
+msgstr "المدربين"
+
+#: inc/vc/modules/buddypress_instructors.php:11
+#, fuzzy
+msgid "BuddyPress instructors"
+msgstr "المدربين"
+
+#: inc/vc/modules/buddypress_instructors.php:23
+msgid "Subtitle"
+msgstr "عنوان فرعي"
+
+#: inc/vc/modules/stm_courses_searchbox.php:8
+#, fuzzy
+msgid "STM Courses Search box"
+msgstr "البحث عن الدورات"
+
+#: inc/vc/modules/stm_courses_searchbox.php:11
+#, fuzzy
+msgid "Search in LMS Courses"
+msgstr "البحث عن الدورات"
+
+#: inc/vc/modules/stm_lms_courses_categories.php:11
+msgid "STM LMS Courses Categories"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_courses_categories.php:14
+#, fuzzy
+msgid "Show Courses Categories"
+msgstr "عرض التصنيفات"
+
+#: inc/vc/modules/buddypress_groups.php:8
+#, fuzzy
+msgid "STM BuddyPress groups"
+msgstr "Buddypress"
+
+#: inc/vc/modules/buddypress_groups.php:11
+#, fuzzy
+msgid "BuddyPress groups"
+msgstr "Buddypress"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:18
+msgid "STM LMS Featured Teacher"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:21
+#, fuzzy
+msgid "Place Single Teacher"
+msgstr "المحاضر"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:34
+#, fuzzy
+msgid "Instructor Position"
+msgstr "الموقع"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:39
+#, fuzzy
+msgid "Instructor Bio"
+msgstr "نبذة"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:11
+msgid "STM LMS Courses Carousel"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:14
+#, fuzzy
+msgid "Display Courses in Styled Carousel"
+msgstr "عدد الدورات للعرض في كل صفحة"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:62
+msgid "Show categories"
+msgstr "عرض التصنيفات"
+
+#. %s = last activity timestamp (e.g. "active 1 hour ago")
+#: buddypress/groups/single/cover-image-header.php:35
+#, php-format
+msgid "active %s"
+msgstr "نشيط %s"
+
+#: buddypress/common/nav/directory-nav.php:10
+#, fuzzy
+msgid "Directory menu"
+msgstr "دليل السجلات."
+
+#: buddypress/common/nav/directory-nav.php:38
+msgid "Instructors"
+msgstr "المدربين"
+
+#: buddypress/members/single/home.php:50
+#, fuzzy
+msgid "Member primary navigation"
+msgstr "قائمة التنقل الأساسية"
+
+#: partials/vc_parts/courses_categories/style_1.php:58
+#: partials/vc_parts/courses_categories/style_2.php:59
+#, fuzzy, php-format
+msgid "%s Courses"
+msgstr "courses"
+
+#: partials/vc_parts/product_categories/stm_vc_product_cat_card.php:29
+#, fuzzy, php-format
+msgid "%s Program"
+msgid_plural "%s Programs"
+msgstr[0] "الحصول على جدول التعليم"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: partials/buddypress/instructors-carousel/instructor-single.php:53
+#, fuzzy, php-format
+msgid "Courses: %s"
+msgstr "الدورات التدريسية  <span>%s</span>"
+
+#: partials/headers/mobile/account.php:39
+msgid "My Profile"
+msgstr "ملفي الشخصي"
+
+#: partials/headers/mobile/account.php:47
+#, fuzzy
+msgid "Login/Sign Up"
+msgstr "البريد في التسجيل/الدخول"
+
+#: partials/headers/mobile/account.php:56
+msgid "My Courses"
+msgstr "دروسي"
+
+#: partials/headers/mobile/account.php:64
+#, fuzzy
+msgid "Messages"
+msgstr "جميع الرسائل"
+
+#: partials/headers/mobile/account.php:71
+msgid "Favorites"
+msgstr "المفضلة"
+
+#: partials/headers/mobile/account.php:76
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:45
+msgid "Settings"
+msgstr "الاعدادات"
+
+#: partials/headers/mobile/account.php:83 partials/headers/parts/links.php:22
+#: partials/headers/parts/links.php:29
+msgid "Become an Instructor"
+msgstr "كن مدرساً"
+
+#: partials/headers/mobile/account.php:89 partials/headers/parts/links.php:36
+msgid "For Enterprise"
+msgstr ""
+
+#: partials/headers/mobile/account.php:95
+msgid "Logout"
+msgstr "الخروج"
+
+#: partials/headers/parts/data_info.php:16
+#, php-format
+msgctxt "Top bar Working hours"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/data_info.php:21
+#, php-format
+msgctxt "Top bar address"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/data_info.php:26
+#, php-format
+msgctxt "Top bar phone"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/wpml_switcher.php:41
+msgid "English"
+msgstr "انجليزي"
+
+#: partials/headers/parts/log-in.php:19
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: partials/headers/parts/courses-search.php:22
+#, fuzzy
+msgid "Search courses"
+msgstr "البحث عن الدورات"
+
+#: partials/headers/parts/woocommerce_login.php:14
+#: partials/headers/parts/woocommerce_login.php:15
+#: partials/headers/parts/woocommerce_login.php:39
+#: partials/headers/parts/woocommerce_login.php:40
+#, fuzzy
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: partials/headers/parts/courses_categories_with_search.php:39
+msgid "Search Courses"
+msgstr "البحث عن الدورات"
+
+#: partials/headers/parts/categories.php:12
+msgid "Category"
+msgstr "التصنيف"
+
+#: partials/headers/parts/sign-up.php:3
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#: inc/admin/product_registration/includes/theme.php:186
+#, fuzzy
+msgid "Error occured"
+msgstr "دث خطأ غير متوقع أثناء الحصول على الوظائف الإضافية"
+
+#: inc/admin/product_registration/includes/admin_screens.php:33
+#: inc/admin/product_registration/includes/admin_screens.php:34
+#, fuzzy
+msgid "Install demos"
+msgstr "غير مثبت"
+
+#: inc/admin/product_registration/includes/admin_screens.php:43
+#: inc/admin/product_registration/includes/admin_screens.php:44
+#: inc/admin/product_registration/includes/admin_screens.php:145
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: inc/admin/product_registration/includes/admin_screens.php:53
+#: inc/admin/product_registration/includes/admin_screens.php:54
+msgid "System status"
+msgstr "حالة النظام"
+
+#: inc/admin/product_registration/includes/admin_screens.php:62
+#: inc/admin/product_registration/includes/admin_screens.php:63
+#: inc/admin/product_registration/includes/admin_screens.php:149
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:42
+#, fuzzy
+msgid "Plugins"
+msgstr "Active Plugins"
+
+#: inc/admin/product_registration/includes/admin_screens.php:132
+#, php-format
+msgid "Welcome to %s"
+msgstr "مرحبا بك في %s"
+
+#: inc/admin/product_registration/includes/admin_screens.php:135
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful. "
+"Please register your purchase to get automatic theme updates, import %1$s "
+"demos and install premium plugins. Read below for additional information. We "
+"hope you enjoy it! %s"
+msgstr ""
+
+#: inc/admin/product_registration/includes/admin_screens.php:135
+msgid "Watch Our Quick Guided Tour!"
+msgstr ""
+
+#: inc/admin/product_registration/includes/admin_screens.php:143
+msgid "Registration"
+msgstr "التسجيل"
+
+#: inc/admin/product_registration/includes/admin_screens.php:144
+#: inc/admin/product_registration/includes/admin_screens.php:150
+#, fuzzy
+msgid "Install Demos"
+msgstr "غير مثبت"
+
+#: inc/admin/product_registration/includes/admin_screens.php:147
+#, fuzzy
+msgid "System Status"
+msgstr "حالة النظام"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+
+#: inc/admin/product_registration/screens/support.php:18
+#, fuzzy
+msgid "Create A Support Account"
+msgstr "إنشاء حساب؟"
+
+#: inc/admin/product_registration/screens/support.php:32
+#, fuzzy
+msgid "Ticket System"
+msgstr "نظام التذاكر"
+
+#: inc/admin/product_registration/screens/support.php:35
+msgid ""
+"We offer excellent 24/7 support through our advanced ticket system. To access "
+"the ticket system dashboard, please register with your purchase code."
+msgstr ""
+
+#: inc/admin/product_registration/screens/support.php:38
+#, fuzzy
+msgid "Submit a ticket"
+msgstr "اعتمد التذكرة"
+
+#: inc/admin/product_registration/screens/support.php:49
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/admin/product_registration/screens/support.php:52
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+
+#: inc/admin/product_registration/screens/support.php:55
+msgid "Learn more"
+msgstr "تفاصيل أكثر"
+
+#: inc/admin/product_registration/screens/support.php:69
+#, fuzzy
+msgid "Video Tutorials"
+msgstr "Video"
+
+#: inc/admin/product_registration/screens/support.php:72
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+
+#: inc/admin/product_registration/screens/support.php:76
+#, fuzzy
+msgid "Watch Videos"
+msgstr "شاهد الفيديو"
+
+#: inc/admin/product_registration/screens/support.php:87
+#, fuzzy
+msgid "Community Forum"
+msgstr "المنتديات الاجتماعية"
+
+#: inc/admin/product_registration/screens/support.php:90
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+
+#: inc/admin/product_registration/screens/support.php:93
+#, fuzzy
+msgid "Visit Our Forum"
+msgstr "المنتدى"
+
+#: inc/admin/product_registration/screens/install_demo.php:10
+#, fuzzy
+msgid "Classic LMS"
+msgstr "أحمر كلاسيك"
+
+#: inc/admin/product_registration/screens/install_demo.php:13
+#, fuzzy
+msgid "LMS Light"
+msgstr "فاتح"
+
+#: inc/admin/product_registration/screens/install_demo.php:16
+#, fuzzy
+msgid "Udemy Affiliate"
+msgstr "منتج خارجي"
+
+#: inc/admin/product_registration/screens/install_demo.php:19
+msgid "Academy"
+msgstr ""
+
+#: inc/admin/product_registration/screens/install_demo.php:22
+#, fuzzy
+msgid "LMS Dark"
+msgstr "داكن"
+
+#: inc/admin/product_registration/screens/install_demo.php:28
+#, fuzzy
+msgid "Course Hub"
+msgstr "الدورة"
+
+#: inc/admin/product_registration/screens/install_demo.php:31
+#, fuzzy
+msgid "Private Instructor"
+msgstr "المدرس"
+
+#: inc/admin/product_registration/screens/install_demo.php:34
+#, fuzzy
+msgid "Language Center"
+msgstr "اللغة"
+
+#: inc/admin/product_registration/screens/install_demo.php:37
+#, fuzzy
+msgid "RTL Demo"
+msgstr "معاينة"
+
+#: inc/admin/product_registration/screens/install_demo.php:40
+#, fuzzy
+msgid "BuddyPress Demo"
+msgstr "Buddypress"
+
+#: inc/admin/product_registration/screens/install_demo.php:65
+msgid "Installed"
+msgstr "مثبَتة"
+
+#: inc/admin/product_registration/screens/install_demo.php:68
+msgid "Import"
+msgstr "الاستيراد"
+
+#: inc/admin/product_registration/screens/install_demo.php:80
+#, fuzzy
+msgid "Demo Installation"
+msgstr "معاينة"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+#: inc/admin/product_registration/screens/install_demo.php:177
+#, fuzzy
+msgid "Installed & Activated"
+msgstr "جميع الاضافات تم تفعيلها بنجاح . %1$s"
+
+#: inc/admin/product_registration/screens/install_demo.php:85
+#, fuzzy
+msgid "Not installed"
+msgstr "غير مثبت"
+
+#: inc/admin/product_registration/screens/install_demo.php:106
+#, fuzzy
+msgid "Demo content"
+msgstr "Please be patient. Importing the demo content may take a while."
+
+#: inc/admin/product_registration/screens/install_demo.php:112
+#, fuzzy
+msgid "Setup Layout"
+msgstr "المظهر"
+
+#: inc/admin/product_registration/screens/install_demo.php:117
+msgid "Please enter your Activation Token before running the MasterStudy."
+msgstr ""
+
+#: inc/admin/product_registration/screens/install_demo.php:176
+#, fuzzy
+msgid "Installing"
+msgstr "تثبيت الإضافة : %s"
+
+#: inc/admin/product_registration/screens/install_demo.php:229
+#, fuzzy
+msgid "Importing Demo"
+msgstr "Please be patient. Importing the demo content may take a while."
+
+#: inc/admin/product_registration/screens/install_demo.php:230
+msgid "Imported"
+msgstr "Imported"
+
+#: inc/admin/product_registration/screens/system_status.php:13
+#: inc/admin/product_registration/screens/system_status.php:17
+msgid "WordPress Environment"
+msgstr "WordPress Environment"
+
+#: inc/admin/product_registration/screens/system_status.php:22
+#, fuzzy
+msgid "Home URL:"
+msgstr "رابط الرئيسية."
+
+#: inc/admin/product_registration/screens/system_status.php:23
+msgid "The URL of your site's homepage."
+msgstr "The URL of your site's homepage."
+
+#: inc/admin/product_registration/screens/system_status.php:27
+#, fuzzy
+msgid "Site URL:"
+msgstr "رابط الموقع."
+
+#: inc/admin/product_registration/screens/system_status.php:28
+msgid "The root URL of your site."
+msgstr "The root URL of your site."
+
+#: inc/admin/product_registration/screens/system_status.php:32
+#, fuzzy
+msgid "WP Version:"
+msgstr "WP Version"
+
+#: inc/admin/product_registration/screens/system_status.php:33
+msgid "The version of WordPress installed on your site."
+msgstr "The version of WordPress installed on your site."
+
+#: inc/admin/product_registration/screens/system_status.php:37
+#, fuzzy
+msgid "WP Multisite:"
+msgstr "WP Multisite"
+
+#: inc/admin/product_registration/screens/system_status.php:38
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Whether or not you have WordPress Multisite enabled."
+
+#: inc/admin/product_registration/screens/system_status.php:42
+#, fuzzy
+msgid "WP Memory Limit:"
+msgstr "WP Memory Limit"
+
+#: inc/admin/product_registration/screens/system_status.php:43
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "The maximum amount of memory (RAM) that your site can use at one time."
+
+#: inc/admin/product_registration/screens/system_status.php:48
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br /> "
+"To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</strong> "
+"file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:52
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:59
+#, fuzzy
+msgid "WP Debug Mode:"
+msgstr "WP Debug Mode"
+
+#: inc/admin/product_registration/screens/system_status.php:60
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Displays whether or not WordPress is in Debug Mode."
+
+#: inc/admin/product_registration/screens/system_status.php:70
+#, fuzzy
+msgid "Language:"
+msgstr "اللغة"
+
+#: inc/admin/product_registration/screens/system_status.php:71
+msgid "The current language used by WordPress. Default = English"
+msgstr "The current language used by WordPress. Default = English"
+
+#: inc/admin/product_registration/screens/system_status.php:77
+#: inc/admin/product_registration/screens/system_status.php:81
+msgid "Server Environment"
+msgstr "Server Environment"
+
+#: inc/admin/product_registration/screens/system_status.php:86
+#, fuzzy
+msgid "Server Info:"
+msgstr "معلومات الخادم."
+
+#: inc/admin/product_registration/screens/system_status.php:87
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Information about the web server that is currently hosting your site."
+
+#: inc/admin/product_registration/screens/system_status.php:91
+#, fuzzy
+msgid "PHP Version:"
+msgstr "إصدار PHP."
+
+#: inc/admin/product_registration/screens/system_status.php:92
+msgid "The version of PHP installed on your hosting server."
+msgstr "The version of PHP installed on your hosting server."
+
+#: inc/admin/product_registration/screens/system_status.php:97
+#, fuzzy
+msgid "PHP Post Max Size:"
+msgstr "الحجم الأقصى لبيانات PHP المرسلة."
+
+#: inc/admin/product_registration/screens/system_status.php:98
+#, fuzzy
+msgid "The largest file size that can be contained in one post."
+msgstr "The largest filesize that can be contained in one post."
+
+#: inc/admin/product_registration/screens/system_status.php:102
+#, fuzzy
+msgid "PHP Time Limit:"
+msgstr "PHP Time Limit"
+
+#: inc/admin/product_registration/screens/system_status.php:103
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+
+#: inc/admin/product_registration/screens/system_status.php:109
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:113
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:120
+#, fuzzy
+msgid "PHP Max Input Vars:"
+msgstr "PHP Max Input Vars"
+
+#: inc/admin/product_registration/screens/system_status.php:121
+#: inc/admin/product_registration/screens/system_status.php:157
+#: inc/admin/product_registration/screens/system_status.php:186
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+
+#: inc/admin/product_registration/screens/system_status.php:141
+#: inc/admin/product_registration/screens/system_status.php:177
+#: inc/admin/product_registration/screens/system_status.php:206
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:149
+#, fuzzy
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN Installed"
+
+#: inc/admin/product_registration/screens/system_status.php:150
+#, fuzzy
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  If "
+"enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+
+#: inc/admin/product_registration/screens/system_status.php:156
+#, fuzzy
+msgid "Suhosin Post Max Vars:"
+msgstr "PHP Max Input Vars"
+
+#: inc/admin/product_registration/screens/system_status.php:185
+#, fuzzy
+msgid "Suhosin Request Max Vars:"
+msgstr "PHP Max Input Vars"
+
+#: inc/admin/product_registration/screens/system_status.php:214
+msgid "Suhosin Post Max Value Length:"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:215
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:221
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:230
+msgid "ZipArchive:"
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:231
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: inc/admin/product_registration/screens/system_status.php:235
+#, fuzzy
+msgid "MySQL Version:"
+msgstr "إصدار MySQL."
+
+#: inc/admin/product_registration/screens/system_status.php:236
+msgid "The version of MySQL installed on your hosting server."
+msgstr "The version of MySQL installed on your hosting server."
+
+#: inc/admin/product_registration/screens/system_status.php:246
+#, fuzzy
+msgid "Max Upload Size:"
+msgstr "Max Upload Size"
+
+#: inc/admin/product_registration/screens/system_status.php:247
+#, fuzzy
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+"The largest filesize that can be uploaded to your WordPress installation."
+
+#: inc/admin/product_registration/screens/system_status.php:253
+#: inc/admin/product_registration/screens/system_status.php:257
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+#: inc/admin/product_registration/screens/system_status.php:281
+msgid "Visit plugin homepage"
+msgstr "Visit plugin homepage"
+
+#: inc/admin/product_registration/screens/system_status.php:287
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+
+#: inc/admin/product_registration/screens/startup.php:67
+#, fuzzy
+msgid "Instructions For Generating A Token"
+msgstr "التوكن"
+
+#: inc/admin/product_registration/screens/startup.php:69
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in, "
+"you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+
+#: inc/admin/product_registration/screens/startup.php:70
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from the "
+"permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+
+#: inc/admin/product_registration/screens/startup.php:71
+msgid ""
+"A new page will load with a token number in a box. Copy the token number then "
+"come back to this registration page and paste it into the field below and "
+"click the <strong>Submit</strong> button."
+msgstr ""
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+
+#: buddypress/groups/single/parts/header-item-actions.php:13
+#, fuzzy
+msgid "Group Leadership"
+msgstr "المجموعة"
+
+#: buddypress/groups/single/parts/header-item-actions.php:16
+#, fuzzy
+msgid "Group Administrators"
+msgstr "المدراء"
+
+#: buddypress/groups/single/parts/header-item-actions.php:28
+#, fuzzy
+msgid "Group Mods"
+msgstr "المجموعة"
+
+#: buddypress/common/js-templates/messages/index.php:36
+#, fuzzy
+msgid "Send @Username"
+msgstr "ارسال الى (اسم مستخدم او اسم صديق)"
+
+#: buddypress/common/js-templates/messages/index.php:39
+msgid "Subject"
+msgstr "الموضوع"
+
+#: buddypress/common/js-templates/messages/index.php:47
+msgctxt "button"
+msgid "Send"
+msgstr "أرسل"
+
+#: buddypress/common/js-templates/messages/index.php:48
+msgctxt "form reset button"
+msgid "Reset"
+msgstr "إستعادة"
+
+#: buddypress/common/js-templates/messages/index.php:80
+#, fuzzy
+msgctxt "link"
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: buddypress/common/js-templates/messages/index.php:87
+msgctxt "link"
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#: buddypress/common/js-templates/messages/index.php:103
+msgid "All Messages"
+msgstr "جميع الرسائل"
+
+#: buddypress/common/js-templates/messages/index.php:107
+#, fuzzy
+msgid "Select bulk action"
+msgstr "فعل بواسطة المدرس"
+
+#: buddypress/common/js-templates/messages/index.php:116
+#: buddypress/common/js-templates/messages/index.php:118
+msgctxt "button"
+msgid "Apply"
+msgstr "تطبيق"
+
+#: buddypress/common/js-templates/messages/index.php:126
+#, fuzzy
+msgid "Select message:"
+msgstr "الرسالة"
+
+#: buddypress/common/js-templates/messages/index.php:132
+#: buddypress/common/js-templates/messages/index.php:143
+#: buddypress/common/js-templates/messages/index.php:275
+msgid "Avatar"
+msgstr "الصورة الرمزية"
+
+#: buddypress/common/js-templates/messages/index.php:133
+msgid "From:"
+msgstr "من:"
+
+#: buddypress/common/js-templates/messages/index.php:144
+msgid "To:"
+msgstr ""
+
+#: buddypress/common/js-templates/messages/index.php:162
+#, fuzzy
+msgid "Active conversation:"
+msgstr "صفحة المحادثة"
+
+#: buddypress/common/js-templates/messages/index.php:168
+#: buddypress/common/js-templates/messages/index.php:249
+msgid "Participants:"
+msgstr ""
+
+#: buddypress/common/js-templates/messages/index.php:184
+#: buddypress/common/js-templates/messages/index.php:185
+#: buddypress/common/js-templates/messages/index.php:261
+#: buddypress/common/js-templates/messages/index.php:262
+#, fuzzy
+msgid "Delete conversation."
+msgstr "صفحة المحادثة"
+
+#: buddypress/common/js-templates/messages/index.php:194
+msgid "Unstar"
+msgstr "غير مكتمل"
+
+#: buddypress/common/js-templates/messages/index.php:196
+#: buddypress/common/js-templates/messages/index.php:197
+#, fuzzy
+msgid "Unstar Conversation"
+msgstr "غير مكتمل"
+
+#: buddypress/common/js-templates/messages/index.php:205
+msgid "Star"
+msgstr "مكتمل"
+
+#: buddypress/common/js-templates/messages/index.php:206
+#: buddypress/common/js-templates/messages/index.php:207
+#, fuzzy
+msgid "Star Conversation"
+msgstr "صفحة المحادثة"
+
+#: buddypress/common/js-templates/messages/index.php:217
+#: buddypress/common/js-templates/messages/index.php:218
+#, fuzzy
+msgid "View full conversation and reply."
+msgstr "View the Full Changelog"
+
+#: buddypress/common/js-templates/messages/index.php:284
+#: buddypress/common/js-templates/messages/index.php:285
+#, fuzzy
+msgid "Unstar Message"
+msgstr "غير مكتمل"
+
+#: buddypress/common/js-templates/messages/index.php:288
+#: buddypress/common/js-templates/messages/index.php:289
+#, fuzzy
+msgid "Star Message"
+msgstr "تقييم"
+
+#: buddypress/common/js-templates/messages/index.php:334
+msgid "Send a Reply"
+msgstr "ارسال رد"
+
+#: buddypress/common/js-templates/messages/index.php:345
+#, fuzzy
+msgid "Reply to Message"
+msgstr "REPLY"
+
+#: buddypress/common/js-templates/messages/index.php:351
+msgctxt "button"
+msgid "Send Reply"
+msgstr "ارسال رد"
+
+#: inc/admin/product_registration/includes/envato-market/envato-market.php:157
+#: inc/admin/product_registration/includes/envato-market/envato-market.php:167
+#: inc/admin/product_registration/includes/envato-market/inc/items.php:100
+#: inc/admin/product_registration/includes/envato-market/inc/items.php:110
+#: inc/admin/product_registration/includes/envato-market/inc/github.php:87
+#: inc/admin/product_registration/includes/envato-market/inc/github.php:97
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:84
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:95
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:77
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:87
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: inc/admin/product_registration/includes/envato-market/inc/github.php:294
+#, php-format
+msgid ""
+"%sActivate the Envato Market plugin%s to get updates for your ThemeForest and "
+"CodeCanyon items."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/github.php:305
+#, php-format
+msgid ""
+"%sInstall the Envato Market plugin%s to get updates for your ThemeForest and "
+"CodeCanyon items."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:135
+#, fuzzy
+msgid "An API token is required."
+msgstr "ال API \"set\" مطلوب."
+
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:148
+#: inc/admin/product_registration/includes/envato-market/inc/api.php:152
+#, fuzzy
+msgid "An unknown API error occurred."
+msgstr "حدث خطأ غير معروف"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:69
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:261
+#, php-format
+msgid "Update %s now"
+msgstr "تحديث %s الآن"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:73
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:266
+msgid "Update Available"
+msgstr "تحديث متوفر"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:88
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:274
+#, fuzzy, php-format
+msgid "View version %1$s details."
+msgstr "تفاصيل %1$s #%2$s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:103
+#, fuzzy
+msgid "Customize"
+msgstr "عرض وتخصيص"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:103
+#, fuzzy, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "%s &#8220;%s&#8221; already exists."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:113
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:58
+#, fuzzy
+msgid "Site Enable"
+msgstr "Enable"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:113
+#, fuzzy, php-format
+msgid "Site Enable &#8220;%s&#8221;"
+msgstr "%s &#8220;%s&#8221; already exists."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:117
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:62
+#, fuzzy
+msgid "Network Enable"
+msgstr "تم تفعيل الشبكة"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:117
+#, fuzzy, php-format
+msgid "Network Enable &#8220;%s&#8221;"
+msgstr "نقل \"%s\" إلى سلة المهملات"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:130
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:66
+#, fuzzy, php-format
+msgid "Activate &#8220;%s&#8221;"
+msgstr "%s &#8220;%s&#8221; already exists."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:137
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:53
+#, fuzzy
+msgid "Live Preview"
+msgstr "معاينة القالب"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:137
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:53
+#, fuzzy, php-format
+msgid "Live Preview &#8220;%s&#8221;"
+msgstr "نقل \"%s\" إلى سلة المهملات"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:151
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:356
+#, fuzzy, php-format
+msgid "Install %s"
+msgstr "تثبيت %s الآن"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:169
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:374
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:433
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:892
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:928
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:177
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:382
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:441
+msgid "By"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:293
+#, fuzzy
+msgid "Deactivate"
+msgstr "تعطيل"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:294
+#, fuzzy, php-format
+msgid "Deactivate %s"
+msgstr "تعطيل"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:307
+#, fuzzy, php-format
+msgid "Delete %s"
+msgstr "عذراً، غير مسموح لك حذف %s."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:321
+#, fuzzy, php-format
+msgid "Activate %s"
+msgstr "يتطلب Dokan تثبيت WooCommerce ونشطته. يمكنك تفعيلs% هنا."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:331
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:110
+#, fuzzy
+msgid "Site Activate"
+msgstr "تفعيل"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:332
+#, fuzzy, php-format
+msgid "Site Activate %s"
+msgstr "تفعيل %2$s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:339
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:114
+#, fuzzy
+msgid "Network Activate"
+msgstr "تم تفعيل الشبكة"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/functions.php:340
+#, fuzzy, php-format
+msgid "Network Activate %s"
+msgstr "تفعيل %2$s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:34
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:72
+msgid "Downloading the Envato Market upgrade package&#8230;"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:45
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:83
+msgid "Downloading the Envato Market install package&#8230;"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:68
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:822
+#, fuzzy
+msgid "Return to Theme Installer"
+msgstr "الرجوع إلى مثبت الإضافات المطلوبة"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:103
+#, fuzzy
+msgid "Activate Plugin"
+msgstr "وتنشيط هذا البرنامج المساعد."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:118
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:764
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:789
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:847
+#, fuzzy
+msgid "Return to Plugin Installer"
+msgstr "الرجوع إلى مثبت الإضافات المطلوبة"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:204
+#, fuzzy
+msgid "You do not have sufficient permissions to delete transients."
+msgstr "ليس لديك صلاحية الوصول إلى هذه الصفحة"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:355
+msgid "Save"
+msgstr "Save"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:356
+msgid "Remove"
+msgstr "حذف"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:358
+#, fuzzy
+msgid "An unknown error occurred. Try again."
+msgstr "حدث خطأ غير معروف"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:378
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/settings.php:19
+#, fuzzy
+msgid "Test API Connection"
+msgstr "اتصال آمن (HTTPS)"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:396
+#, fuzzy
+msgid "Remove Item"
+msgstr "Remove item"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:397
+msgid ""
+"You are about to remove the connection between the Envato Market API and this "
+"item. You cannot undo this action."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:402
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:37
+msgid "Add Item"
+msgstr "إضافة عنصر"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:405
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:479
+msgid "Token"
+msgstr "التوكن"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:407
+#, fuzzy
+msgid "Enter the Envato API Personal Token."
+msgstr "الرجاء ادخال مفتاح API لـ Envato Marketplace ."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:408
+#, fuzzy
+msgid "Item ID"
+msgstr "مُعرف العنصر."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:410
+#, fuzzy
+msgid "Enter the Envato Item ID."
+msgstr "ال \"item ID\" الخاص بـEnvato Marketplace مطلوب."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:471
+msgid "Global OAuth Personal Token"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:488
+msgid "Single Use OAuth Personal Tokens"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:496
+#, fuzzy
+msgid "Envato Market Items"
+msgstr "Envato HQ"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:762
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:787
+#, fuzzy
+msgid "Installing Plugin..."
+msgstr "Installing Plugin: %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:763
+#, fuzzy
+msgid "You do not have sufficient permissions to install plugins on this site."
+msgstr "ليس لديك الصلاحيات الكافية لتعطيل الإضافات على هذا الموقع."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:788
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:846
+msgid "An error occurred, please check that the item ID is correct."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:820
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:845
+#, fuzzy
+msgid "Installing Theme..."
+msgstr "فيديو تعليمي لتثبيت الموضوع"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:821
+#, fuzzy
+msgid "You do not have sufficient permissions to install themes on this site."
+msgstr "ليس لديك الصلاحيات الكافية لتعطيل الإضافات على هذا الموقع."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:854
+#, fuzzy, php-format
+msgid "Installing Theme: %s"
+msgstr "تثبيت الإضافة : %s"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:896
+#, fuzzy
+msgid "You do not have sufficient permissions to update themes for this site."
+msgstr "ليس لديك الصلاحيات الكافية لتعطيل الإضافات على هذا الموقع."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:938
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+"غير قادر على الاتصال بنظام الملفات. يرجى تأكيد بيانات الاعتماد الخاصة بك."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:960
+#, fuzzy
+msgid "The Token is missing."
+msgstr "التوكن"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:962
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1054
+#, fuzzy
+msgid "The Item ID is missing."
+msgstr "مُعرف العنصر."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:973
+#, fuzzy
+msgid "The Token or Item ID is incorrect."
+msgstr "مُعرف العنصر."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:977
+#, fuzzy
+msgid "The item cannot be downloaded."
+msgstr "عنصر"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/admin.php:1040
+#, fuzzy
+msgid "An unknown error occurred."
+msgstr "حدث خطأ غير معروف"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/success-no-items.php:11
+msgid ""
+"Your OAuth Personal Token has been verified. However, there are no WordPress "
+"downloadable items in your account."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/success-single-use.php:11
+msgid "All Single Use OAuth Personal Tokens have been verified."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/error-single-use.php:11
+msgid ""
+"One or more Single Use OAuth Personal Tokens could not be verified and should "
+"be removed."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/error.php:11
+msgid ""
+"The OAuth Personal Token could not be verified. Please check that the Token "
+"has been entered correctly and has the minimum required permissions."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/notice/success.php:11
+msgid "Your OAuth Personal Token has been verified."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:28
+#, fuzzy
+msgid "Themes"
+msgstr "ووردبريس العرب"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/settings.php:17
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:12
+#, fuzzy
+msgid "Envato Market"
+msgstr "Envato HQ"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:13
+#, fuzzy
+msgid "Welcome!"
+msgstr "مرحبا"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:14
+msgid ""
+"This plugin can install WordPress themes and plugins purchased from "
+"ThemeForest & CodeCanyon by connecting with the Envato Market API using a "
+"secure OAuth personal token. Once your themes & plugins are installed "
+"WordPress will periodically check for updates, so keeping your items up to "
+"date is as simple as a few clicks."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:15
+msgid ""
+"You can add a global token to connect all your items from your account, and/"
+"or connect directly with a specific item using a singe-use token & item ID. "
+"When the global token and single-use token are set for the same item, the "
+"single-use token will be used to communicate with the API."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:18
+#, fuzzy
+msgid "Active Theme"
+msgstr "The installed version of the current active theme."
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:19
+msgid "Screenshot"
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/items.php:10
+msgid ""
+"Add Envato Market themes & plugins using multiple OAuth tokens. This is "
+"especially useful when an item has been purchased on behalf of a third-party. "
+"This works similarly to the global OAuth Personal Token, but for individual "
+"items and additionally requires the Envato Market item ID."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/items.php:12
+msgid "Warning: These tokens can be revoked by the account holder at any time."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:10
+msgid ""
+"OAuth is a protocol that lets external apps request authorization to private "
+"details in a user's Envato Market account without entering their password. "
+"This is preferred over Basic Authentication because tokens can be limited to "
+"specific types of data, and can be revoked by users at any time."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+#, php-format
+msgid "You will need to %s, and then insert it below."
+msgstr ""
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+#, fuzzy
+msgid "generate a personal token"
+msgstr "الحائط الشخصي"
+
+#: inc/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/token.php:12
+#, fuzzy
+msgid "Enter your Envato API Personal Token."
+msgstr "الرجاء ادخال مفتاح API لـ Envato Marketplace ."
+
+#. Name of the theme
+msgid "MasterStudy"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"MasterStudy is the best WordPress theme for the Education &amp; Learning "
+"Center - for educational organizations, who sell courses and organize classes "
+"locally. Using Masterstudy you can easily setup a WordPress site for your "
+"education company."
+msgstr ""
+
+#. URI of the theme
+#, fuzzy
+msgid "https://stylemixthemes.com/masterstudy/"
+msgstr "https://digits.unitedover.com"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr ""
+
+#. Author URI of the theme
+#, fuzzy
+msgid "https://stylemixthemes.com/"
+msgstr "https://www.unitedover.com/"

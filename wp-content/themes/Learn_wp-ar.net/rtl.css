@@ -1,0 +1,70 @@
+/*
+	Theme Name: LearnPress by wp-ar.net
+	Theme URI: https://wp-ar.net
+	Author: Raafat Araby
+	Author URI: https://wp-ar.net
+	Description: LearnPress is the best WordPress theme for the Education & Learning online. 
+	Version: 3.0.8
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Tags: classes, courses, education, education center, learning center, tutoring, teaching, study, studying, learning, lessons, instructor, teacher, mentor
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Tajawal&display=swap');
+
+body {font-family: Tajawal !important;}
+* {font-family: Tajawal;}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .nav-tabs > li > a, .member-name, .section-title, .user-name, .heading_font, .item-title, .acomment-meta, [type="reset"], .bp-subnavs, .activity-header, table, .widget_categories ul li a, .sidebar-area .widget ul li a, .select2-selection__rendered, blockquote, .select2-chosen, .vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-tabs-container .vc_tta-tabs-list li.vc_tta-tab a, .vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tabs-container .vc_tta-tabs-list li.vc_tta-tab a {
+	font-family: Tajawal !important;
+}
+
+.cols_4 aside {
+float: right !important;}
+
+.widget_contacts ul li .icon {
+    float: right!important;
+margin-left: 23px!important;
+margin-right: 0px!important;}
+
+.header_main_menu_wrapper .header-menu > li {
+float: right !important;}
+
+.stm_lms_user_side {
+    text-align: right !important;
+}
+
+.stm-lms-my-points {
+text-align: right !important;}
+
+.blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit {
+    position: absolute;
+right: 0;}
+
+.blog_layout_grid .post_list_item_title {
+padding-right: 20%;}
+
+.sidebar-area .widget ul li a::after {
+display: none;}
+
+.stm_lms_user_side {
+    text-align: center;
+}
+
+.stm-lms-buy-buttons .btn:not(.start-course).btn_big .btn-prices {
+    margin-right: auto;
+}
+
+th {
+    text-align: right !important;
+}
+
+@media (max-width: 991px){
+.logo-unit {
+    float: right !important;}
+
+.navbar-toggle {
+    float: left!important;}
+    
+}
